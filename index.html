@@ -58,19 +58,21 @@
     box-shadow: 0 5px 15px rgb(0 0 0 / 0.2);
   }
 
+/* Fondo oscuro en modo oscuro */
 body.tema-oscuro .folder,
 body.tema-oscuro .thumb {
   background: #1a1a1a;
-  border: 1px solid #444;
+  border: 1px solid #555;
 }
 
+/* Brillo dorado */
 body.tema-oscuro .folder:hover,
 body.tema-oscuro .thumb:hover {
   box-shadow: 
-    0 0 25px rgba(0, 180, 255, 0.9),   /* halo principal brillante */
-    0 0 45px rgba(0, 180, 255, 0.6),   /* halo intermedio */
-    0 0 70px rgba(0, 180, 255, 0.4);   /* halo muy difuso */
+    0 0 12px rgba(255, 215, 0, 0.9),  /* dorado intenso */
+    0 0 20px rgba(255, 215, 0, 0.6);  /* halo suave */
 }
+
   .folder img, .thumb img {
     max-width: 100%;
     max-height: 130px;
