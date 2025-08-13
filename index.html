@@ -541,6 +541,7 @@ let pswpElement = document.querySelectorAll('.pswp')[0];
 let galleryItems = [];
 let gallery;
 
+
 function iniciarPhotoSwipe() {
   // Creamos un array de objetos para PhotoSwipe con los datos de las imágenes en el DOM
   galleryItems = [];
@@ -570,28 +571,31 @@ function iniciarPhotoSwipe() {
       const options = {
         index: index,
         bgOpacity: 0.85,
-        showHideOpacity: true,
-        mouseUsed: true // aseguramos que se detecte el ratón
+        showHideOpacity: true
       };
       gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, galleryItems, options);
 
-      // Reemplazamos saltos de línea por <br> en los títulos
-      gallery.listen('gettingData', function(idx, item) {
+      // Reemplazar saltos de línea por <br> en la descripción
+      gallery.listen('gettingData', function(index, item) {
         if(item.title) {
           item.title = item.title.replace(/\n/g, '<br>').replace(/&lt;br&gt;/g, '<br>');
         }
       });
 
-      // Zoom con rueda del ratón
-      gallery.listen('mouseUsed', function() {
-        gallery.pswpElement.addEventListener('wheel', function(event) {
-          event.preventDefault();
-          if (event.deltaY < 0) {
-            gallery.zoomTo(gallery.getZoomLevel() * 1.1, {x: event.clientX, y: event.clientY});
-          } else {
-            gallery.zoomTo(gallery.getZoomLevel() / 1.1, {x: event.clientX, y: event.clientY});
-          }
-        });
+      // Zoom con la rueda del ratón en PC
+      gallery.listen('afterInit', function() {
+        gallery.container.addEventListener('wheel', function(ev) {
+          ev.preventDefault();
+          const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
+          const currZoom = gallery.getZoomLevel();
+          const newZoom = currZoom * zoomFactor;
+
+          const rect = gallery.container.getBoundingClientRect();
+          const x = ev.clientX - rect.left;
+          const y = ev.clientY - rect.top;
+
+          gallery.zoomTo(newZoom, { x: x, y: y });
+        }, { passive: false });
       });
 
       gallery.init();
