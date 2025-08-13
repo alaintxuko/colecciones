@@ -7,6 +7,9 @@
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
 <style>
+
+
+
   body {
     font-family: Arial, sans-serif;
     margin: 10px 20px 40px;
@@ -91,6 +94,46 @@
   box-sizing: border-box;
 }
 
+/* Tema oscuro */
+body.tema-oscuro {
+  background-color: #121212;
+  color: white;
+}
+
+/* Evitar que las imágenes se oscurezcan */
+body.tema-oscuro img {
+  filter: none !important;
+}
+
+/* Botón de cambio de tema */
+#boton-tema {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 6px 10px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  z-index: 1000;
+}
+
+body:not(.tema-oscuro) #boton-tema {
+  background: #ddd;
+  color: black;
+}
+#boton-tema {
+  padding: 6px 10px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
 </style>
 
 <!-- PhotoSwipe CSS -->
@@ -99,7 +142,7 @@
 
 </head>
 <body>
-
+<button id="boton-tema">🌙</button>
 <h1 id="page-title">Galería de Colecciones</h1>
 
 <div id="filters" style="margin-bottom: 15px;">
@@ -539,6 +582,24 @@ function iniciarPhotoSwipe() {
 }
 
 loadData();
+
+// Alternar tema claro/oscuro
+document.getElementById('boton-tema').addEventListener('click', () => {
+  document.body.classList.toggle('tema-oscuro');
+
+  // Guardar preferencia
+  if (document.body.classList.contains('tema-oscuro')) {
+    localStorage.setItem('tema', 'oscuro');
+  } else {
+    localStorage.setItem('tema', 'claro');
+  }
+});
+
+// Aplicar preferencia guardada al cargar
+if (localStorage.getItem('tema') === 'oscuro') {
+  document.body.classList.add('tema-oscuro');
+}
+
 
 </script>
 
