@@ -387,6 +387,10 @@ function abrirPhotoSwipeEn(index) {
 
 function mostrarCarpetas() {
   currentFolder = null;
+  const filtro = document.getElementById('filtroCarpeta');
+  if (filtro) {
+    filtro.value = '';
+  }
   pageTitle.textContent = 'Galería de Colecciones';
   backLinkDiv.style.display = 'none';
   galleryDiv.style.display = 'none';
@@ -416,6 +420,10 @@ function mostrarCarpetas() {
 function mostrarGaleria(carpeta) {
   window.scrollTo({ top: 0, behavior: 'auto' })
   currentFolder = carpeta;
+  const filtro = document.getElementById('filtroCarpeta');
+  if (filtro) {
+    filtro.value = carpeta;
+  }
   pageTitle.textContent = NOMBRES_CARPETAS[carpeta] || carpeta;
   backLinkDiv.style.display = 'block';
   foldersDiv.style.display = 'none';
