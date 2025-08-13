@@ -63,6 +63,13 @@ body.tema-oscuro .thumb:hover {
   box-shadow: 0 0 25px rgba(255, 255, 255, 0.9),
               0 0 40px rgba(255, 255, 255, 0.6);
 }
+body.tema-oscuro .folder:hover,
+body.tema-oscuro .thumb:hover {
+  box-shadow: 
+    0 0 25px rgba(0, 180, 255, 0.9),   /* halo principal brillante */
+    0 0 45px rgba(0, 180, 255, 0.6),   /* halo intermedio */
+    0 0 70px rgba(0, 180, 255, 0.4);   /* halo muy difuso */
+}
   .folder img, .thumb img {
     max-width: 100%;
     max-height: 130px;
