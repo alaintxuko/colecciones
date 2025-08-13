@@ -420,7 +420,7 @@ function mostrarCarpetas() {
 function mostrarGaleria(carpeta) {
   window.scrollTo({ top: 0, behavior: 'auto' })
   currentFolder = carpeta;
-  const filtro = document.getElementById('filtroCarpeta');
+  const filtro = document.getElementById('folder-filter');
   if (filtro) {
     filtro.value = carpeta;
   }
