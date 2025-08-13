@@ -422,7 +422,13 @@ function mostrarGaleria(carpeta) {
   currentFolder = carpeta;
   const filtro = document.getElementById('folder-filter');
   if (filtro) {
-    filtro.value = carpeta;
+    // Solo cambia si existe la opción
+    const opcion = Array.from(filtro.options).find(opt => opt.value === carpeta);
+    if (opcion) {
+      filtro.value = carpeta;
+    } else {
+      filtro.value = ''; // Si no existe, vuelve a "Todas las carpetas"
+    }
   }
   pageTitle.textContent = NOMBRES_CARPETAS[carpeta] || carpeta;
   backLinkDiv.style.display = 'block';
