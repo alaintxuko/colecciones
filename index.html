@@ -138,6 +138,13 @@ body:not(.tema-oscuro) #boton-tema {
   background: #ddd;
   color: black;
 }
+/* Sombra clara en modo oscuro */
+body.tema-oscuro .folder,
+body.tema-oscuro .thumb {
+  box-shadow: 0 1px 3px rgba(255, 255, 255, 0.3);
+  background: #1e1e1e; /* opcional: para que no queden blancos puros sobre negro */
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
 </style>
 
 <!-- PhotoSwipe CSS -->
