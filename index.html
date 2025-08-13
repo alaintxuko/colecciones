@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Galería de Colecciones</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 10px 20px 40px;
+    background: #fff;
+    color: #222;
+  }
+  h1 {
+    margin-bottom: 0.5em;
+  }
+  #back-link {
+    margin-bottom: 1em;
+    display: none;
+  }
+  #back-link a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  #back-link a:hover {
+    text-decoration: underline;
+  }
+  #gallery, #folders {
+    display: grid;
+    gap: 15px;
+  }
+  #folders {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+  #gallery {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+  .folder, .thumb {
+    cursor: pointer;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 6px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+    transition: box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .folder:hover, .thumb:hover {
+    box-shadow: 0 5px 15px rgb(0 0 0 / 0.2);
+  }
+  .folder img, .thumb img {
+    max-width: 100%;
+    max-height: 130px;
+    object-fit: contain;
+    background: #fff;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto 10px auto;
+  }
+  .folder span {
+    display: block;
+    margin-top: 0.5em;
+    font-weight: 600;
+    color: #333;
+  }
+  .thumb span {
+    display: block;
+    margin-top: 0.2em;
+    font-size: 0.75em;
+    color: #444;
+    text-align: center;
+    white-space: normal;
+    line-height: 1.2em;
+  }
+
+.pswp__caption__center {
+  max-width: 75vw !important;  /* Permite que la leyenda ocupe hasta el 90% del viewport */
+  margin: 0 auto !important;   /* Centra el texto */
+  white-space: normal !important;
+  word-wrap: break-word;
+  font-size: 1rem;
+  line-height: 1.4em;
+  text-align: center !important;
+  padding: 0 10px;             /* Un poco de padding horizontal */
+  box-sizing: border-box;
+}
+
+</style>
+
+<!-- PhotoSwipe CSS -->
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe.css" />
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@4.1.3/dist/default-skin/default-skin.css" />
+
+</head>
+<body>
+
+<h1 id="page-title">Galería de Colecciones</h1>
+
+<div id="filters" style="margin-bottom: 15px;">
+  <input type="text" id="search-text" placeholder="Buscar..." style="padding: 6px; width: 200px; margin-right: 10px;" />
+  
+  <label style="margin-right: 10px;">
+    <input type="checkbox" id="search-descripcion" checked />
+    Descripción
+  </label>
+  
+  <label style="margin-right: 20px;">
+    <input type="checkbox" id="search-contexto" checked />
+    Contexto histórico
+  </label>
+  
+  <select id="folder-filter" style="padding: 6px;">
+    <option value="">Todas las carpetas</option>
+  </select>
+</div>
+
+<div id="back-link"><a href="#" id="go-back">← Volver</a></div>
+
+<div id="folders"></div>
+<div id="gallery" style="display:none;"></div>
+
+<!-- PhotoSwipe HTML estructura -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+  <div class="pswp__bg"></div>
+
+  <div class="pswp__scroll-wrap">
+
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+
+    <div class="pswp__ui pswp__ui--hidden">
+
+      <div class="pswp__top-bar">
+
+        <div class="pswp__counter"></div>
+
+        <button class="pswp__button pswp__button--close" title="Cerrar (Esc)"></button>
+
+        <button class="pswp__button pswp__button--share" title="Compartir"></button>
+
+        <button class="pswp__button pswp__button--fs" title="Pantalla completa"></button>
+
+        <button class="pswp__button pswp__button--zoom" title="Acercar / alejar"></button>
+
+        <div class="pswp__preloader">
+          <div class="pswp__preloader__icn">
+            <div class="pswp__preloader__cut">
+              <div class="pswp__preloader__donut"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="pswp__caption">
+        <div class="pswp__caption__center"></div>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://unpkg.com/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<script>
+const NOMBRES_CARPETAS = {
+  '01_Rocas': 'Rocas y gemas',
+  '02_Fosiles': 'Fósiles',
+  '03_Artefactos': 'Artefactos',
+  '04_Premonedas': 'Premonedas',
+  '05_MonedasGreciaClasica': 'Grecia Clásica',
+  '06_MonedasHelenismo': 'Grecia Helenística',
+  '07_MonedasPersas': 'Imperios Persas',
+  '08_MonedaIberica': 'Pueblos Ibéricos',
+  '09_MonedasOtrasCivilizacionesAntiguas': 'Otras Civilizaciones Antiguas',
+  '10_MonedasRepublicaRomana': 'República Romana',
+  '11_MonedasImperioRomano': 'Imperio Romano',
+  '12_AntoninianosFilipoGalienoProbo': 'Antoninianos (Filipo, Galieno, Probo)',
+  '13_MonedasLejanoOriente': 'Lejano Oriente',
+  '14_MonedasIndia': 'Civilizaciones de la India',
+  '15_MonedasIslamicas': 'Civilizaciones Islámicas',
+  '16_MonedasAbsolutismoEuropeo': 'Absolutismo Europeo',
+  '17_MonedasModernas': 'Mundo Moderno',
+  '18_Microprocesadores': 'Microprocesadores',
+  '19_Videojuegos': 'Videojuegos',
+  'colecciones.RES': 'Colecciones agrupadas'
+};
+
+const PORTADAS_PERSONALIZADAS = {
+  '01_Rocas': 'granate.webp',
+  '02_Fosiles': 'trilobiteCalymene.webp',
+  '03_Artefactos': 'raspadorPaleolitico.webp',
+  '04_Premonedas': 'sicilia.webp',
+  '05_MonedasGreciaClasica': 'tetradracmaAtenas.webp',
+  '06_MonedasHelenismo': 'tetradracmaAlejandroMagnoBabilonia.webp',
+  '07_MonedasPersas': 'sicloDarioI.webp',
+  '08_MonedaIberica': 'denarioBaskunes.webp',
+  '09_MonedasOtrasCivilizacionesAntiguas': 'sicloCartagonova.webp',
+  '10_MonedasRepublicaRomana': 'denarioAnonimoBiga.webp',
+  '11_MonedasImperioRomano': 'denarioAugustoTemplo.webp',
+  '12_AntoninianosFilipoGalienoProbo': 'antoninianoProboSoliInvictoLateral.webp',
+  '13_MonedasLejanoOriente': 'chinaHan.webp',
+  '14_MonedasIndia': 'dracmaApolodoto.webp',
+  '15_MonedasIslamicas': 'dirhamOmeya.webp',
+  '16_MonedasAbsolutismoEuropeo': 'pennyRicardoI.webp',
+  '17_MonedasModernas': 'francosNapoleonEmperadorParis1811.webp',
+  '18_Microprocesadores': 'pentiumMMX.webp',
+  '19_Videojuegos': 'Famicom.webp',
+  'colecciones.RES': '00_Historia.webp'
+};
+
+const dataUrl = 'datos.json';
+
+let datos = [];
+let currentFolder = null;
+
+const foldersDiv = document.getElementById('folders');
+const galleryDiv = document.getElementById('gallery');
+const pageTitle = document.getElementById('page-title');
+const backLinkDiv = document.getElementById('back-link');
+const goBackLink = document.getElementById('go-back');
+
+const searchInput = document.getElementById('search-text');
+const searchDescCheckbox = document.getElementById('search-descripcion');
+const searchContextCheckbox = document.getElementById('search-contexto');
+const folderFilterSelect = document.getElementById('folder-filter');
+
+function actualizarFiltroCarpetas() {
+  folderFilterSelect.innerHTML = '<option value="">Todas las carpetas</option>';
+  const carpetas = [...new Set(datos.map(d => d.carpeta))].sort();
+  carpetas.forEach(carpeta => {
+    const opt = document.createElement('option');
+    opt.value = carpeta;
+    opt.textContent = NOMBRES_CARPETAS[carpeta] || carpeta;
+    folderFilterSelect.appendChild(opt);
+  });
+}
+
+function filtrarYMostrarGaleria() {
+  const textoBusqueda = searchInput.value.toLowerCase().trim();
+  const buscarDesc = searchDescCheckbox.checked;
+  const buscarContext = searchContextCheckbox.checked;
+  const carpetaSeleccionada = folderFilterSelect.value;
+
+  if (!buscarDesc && !buscarContext) {
+    // Si no hay ningún checkbox activo, no mostrar nada
+    galleryDiv.innerHTML = '<p style="grid-column: 1 / -1; text-align:center;">Selecciona al menos una opción de búsqueda.</p>';
+    galleryDiv.style.display = 'grid';
+    foldersDiv.style.display = 'none';
+    backLinkDiv.style.display = 'block';
+    return;
+  }
+
+  pageTitle.textContent = carpetaSeleccionada ? (NOMBRES_CARPETAS[carpetaSeleccionada] || carpetaSeleccionada) : 'Galería filtrada';
+  backLinkDiv.style.display = 'block';
+  foldersDiv.style.display = 'none';
+  galleryDiv.style.display = 'grid';
+
+  // Filtrar datos por carpeta (si hay seleccionada) y texto buscado
+  let filtrados = datos;
+
+  if (carpetaSeleccionada) {
+    filtrados = filtrados.filter(d => d.carpeta === carpetaSeleccionada);
+  }
+
+  if (textoBusqueda) {
+    filtrados = filtrados.filter(item => {
+      const desc = (item.descripcion || '').toLowerCase();
+      const cont = (item.contexto || '').toLowerCase();
+
+      let enDesc = buscarDesc && desc.includes(textoBusqueda);
+      let enCont = buscarContext && cont.includes(textoBusqueda);
+      return enDesc || enCont;
+    });
+  }
+
+  if (filtrados.length === 0) {
+    galleryDiv.innerHTML = '<p style="grid-column: 1 / -1; text-align:center;">No se encontraron resultados.</p>';
+    return;
+  }
+
+  galleryDiv.innerHTML = '';
+
+  filtrados.forEach((item, index) => {
+    const thumbPath = `thumbs/${item.carpeta}/${item.imagen.split('/').pop()}`;
+    const imgPath = item.imagen;
+
+    const thumbDiv = document.createElement('div');
+    thumbDiv.className = 'thumb';
+
+    const showCaptionBelow = true; // Siempre mostramos para buscar bien
+
+    const descripcionTexto = escapeHtml(item.descripcion || '');
+
+    const captionHtml = escapeHtml(item.descripcion || '') + '<br><br>' + escapeHtml(item.contexto || '');
+
+    thumbDiv.innerHTML = `
+      <a href="${imgPath}" 
+         data-size="${item.width}x${item.height}"
+         data-caption="${captionHtml}">
+        <img src="${thumbPath}" alt="${descripcionTexto}" />
+      </a>
+      <span>${descripcionTexto}</span>
+    `;
+
+    galleryDiv.appendChild(thumbDiv);
+  });
+
+  iniciarPhotoSwipe();
+}
+
+// Actualizar lista carpetas del filtro cuando se carga JSON
+loadData().then(() => {
+  actualizarFiltroCarpetas();
+  // Al cargar, mostrar todas las carpetas con la galería vacía (o carpetas)
+  mostrarCarpetas();
+});
+
+// Eventos para filtros
+searchInput.addEventListener('input', filtrarYMostrarGaleria);
+searchDescCheckbox.addEventListener('change', filtrarYMostrarGaleria);
+searchContextCheckbox.addEventListener('change', filtrarYMostrarGaleria);
+folderFilterSelect.addEventListener('change', filtrarYMostrarGaleria);
+
+// Cambiar el botón volver para resetear todo y mostrar carpetas
+goBackLink.addEventListener('click', e => {
+  e.preventDefault();
+  // Reset filtros
+  searchInput.value = '';
+  searchDescCheckbox.checked = true;
+  searchContextCheckbox.checked = true;
+  folderFilterSelect.value = '';
+  mostrarCarpetas();
+});
+
+async function loadData() {
+  try {
+    const resp = await fetch(dataUrl);
+    if (!resp.ok) throw new Error(`Error HTTP ${resp.status}`);
+    datos = await resp.json();
+    mostrarCarpetas();
+  } catch (e) {
+    pageTitle.textContent = 'Error al cargar datos';
+    console.error('Error al cargar JSON:', e);
+  }
+}
+
+function abrirPhotoSwipeEn(index) {
+  if (!galleryItems || galleryItems.length === 0) return;
+  if (index < 0 || index >= galleryItems.length) return;
+
+  const options = {
+    index: index,
+    bgOpacity: 0.85,
+    showHideOpacity: true
+  };
+
+  if (gallery) {
+    gallery.close();
+    gallery = null;
+  }
+
+  gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, galleryItems, options);
+
+  gallery.listen('gettingData', function(idx, item) {
+    if(item.title) {
+      item.title = item.title.replace(/\n/g, '<br>').replace(/&lt;br&gt;/g, '<br>');
+    }
+  });
+
+  gallery.init();
+}
+
+
+function mostrarCarpetas() {
+  currentFolder = null;
+  pageTitle.textContent = 'Galería de Colecciones';
+  backLinkDiv.style.display = 'none';
+  galleryDiv.style.display = 'none';
+  foldersDiv.style.display = 'grid';
+
+  const carpetasUnicas = [...new Set(datos.map(x => x.carpeta))].sort();
+
+  foldersDiv.innerHTML = '';
+
+  carpetasUnicas.forEach(carpeta => {
+    const folderDiv = document.createElement('div');
+    folderDiv.className = 'folder';
+    folderDiv.title = NOMBRES_CARPETAS[carpeta] || carpeta;
+
+    const thumbSrc = `thumbs/${carpeta}/${PORTADAS_PERSONALIZADAS[carpeta] || 'default.webp'}`;
+
+    folderDiv.innerHTML = `
+      <img src="${thumbSrc}" alt="${NOMBRES_CARPETAS[carpeta] || carpeta}" />
+      <span>${NOMBRES_CARPETAS[carpeta] || carpeta}</span>
+    `;
+
+    folderDiv.addEventListener('click', () => mostrarGaleria(carpeta));
+    foldersDiv.appendChild(folderDiv);
+  });
+}
+
+function mostrarGaleria(carpeta) {
+  window.scrollTo({ top: 0, behavior: 'auto' })
+  currentFolder = carpeta;
+  pageTitle.textContent = NOMBRES_CARPETAS[carpeta] || carpeta;
+  backLinkDiv.style.display = 'block';
+  foldersDiv.style.display = 'none';
+  galleryDiv.style.display = 'grid';
+
+  galleryDiv.innerHTML = '';
+
+  const items = datos.filter(d => d.carpeta === carpeta);
+
+  items.forEach((item, index) => {
+    const thumbPath = `thumbs/${item.carpeta}/${item.imagen.split('/').pop()}`;
+    const imgPath = item.imagen;
+
+    const thumbDiv = document.createElement('div');
+    thumbDiv.className = 'thumb';
+
+    // Mostrar descripción bajo miniatura solo si NO es colecciones.RES
+    const showCaptionBelow = carpeta !== 'colecciones.RES';
+
+    // Descripción limpia para mostrar bajo miniatura (sin etiquetas)
+    const descripcionTexto = escapeHtml(item.descripcion || '');
+
+    // El caption para PhotoSwipe, puede tener <br> para separar
+    const captionHtml = escapeHtml(item.descripcion || '') + '<br>' + '<br>' + escapeHtml(item.contexto || '');
+
+    // Nota: el atributo data-caption con HTML se soporta en v4 para la leyenda
+    // Pero PhotoSwipe no interpreta HTML, se mostrará como texto plano,
+    // así que en el callback podemos reemplazar saltos por <br>
+    // O lo dejamos así para evitar complicar.
+
+    thumbDiv.innerHTML = `
+      <a href="${imgPath}" 
+         data-size="${item.width}x${item.height}"
+         data-caption="${captionHtml}">
+        <img src="${thumbPath}" alt="${descripcionTexto}" />
+      </a>
+      ${showCaptionBelow ? `<span>${descripcionTexto}</span>` : ''}
+    `;
+
+    galleryDiv.appendChild(thumbDiv);
+  });
+
+  iniciarPhotoSwipe();
+}
+
+function escapeHtml(text) {
+  if (!text) return '';
+  return text.replace(/&/g, "&amp;")
+             .replace(/</g, "&lt;")
+             .replace(/>/g, "&gt;")
+             .replace(/"/g, "&quot;")
+             .replace(/'/g, "&#039;");
+}
+
+goBackLink.addEventListener('click', e => {
+  e.preventDefault();
+  mostrarCarpetas();
+});
+
+let pswpElement = document.querySelectorAll('.pswp')[0];
+let galleryItems = [];
+let gallery;
+
+function iniciarPhotoSwipe() {
+  // Creamos un array de objetos para PhotoSwipe con los datos de las imágenes en el DOM
+  galleryItems = [];
+  const links = galleryDiv.querySelectorAll('a');
+
+  links.forEach(link => {
+    const size = link.getAttribute('data-size').split('x');
+    const w = parseInt(size[0], 10);
+    const h = parseInt(size[1], 10);
+    galleryItems.push({
+      src: link.getAttribute('href'),
+      w: w,
+      h: h,
+      title: link.getAttribute('data-caption')
+    });
+  });
+
+  // Si ya hay una galería abierta, la destruimos
+  if (gallery) {
+    gallery.close();
+    gallery = null;
+  }
+
+  galleryDiv.querySelectorAll('a').forEach((link, index) => {
+    link.onclick = function(e) {
+      e.preventDefault();
+      const options = {
+        index: index,
+        bgOpacity: 0.85,
+        showHideOpacity: true
+      };
+      gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, galleryItems, options);
+
+      // Podemos reemplazar saltos de línea por <br> en la descripción:
+      gallery.listen('gettingData', function(index, item) {
+        if(item.title) {
+          // Este texto es plano, para mostrar con saltos hay que usar innerHTML
+          // Pero PhotoSwipe pone title en un div .pswp__caption__center, que interpreta html
+          // Por tanto podemos reemplazar saltos por <br>
+          item.title = item.title.replace(/\n/g, '<br>').replace(/&lt;br&gt;/g, '<br>');
+        }
+      });
+
+      gallery.init();
+      return false;
+    };
+  });
+}
+
+loadData();
+
+</script>
+
+</body>
+</html>
