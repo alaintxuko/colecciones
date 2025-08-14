@@ -593,8 +593,11 @@ function iniciarPhotoSwipe() {
           ev.preventDefault();
           const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
           const currZoom = gallery.getZoomLevel();
-          const newZoom = currZoom * zoomFactor;
-
+          const fitZoom = gallery.currItem.fitRatio;
+          let newZoom = currZoom * zoomFactor;
+    if (newZoom < fitZoom * 1.01) { // un pelín más que el mínimo
+      newZoom = fitZoom;
+    }
           const rect = gallery.container.getBoundingClientRect();
           const x = ev.clientX - rect.left;
           const y = ev.clientY - rect.top;
