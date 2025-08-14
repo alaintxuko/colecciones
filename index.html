@@ -588,23 +588,26 @@ function iniciarPhotoSwipe() {
       });
 
       // Zoom con la rueda del ratón en PC
-      gallery.listen('afterInit', function() {
-        gallery.container.addEventListener('wheel', function(ev) {
-          ev.preventDefault();
-          const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
-          const currZoom = gallery.getZoomLevel();
-          const fitZoom = gallery.currItem.fitRatio;
-          let newZoom = currZoom * zoomFactor;
-    if (newZoom < fitZoom * 1.01) { // un pelín más que el mínimo
-      newZoom = fitZoom;
-    }
-          const rect = gallery.container.getBoundingClientRect();
-          const x = ev.clientX - rect.left;
-          const y = ev.clientY - rect.top;
+gallery.listen('afterInit', function() {
+  gallery.container.addEventListener('wheel', function(ev) {
+    ev.preventDefault();
+    const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
+    const currZoom = gallery.getZoomLevel();
+    const newZoom = currZoom * zoomFactor;
 
-          gallery.zoomTo(newZoom, { x: x, y: y });
-        }, { passive: false });
-      });
+    // 🚫 Evitar zoom menor a 1
+    if (newZoom < 1) {
+      gallery.zoomTo(1, { x: ev.clientX, y: ev.clientY });
+      return;
+    }
+
+    const rect = gallery.container.getBoundingClientRect();
+    const x = ev.clientX - rect.left;
+    const y = ev.clientY - rect.top;
+
+    gallery.zoomTo(newZoom, { x: x, y: y });
+  }, { passive: false });
+});
 
       gallery.init();
       return false;
