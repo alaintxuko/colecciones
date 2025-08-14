@@ -588,16 +588,21 @@ function iniciarPhotoSwipe() {
       });
 
       // Zoom con la rueda del ratón en PC
+let minZoomLevel = 1;
+
 gallery.listen('afterInit', function() {
+  // Guardamos el fit level inicial
+  minZoomLevel = gallery.currItem.fitRatio;
+
   gallery.container.addEventListener('wheel', function(ev) {
     ev.preventDefault();
     const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
     const currZoom = gallery.getZoomLevel();
     const newZoom = currZoom * zoomFactor;
 
-    // 🚫 Evitar zoom menor a 1
-    if (newZoom < 1) {
-      gallery.zoomTo(1, { x: ev.clientX, y: ev.clientY });
+    // Limitar zoom mínimo al fit level
+    if (newZoom < minZoomLevel) {
+      gallery.zoomTo(minZoomLevel, { x: ev.clientX, y: ev.clientY });
       return;
     }
 
