@@ -290,6 +290,14 @@ const searchDescCheckbox = document.getElementById('search-descripcion');
 const searchContextCheckbox = document.getElementById('search-contexto');
 const folderFilterSelect = document.getElementById('folder-filter');
 
+function negritaHastaCaracter(texto) {
+  const index = texto.search(/['(|]/);  // busca la primera aparición de ' o ( o |
+  if (index === -1) return `<strong>${texto}</strong>`; // si no encuentra, todo en negrita
+  const inicial = texto.slice(0, index);
+  const resto = texto.slice(index);
+  return `<strong>${inicial}</strong>${resto}`;
+}
+
 function actualizarFiltroCarpetas() {
   folderFilterSelect.innerHTML = '<option value="">Todas las carpetas</option>';
   const carpetas = [...new Set(datos.map(d => d.carpeta))].sort();
@@ -365,7 +373,7 @@ function filtrarYMostrarGaleria() {
          data-caption="${captionHtml}">
         <img src="${thumbPath}" alt="${descripcionTexto}" />
       </a>
-      <span>${descripcionTexto}</span>
+    <span>${negritaHastaCaracter(descripcionTexto)}</span>
     `;
 
     galleryDiv.appendChild(thumbDiv);
@@ -519,7 +527,7 @@ const captionHtml = parts.join('<br>');
          data-caption="${captionHtml}">
         <img src="${thumbPath}" alt="${descripcionTexto}" />
       </a>
-      ${showCaptionBelow ? `<span>${descripcionTexto}</span>` : ''}
+      ${showCaptionBelow ? `<span>${negritaHastaCaracter(descripcionTexto)}</span>` : ''}
     `;
 
     galleryDiv.appendChild(thumbDiv);
