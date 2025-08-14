@@ -588,34 +588,25 @@ function iniciarPhotoSwipe() {
       });
 
       // Zoom con la rueda del ratón en PC
-let minZoomLevel = 1;
+      gallery.listen('afterInit', function() {
 
-gallery.listen('afterInit', function() {
-  // Guardamos el fit level inicial
-  minZoomLevel = gallery.currItem.fitRatio;
+        // Evitar cierre por scroll o pinch
+        gallery.options.closeOnScroll = false;
+        gallery.options.pinchToClose = false;
 
-  // Evitar cierre por scroll o pinch
-  gallery.options.closeOnScroll = false;
-  gallery.options.pinchToClose = false;
+        gallery.container.addEventListener('wheel', function(ev) {
+          ev.preventDefault();
+          const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
+          const currZoom = gallery.getZoomLevel();
+          const newZoom = currZoom * zoomFactor;
 
-  gallery.container.addEventListener('wheel', function(ev) {
-    ev.preventDefault();
-    const zoomFactor = ev.deltaY > 0 ? 0.9 : 1.1;
-    const currZoom = gallery.getZoomLevel();
-    let newZoom = currZoom * zoomFactor;
+          const rect = gallery.container.getBoundingClientRect();
+          const x = ev.clientX - rect.left;
+          const y = ev.clientY - rect.top;
 
-    // Limitar al fit level
-    if (newZoom < minZoomLevel) {
-      newZoom = minZoomLevel;
-    }
-
-    const rect = gallery.container.getBoundingClientRect();
-    const x = ev.clientX - rect.left;
-    const y = ev.clientY - rect.top;
-
-    gallery.zoomTo(newZoom, { x: x, y: y });
-  }, { passive: false });
-});
+          gallery.zoomTo(newZoom, { x: x, y: y });
+        }, { passive: false });
+      });
 
       gallery.init();
       return false;
