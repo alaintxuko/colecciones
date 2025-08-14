@@ -291,7 +291,7 @@ const searchContextCheckbox = document.getElementById('search-contexto');
 const folderFilterSelect = document.getElementById('folder-filter');
 
 function negritaHastaCaracter(texto) {
-  const index = texto.search(/['(|]/);  // busca la primera aparición de ' o ( o |
+  const index = texto.search(/[\'(|]/);  // busca la primera aparición de ' o ( o |
   if (index === -1) return `<strong>${texto}</strong>`; // si no encuentra, todo en negrita
   const inicial = texto.slice(0, index);
   const resto = texto.slice(index);
