@@ -7429,20 +7429,20 @@
     "height": 545
   },
   {
-    "imagen": "10_MonedasRepublicaRomana/bronceContramarcaRNT.webp",
-    "descripcion": "Bronce contramarcado 'monograma RNT' (Siria) | siglo I aC | 5.88g 17mm",
-    "contexto": "La pieza parece ser originalmente una moneda helenística que, debido al desgaste por circulación, fue contramarcada para que pudiera seguir siendo aceptada como medio de pago.",
-    "carpeta": "10_MonedasRepublicaRomana",
-    "width": 1000,
-    "height": 588
-  },
-  {
     "imagen": "10_MonedasRepublicaRomana/bronceAntioquia.webp",
     "descripcion": "Bronce acuñado bajo Roma 'Zeus' (Antioquía, Siria) | siglo I aC | 7.59g 19mm",
-    "contexto": "En junio de 47 aC Julio César visitó Antioquía confirmando la libertad a la ciudad a pesar de haber apoyado a Pompeyo en la guerra civil. Se convirtió en el centro militar ante la amenaza de los partos.",
+    "contexto": "Esta moneda fue acuñada bajo la República Romana en Antioquía, una de las principales ciudades de Siria, y refleja la influencia de Roma en Oriente y cómo se mantenían las tradiciones locales, como la imagen de Zeus.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 566
+  },
+  {
+    "imagen": "10_MonedasRepublicaRomana/bronceContramarcaRNT.webp",
+    "descripcion": "Bronce contramarcado 'monograma RNT' (Siria) | siglo I aC | 5.88g 17mm",
+    "contexto": "Se trata probablemente de una moneda helenística desgastada que siguió circulando bajo dominio romano gracias a la contramarca.",
+    "carpeta": "10_MonedasRepublicaRomana",
+    "width": 1000,
+    "height": 588
   },
   {
     "imagen": "11_MonedasImperioRomano/cesarOctavio.webp",
@@ -7727,7 +7727,7 @@
   {
     "imagen": "11_MonedasImperioRomano/broncePergamoRomaSenado.webp",
     "descripcion": "Bronce acuñado bajo el Imperio Romano 'personificación de Roma/personificación del Senado' (Pérgamo) | 40-60 | 4.06g 17mm",
-    "contexto": "Augusto cambió la capital de Asia de Pérgamo a Éfeso en 27 aC y desde entonces comenzó un lento declive de la ciudad, una de las más importantes de la antigüedad.",
+    "contexto": "Este bronce con las personificaciones de Roma y del Senado simboliza la presencia de las instituciones imperiales en Oriente, en un momento en que la ciudad de Pérgamo perdía protagonismo frente a Éfeso.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 586
@@ -8437,6 +8437,14 @@
     "height": 531
   },
   {
+    "imagen": "11_MonedasImperioRomano/bronceGordianoAlejandro.webp",
+    "descripcion": "Bronce acuñado bajo Alejandro Severo 'Alejandro Magno' (Koinon de Macedonia) | 222-235 | 10.87g 26mm",
+    "contexto": "El Koinon de Macedonia fue una federación de ciudades que emitía moneda de manera colectiva bajo supervisión romana y lo hacía mostrando a su figura histórica más importante: Alejandro Magno.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 559
+  },
+  {
     "imagen": "11_MonedasImperioRomano/bronceAlejandroSevero.webp",
     "descripcion": "Bronce de Alejandro Severo 'estandartes' (Nicea, Bitinia) | 222-235 | 3.65g 20mm",
     "contexto": "Capital del Reino de Bitinia, fue anexionada por Roma en 74 aC. Con un activo comercio, no tardó en asimilar el cristianismo y allí se celebraron dos importantes Concilios en 325 y 787.",
@@ -8557,17 +8565,9 @@
     "height": 499
   },
   {
-    "imagen": "11_MonedasImperioRomano/bronceGordianoAlejandro.webp",
-    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno' (Koinon, Macedonia) | 238-244 | 10.87g 26mm",
-    "contexto": "La figura de Alejandro era idolatrada en Roma. Julio César lloró al ver su estatua en Hispania, Pompeyo robó su capa, Calígula su coraza y Augusto, al visitar la tumba, declaró que era el único líder que merecía su visita.",
-    "carpeta": "11_MonedasImperioRomano",
-    "width": 1000,
-    "height": 559
-  },
-  {
     "imagen": "11_MonedasImperioRomano/bronceGordianoAlejandroBucefalo.webp",
-    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno/Bucéfalo' (Koinon, Macedonia) | 238-244 | 10.31g 26mm",
-    "contexto": "En el reverso se representa a Alejandro cabalgando sobre Bucéfalo, su caballo desde los 9 años, cuando él fue el único capaz de montarlo al ponerlo hacia el sol porque se asustaba de su propia sombra.",
+    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno/Bucéfalo' (Koinon de Macedonia) | 238-244 | 10.31g 26mm",
+    "contexto": "La figura de Alejandro era idolatrada en Roma. Julio César lloró al ver su estatua en Hispania, Pompeyo robó su capa, Calígula su coraza y Augusto, al visitar la tumba, declaró que era el único líder que merecía su visita.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 545
