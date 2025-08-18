@@ -231,7 +231,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 2984
+    "height": 2170
   },
   {
     "imagen": "colecciones.RES/26_DracmasSasanidas.webp",
@@ -470,7 +470,7 @@
   },
   {
     "imagen": "01_Rocas/diamante.webp",
-    "descripcion": "Diamante SI1 (pureza: pequeñas inclusiones) M (color: D(transparente)-Z) | 0.05qt 2mm",
+    "descripcion": "Diamante SI1 (pureza: pequeñas inclusiones) M (color: D(transparente)-Z) (Rusia) | 0.05qt 2mm",
     "contexto": "El diamante tiene la más alta dureza (10) y conductividad térmica de todos los materiales conocidos. Los naturales se forman en condiciones de presión y temperatura extremas en el manto terrestre.",
     "carpeta": "01_Rocas",
     "width": 931,
@@ -478,8 +478,8 @@
   },
   {
     "imagen": "01_Rocas/diamanteNegro.webp",
-    "descripcion": "Diamante negro | 0.03qt 1.5mm",
-    "contexto": "Los diamantes negros, formados por la explosión de una supernova, son más porosos y contienen hierro. Solo se encuentran en Brasil y la República Centroafricana.",
+    "descripcion": "Diamante negro (Rusia) | 0.03qt 1.5mm",
+    "contexto": "Los diamantes negros, formados por la explosión de una supernova, son más porosos y contienen hierro. Los naturales sólo se encuentran en Brasil y la República Centroafricana pero con frecuencia son tratados.",
     "carpeta": "01_Rocas",
     "width": 775,
     "height": 1000
@@ -510,7 +510,7 @@
   },
   {
     "imagen": "01_Rocas/aguamarina.webp",
-    "descripcion": "Aguamarina | 0.23qt 7x3mm",
+    "descripcion": "Aguamarina (Brasil)| 0.23qt 7x3mm",
     "contexto": "Este berilo debe su color al hierro, principalmente al ion ferroso y recuerda al agua del mar. Los berilos tienen una dureza de 7.5-8 en la escala de Mohs.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -526,7 +526,7 @@
   },
   {
     "imagen": "01_Rocas/heliodoro.webp",
-    "descripcion": "Heliodoro | 1.51qt 9x9x3.5mm",
+    "descripcion": "Heliodoro (Brasil) | 1.51qt 9x9x3.5mm",
     "contexto": "El heliodoro es la variedad amarilla del berilo. El hierro no solamente da el color azulado a la aguamarina sino también el amarillo del heliodoro (como ion férrico).",
     "carpeta": "01_Rocas",
     "width": 913,
@@ -566,7 +566,7 @@
   },
   {
     "imagen": "01_Rocas/topacio.webp",
-    "descripcion": "Topacio | 0.38qt 5.1x5x2.4mm",
+    "descripcion": "Topacio (Brasil) | 0.38qt 5.1x5x2.4mm",
     "contexto": "Este silicato de aluminio con flúor, de dureza 8 pero fácil de fracturar, debe su nombre a la isla de Topazos, en el Mar Rojo, si bien esos yacimientos en realidad son de olivino.",
     "carpeta": "01_Rocas",
     "width": 975,
@@ -574,7 +574,7 @@
   },
   {
     "imagen": "01_Rocas/opalo.webp",
-    "descripcion": "Ópalo (África) | 0.41qt 5x4mm",
+    "descripcion": "Ópalo (Etiopía) | 0.41qt 5x4mm",
     "contexto": "Este mineraloide es sílice amorfa con tridimita y cristobalita y es capaz de reflectar los rayos de luz y transformarlos en los colores del arco iris.",
     "carpeta": "01_Rocas",
     "width": 759,
@@ -582,7 +582,7 @@
   },
   {
     "imagen": "01_Rocas/jade.webp",
-    "descripcion": "Jade (Asia) | 2.88qt 11x6x3.5mm",
+    "descripcion": "Jade (China) | 2.88qt 11x6x3.5mm",
     "contexto": "El jade está compuesto de jadeíta y nefrita (silicatos de sodio y calcio) y suele tener un tono verdoso por las impurezas de cromo. Para los chinos era esperma seco de dragón.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -598,7 +598,7 @@
   },
   {
     "imagen": "01_Rocas/amatista.webp",
-    "descripcion": "Amatista | 1.27qt 7x4.3mm",
+    "descripcion": "Amatista (Brasil) | 1.27qt 7x4.3mm",
     "contexto": "Esta variedad apreciada de cuarzo presenta un color violáceo debido al hierro. Su nombre en griego significa \"no borracho\" ya que se la consideraba un antídoto contra la embriaguez.",
     "carpeta": "01_Rocas",
     "width": 847,
@@ -622,7 +622,7 @@
   },
   {
     "imagen": "01_Rocas/prasiolita.webp",
-    "descripcion": "Prasiolita | 0.88qt 7x5mm",
+    "descripcion": "Prasiolita (Brasil) | 0.88qt 7x5mm",
     "contexto": "La prasiolita es la variedad verde del cuarzo. A veces el calentamiento de la amatista produce un color verde en vez del amarillo del citrino.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -630,7 +630,7 @@
   },
   {
     "imagen": "01_Rocas/cristalderoca.webp",
-    "descripcion": "Cristal de roca | 1.05qt 7x4mm",
+    "descripcion": "Cristal de roca (Brasil) | 1.05qt 7x4mm",
     "contexto": "El cristal de roca es la variedad transparente del cuarzo, un mineral de dureza 7 compuesto de sílice que, tras el feldespato, es el más abundante de la corteza terrestre.",
     "carpeta": "01_Rocas",
     "width": 922,
@@ -638,7 +638,7 @@
   },
   {
     "imagen": "01_Rocas/cuarzorosa.webp",
-    "descripcion": "Cuarzo rosa (África) | 2.00qt 11x3mm",
+    "descripcion": "Cuarzo rosa (Madagascar) | 2.00qt 11x3mm",
     "contexto": "Los óxidos de titanio y manganeso son los responsables de esta tonalidad rosa del cuarzo. Muy valorado en la antigüedad, los romanos lo importaban de India y Rusia.",
     "carpeta": "01_Rocas",
     "width": 983,
@@ -654,7 +654,7 @@
   },
   {
     "imagen": "01_Rocas/aventurina.webp",
-    "descripcion": "Aventurina | 9.33qt 14.7x5.6mm",
+    "descripcion": "Aventurina (India) | 9.33qt 14.7x5.6mm",
     "contexto": "La aventurina es un cuarzo con inclusiones de mica que le dan el color verdoso y provocan unos reflejos brillantes especiales conocidos como efecto aventurinado.",
     "carpeta": "01_Rocas",
     "width": 957,
@@ -662,7 +662,7 @@
   },
   {
     "imagen": "01_Rocas/calcedonia.webp",
-    "descripcion": "Calcedonia | 10.62qt 17x5mm",
+    "descripcion": "Calcedonia (India) | 10.62qt 17x5mm",
     "contexto": "La calcedonia, de dureza 7, es una mezcla de cuarzo con moganita, mineral de igual fórmula química pero monoclínico en vez de trigonal.",
     "carpeta": "01_Rocas",
     "width": 964,
@@ -678,7 +678,7 @@
   },
   {
     "imagen": "01_Rocas/agatamusgosa.webp",
-    "descripcion": "Ágata musgosa | 1.17qt 8x6x3.5mm",
+    "descripcion": "Ágata musgosa (India) | 1.17qt 8x6x3.5mm",
     "contexto": "La ágata musgosa es una calcedonia translúcida con inclusiones verdes y marrones de oxido de manganeso, hornablenda y hierro.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -686,7 +686,7 @@
   },
   {
     "imagen": "01_Rocas/coralfosil.webp",
-    "descripcion": "Coral fósil agatizado | 33qt 36x22mm",
+    "descripcion": "Coral fósil agatizado (Indonesia) | 33qt 36x22mm",
     "contexto": "El coral fósil agatizado es una gema que se forma cuando el coral es reemplazado por ágata en el proceso de fosilización.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -694,7 +694,7 @@
   },
   {
     "imagen": "01_Rocas/ojodetigre.webp",
-    "descripcion": "Ojo de tigre | 4.14qt 12x3mm",
+    "descripcion": "Ojo de tigre (Sudáfrica) | 4.14qt 12x3mm",
     "contexto": "El ojo de tigre es una variedad de la calcedonia, un tipo de cuarzo que presenta tonos pardos y amarillos debido al óxido de hierro.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -702,7 +702,7 @@
   },
   {
     "imagen": "01_Rocas/ojodehalcon.webp",
-    "descripcion": "Ojo de halcón | 46qt 35x24.6mm",
+    "descripcion": "Ojo de halcón (Sudáfrica) | 46qt 35x24.6mm",
     "contexto": "El ojo de halcón es una variedad del ojo de tigre que presenta tonalidades azules debidas a la presencia de amosita.",
     "carpeta": "01_Rocas",
     "width": 766,
@@ -710,7 +710,7 @@
   },
   {
     "imagen": "01_Rocas/ojodegato.webp",
-    "descripcion": "Ojo de gato | 25.5qt 28x19mm",
+    "descripcion": "Ojo de gato (Brasil) | 25.5qt 28x19mm",
     "contexto": "El efecto ojo de gato se puede dar en diversas piedras, en este caso cuarzo, y se debe a la orientación paralela de agujas cristalinas o tubos.",
     "carpeta": "01_Rocas",
     "width": 726,
@@ -718,7 +718,7 @@
   },
   {
     "imagen": "01_Rocas/pietersita.webp",
-    "descripcion": "Pietersita | 14qt 26x16mm",
+    "descripcion": "Pietersita (Namibia) | 14qt 26x16mm",
     "contexto": "Esta variedad de calcedonia es similar al ojo de tigre pero con una estructura diferente. Fue descubierta por Sid Pieters en Namibia.",
     "carpeta": "01_Rocas",
     "width": 622,
@@ -726,7 +726,7 @@
   },
   {
     "imagen": "01_Rocas/jaspe.webp",
-    "descripcion": "Jaspe | 8.55qt 16x12x6mm",
+    "descripcion": "Jaspe (India) | 8.55qt 16x12x6mm",
     "contexto": "El jaspe es una roca sedimentaria que procede de un fango de radiolarios (protozoos) silicificado. Suele prsentar varios colores y rara vez es uniforme.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -734,7 +734,7 @@
   },
   {
     "imagen": "01_Rocas/heliotropo.webp",
-    "descripcion": "Heliotropo | 12.5qt 16x7mm",
+    "descripcion": "Heliotropo (India) | 12.5qt 16x7mm",
     "contexto": "El heliotropo es una variedad de calcedonia con inclusiones de jaspe rojo. Los tonos rojizos salpicados le dan el sobrenombre de piedra de sangre.",
     "carpeta": "01_Rocas",
     "width": 927,
@@ -742,7 +742,7 @@
   },
   {
     "imagen": "01_Rocas/cornalina.webp",
-    "descripcion": "Cornalina | 4.15qt 10.5x10.5x5mm",
+    "descripcion": "Cornalina (India) | 4.15qt 10.5x10.5x5mm",
     "contexto": "La cornalina es una variedad de calcedonia roja debido a los óxidos de hierro. También se la conoce como Piedra de Sadoine, de La Meca o de Santiago.",
     "carpeta": "01_Rocas",
     "width": 919,
@@ -750,7 +750,7 @@
   },
   {
     "imagen": "01_Rocas/crisoprasa.webp",
-    "descripcion": "Crisoprasa | 3.30qt 16x8x3mm",
+    "descripcion": "Crisoprasa (Australia) | 3.30qt 16x8x3mm",
     "contexto": "La crisoprasa es una variedad de calcedonia que presenta níquel, lo que le da la característica tonalidad verdosa que la hace tan apreciada.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -766,7 +766,7 @@
   },
   {
     "imagen": "01_Rocas/onix.webp",
-    "descripcion": "Ónix | 6.54qt 13x4mm",
+    "descripcion": "Ónix (India) | 6.54qt 13x4mm",
     "contexto": "El ónix es una variedad de ágata o calcedonia de dureza 6.5-7. Tiene un origen volcánico siendo originado por la acumulación de gases volcánicos.",
     "carpeta": "01_Rocas",
     "width": 868,
@@ -774,7 +774,7 @@
   },
   {
     "imagen": "01_Rocas/sardonix.webp",
-    "descripcion": "Sardónix | 22qt 27.6x16.4mm",
+    "descripcion": "Sardónix (India) | 22qt 27.6x16.4mm",
     "contexto": "El sardónix es una variante del ónix con una tonalidad rojiza. Desde antiguo se valoraba la piedra por tener los colores de la triple diosa: rojo, negro y blanco.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -782,7 +782,7 @@
   },
   {
     "imagen": "01_Rocas/circonita.webp",
-    "descripcion": "Circonita (sintética) | 7.85qt 8mm",
+    "descripcion": "Circonita (sintética) (China) | 7.85qt 8mm",
     "contexto": "La circonia cúbica o circonita es la forma cristalina cúbica del óxido de circonio y tiene una dureza de 8. Se ha utilizado como imitación del diamante.",
     "carpeta": "01_Rocas",
     "width": 813,
@@ -822,7 +822,7 @@
   },
   {
     "imagen": "01_Rocas/granate.webp",
-    "descripcion": "Rodolita | 0.54qt 5.5x4x2.5mm",
+    "descripcion": "Rodolita (Tanzania) | 0.54qt 5.5x4x2.5mm",
     "contexto": "Los granates son un grupo heterogéneo de silicatos y tienen una dureza de 6.5-7.5. La rodolita está compuesta por dos tercios de piropo y un tercio de almandina.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -830,7 +830,7 @@
   },
   {
     "imagen": "01_Rocas/lapislazuli.webp",
-    "descripcion": "Lapislázuli | 2.85qt 9x4mm",
+    "descripcion": "Lapislázuli (Afganistán) | 2.85qt 9x4mm",
     "contexto": "El lapislázuli, de dureza 5.5, es una roca compuesta por lazurita y silicato cálcico (color azul), wollastonita y calcita (veteado gris y blanquecino) y pirita (reflejos dorados).",
     "carpeta": "01_Rocas",
     "width": 817,
@@ -838,7 +838,7 @@
   },
   {
     "imagen": "01_Rocas/crisocola.webp",
-    "descripcion": "Crisocola | 35.5qt 23x20x8mm",
+    "descripcion": "Crisocola (República Democrática del Congo) | 35.5qt 23x20x8mm",
     "contexto": "La crisocola es un silicato de cobre hidratado de dureza 2.5-3.5 que se forma en la parte superior de los yacimientos de cobre.",
     "carpeta": "01_Rocas",
     "width": 881,
@@ -854,7 +854,7 @@
   },
   {
     "imagen": "01_Rocas/piedradeluna.webp",
-    "descripcion": "Piedra de luna | 7.64qt 18x14x3.5mm",
+    "descripcion": "Piedra de luna (Madagascar) | 7.64qt 18x14x3.5mm",
     "contexto": "La piedra de luna es una variedad de la adularia, de dureza 6-6.5, formada por silicatos de potasio y aluminio y perteneciente al grupo de los feldespatos.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -878,7 +878,7 @@
   },
   {
     "imagen": "01_Rocas/labradorita.webp",
-    "descripcion": "Labradorita | 1.33qt 13x5x2mm",
+    "descripcion": "Labradorita (Madagascar) | 1.33qt 13x5x2mm",
     "contexto": "La labradorita o espectrolita es un silicato de aluminio, sodio y calcio de dureza 6-6.5 con una especial iridiscencia. Fue descrita por primera vez en la península del Labrador (Canadá).",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -886,7 +886,7 @@
   },
   {
     "imagen": "01_Rocas/amazonita.webp",
-    "descripcion": "Amazonita | 9.54qt 13.5x7.3mm",
+    "descripcion": "Amazonita (Madagascar) | 9.54qt 13.5x7.3mm",
     "contexto": "Este aluminosilicato de potasio contiene pequeñas cantidades de plomo que le dan el característico color verde. Su dureza es de 6-6.5.",
     "carpeta": "01_Rocas",
     "width": 940,
@@ -894,7 +894,7 @@
   },
   {
     "imagen": "01_Rocas/andalucita.webp",
-    "descripcion": "Andalucita | 0.65qt 7.5x4.6x2.5mm",
+    "descripcion": "Andalucita (Brasil) | 0.65qt 7.5x4.6x2.5mm",
     "contexto": "La andalucita es un nesosilicato de aluminio de dureza 7.5 que fue descrito por primera vez en Guadalajara, que por error se consideró de Andalucía.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -934,7 +934,7 @@
   },
   {
     "imagen": "01_Rocas/hessonita.webp",
-    "descripcion": "Hessonita | 7.65qt 14x11mm",
+    "descripcion": "Hessonita (India) | 7.65qt 14x11mm",
     "contexto": "La hessonita es una variedad de grosularia de color rojo con una dureza 7. Es un granate que destaca por su baja densidad.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -950,7 +950,7 @@
   },
   {
     "imagen": "01_Rocas/iolita.webp",
-    "descripcion": "Iolita | 0.67qt 6x4x3mm",
+    "descripcion": "Iolita (India) | 0.67qt 6x4x3mm",
     "contexto": "La iolita, de dureza 7-7.5, es un silicato de aluminio y magnesio. Los vikingos utilizaban lentes de iolita como filtro polarizador para localizar el sol en días nublados.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -958,7 +958,7 @@
   },
   {
     "imagen": "01_Rocas/prehnita.webp",
-    "descripcion": "Prehnita | 2.52qt 10x8x5mm",
+    "descripcion": "Prehnita (Sudáfrica) | 2.52qt 10x8x5mm",
     "contexto": "La prehnita es un silicato de aluminio y calcio de dureza 6-6.5. Nombrado en honor a su descubridor, el coronel alemán von Prehn, que lo descubrió en 1788 en Sudáfrica.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -982,7 +982,7 @@
   },
   {
     "imagen": "01_Rocas/fenaquita.webp",
-    "descripcion": "Fenaquita | 0.82qt 6mm",
+    "descripcion": "Fenaquita (Brasil) | 0.82qt 6mm",
     "contexto": "La fenaquita es un silicato de berilio de dureza 7.5-8 cuyo nombre proviene del griego 'phenakos' que significa 'impostor' debido a su parecido con el cuarzo.",
     "carpeta": "01_Rocas",
     "width": 864,
@@ -1006,7 +1006,7 @@
   },
   {
     "imagen": "01_Rocas/escolecita.webp",
-    "descripcion": "Escolecita | 29qt 26x22mm",
+    "descripcion": "Escolecita (India) | 29qt 26x22mm",
     "contexto": "La escolecita o ellagita es una zeolita (aluminosilicato microporoso) con calcio de dureza 5-5.5. El nombre viene del griego skolec (gusano) en referencia a la forma de la llama al quemarlo con soplete.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1022,7 +1022,7 @@
   },
   {
     "imagen": "01_Rocas/polucita.webp",
-    "descripcion": "Polucita | 0.71qt 6mm",
+    "descripcion": "Polucita (Canadá) | 0.71qt 6mm",
     "contexto": "La polucita es una zeolita de cesio de dureza 6.5-7 denominada así por el dioscuro Pollux, ya que el mineral aparece asociado a la castorita.",
     "carpeta": "01_Rocas",
     "width": 964,
@@ -1046,7 +1046,7 @@
   },
   {
     "imagen": "01_Rocas/rodonita.webp",
-    "descripcion": "Rodonita | 7.99qt 9x4mm",
+    "descripcion": "Rodonita (Madagascar) | 7.99qt 9x4mm",
     "contexto": "La rodonita es un silicato de manganeso en el que este último puede estar sustituido por hierro, magnesio o calcio en series de solución sólida con otros minerales. Su dureza es de 5.5-6.5.",
     "carpeta": "01_Rocas",
     "width": 861,
@@ -1094,7 +1094,7 @@
   },
   {
     "imagen": "01_Rocas/axinita.webp",
-    "descripcion": "Axinita (Balochistán, Paquistán) | 0.95qt 7.9x4.8mm",
+    "descripcion": "Axinita (Balochistán, Pakistán) | 0.95qt 7.9x4.8mm",
     "contexto": "La axinita o chorlo violado es un borosilicato de calcio y aluminio de dureza 6-7.5. Además puede contener hierro (como en este caso), magnesio o manganeso.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1110,7 +1110,7 @@
   },
   {
     "imagen": "01_Rocas/sugilita.webp",
-    "descripcion": "Sugilita | 2.72qt 7mm",
+    "descripcion": "Sugilita (Sudáfrica) | 2.72qt 7mm",
     "contexto": "Nombrada así en honor de Ken-ichi Sugi, petrólogo japonés. Es un silicato de potasio, sodio, hierro y litio y presenta una dureza de 6-6.5.",
     "carpeta": "01_Rocas",
     "width": 692,
@@ -1118,7 +1118,7 @@
   },
   {
     "imagen": "01_Rocas/lepidolita.webp",
-    "descripcion": "Lepidolita | 19qt 23x19mm",
+    "descripcion": "Lepidolita (Brasil) | 19qt 23x19mm",
     "contexto": "La lepidolita es un mineral del grupo de las micas de 2.5-3.5 de dureza rico en litio y potasio, que es sustituído con frecuencia por rubidio y cesio.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1126,7 +1126,7 @@
   },
   {
     "imagen": "01_Rocas/moscovita.webp",
-    "descripcion": "Moscovita | 22qt 21x20mm",
+    "descripcion": "Moscovita (Brasil) | 22qt 21x20mm",
     "contexto": "La moscovita es una mica alumínica de una dureza de 2-2.5. Suele llevar potasio, magnesio y cromo además de otros elementos en sus muchas variedades.",
     "carpeta": "01_Rocas",
     "width": 919,
@@ -1134,7 +1134,7 @@
   },
   {
     "imagen": "01_Rocas/serpentina.webp",
-    "descripcion": "Serpentina | 25qt 35x19mm",
+    "descripcion": "Serpentina (Pakistán) | 25qt 35x19mm",
     "contexto": "La serpentina es un mineral común, generalmente presente como producto de alteración de ciertos silicatos magnesicos y presenta una dureza de 2.",
     "carpeta": "01_Rocas",
     "width": 616,
@@ -1142,7 +1142,7 @@
   },
   {
     "imagen": "01_Rocas/malaquita.webp",
-    "descripcion": "Malaquita | 13qt 13x7mm",
+    "descripcion": "Malaquita (República Democrática del Congo) | 13qt 13x7mm",
     "contexto": "La malaquita es un dihidróxido de carbonato de cobre de dureza 3.5-4. El paso del tiempo hace que la azurita se transforme en malaquita.",
     "carpeta": "01_Rocas",
     "width": 812,
@@ -1150,7 +1150,7 @@
   },
   {
     "imagen": "01_Rocas/azurita.webp",
-    "descripcion": "Azurita | 38qt 27.6x21mm",
+    "descripcion": "Azurita (Marruecos) | 38qt 27.6x21mm",
     "contexto": "La azurita, de dureza 3.5-4, es un dihidróxido de carbonato de cobre que, mediante la sustitución de dióxido de carbono por agua, se transforma en malaquita.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1158,7 +1158,7 @@
   },
   {
     "imagen": "01_Rocas/turquesa.webp",
-    "descripcion": "Turquesa | 0.85qt 10x5x2mm",
+    "descripcion": "Turquesa (China) | 0.85qt 10x5x2mm",
     "contexto": "La turquesa es un fosfato de aluminio y cobre de dureza 5-6. Su nombre proviene de Turquía, en cuyos mercados se conseguía la piedra.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1166,7 +1166,7 @@
   },
   {
     "imagen": "01_Rocas/apatita.webp",
-    "descripcion": "Apatita (África) | 0.54qt 6x4x2.5mm",
+    "descripcion": "Apatita (Madagascar) | 0.54qt 6x4x2.5mm",
     "contexto": "La apatita es un fosfato de calcio de dureza 5. La apatita es la principal fuente de fosfatos y forma parte del esmalte de los dientes.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1174,7 +1174,7 @@
   },
   {
     "imagen": "01_Rocas/triplita.webp",
-    "descripcion": "Triplita (Paquistán) | 0.22qt 3.8mm",
+    "descripcion": "Triplita (Pakistán) | 0.22qt 3.8mm",
     "contexto": "La triplita es un fosfato de hierro y manganeso con aniones de flúor y/o hidroxilo que además suele llevar como impureza escandio. Su dureza es de 5-5.5.",
     "carpeta": "01_Rocas",
     "width": 861,
@@ -1182,7 +1182,7 @@
   },
   {
     "imagen": "01_Rocas/variscita.webp",
-    "descripcion": "Variscita | 7.47qt 16x12x4mm",
+    "descripcion": "Variscita (China) | 7.47qt 16x12x4mm",
     "contexto": "La variscita o utahlita es un mineral compuesto de fosfato de aluminio dihidratado que posee una dureza de 4.5 y una característica tonalidad verdosa.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1190,7 +1190,7 @@
   },
   {
     "imagen": "01_Rocas/fluorita.webp",
-    "descripcion": "Fluorita | 4.28qt 12.6x9x5.4mm",
+    "descripcion": "Fluorita (China) | 4.28qt 12.6x9x5.4mm",
     "contexto": "La fluorita es un cristal de fluoruro de calcio de dureza 4. Presenta propiedades físicas de termoluminiscencia y fluorescencia a los rayos ultravioleta.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1198,7 +1198,7 @@
   },
   {
     "imagen": "01_Rocas/howlita.webp",
-    "descripcion": "Howlita | 21qt 27x23mm",
+    "descripcion": "Howlita (México) | 21qt 27x23mm",
     "contexto": "La howlita es un borato de calcio con silicio de dureza 3.5 para la roca y 6.5 para sus cristales individuales.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1214,7 +1214,7 @@
   },
   {
     "imagen": "01_Rocas/rodocrosita.webp",
-    "descripcion": "Rodocrosita | 3.47qt 8.5x5mm",
+    "descripcion": "Rodocrosita (Argentina) | 3.47qt 8.5x5mm",
     "contexto": "Este mineral de carbonato de manganeso tiene una dureza de 3.5-4 y su tonalidad varía del rosa al marrón. Es considerada piedra nacional en Argentina.",
     "carpeta": "01_Rocas",
     "width": 891,
@@ -1238,7 +1238,7 @@
   },
   {
     "imagen": "01_Rocas/bastnasita.webp",
-    "descripcion": "Bastnasita (Paquistán) | 0.58qt 5.1x3.6mm",
+    "descripcion": "Bastnasita (Pakistán) | 0.58qt 5.1x3.6mm",
     "contexto": "La bastnasita es un carbonato-fluoruro de cerio, lantano e itrio siendo más común el primer elemento. La dureza es de 4-5.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1246,7 +1246,7 @@
   },
   {
     "imagen": "01_Rocas/calcita.webp",
-    "descripcion": "Calcita | 12qt 26x19mm",
+    "descripcion": "Calcita (México) | 12qt 26x19mm",
     "contexto": "La calcita es el polimorfo más estable del carbonato cálcico con una dureza de 3. Es el principal componente del mármol.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1270,7 +1270,7 @@
   },
   {
     "imagen": "01_Rocas/hematita.webp",
-    "descripcion": "Hematita | 3.98qt 9x7mm",
+    "descripcion": "Hematita (China) | 3.98qt 9x7mm",
     "contexto": "La hematita u oligisto está formada por óxido de hierro y tiene una dureza de 5-6. En la antigüedad se usaba la variedad especularia para la fabricación de espejos.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1278,7 +1278,7 @@
   },
   {
     "imagen": "01_Rocas/psilomelana.webp",
-    "descripcion": "Psilomelana | 13qt 22x13mm",
+    "descripcion": "Psilomelana (Sudáfrica) | 13qt 22x13mm",
     "contexto": "Psilomelana es como se conoce a los minerales de óxido de manganeso. En ocasiones presentan bario y su dureza es de 5-6.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1286,7 +1286,7 @@
   },
   {
     "imagen": "01_Rocas/casiterita.webp",
-    "descripcion": "Casiterita | 1.10qt 6x4mm",
+    "descripcion": "Casiterita (China) | 1.10qt 6x4mm",
     "contexto": "La casiterita es un óxido de estaño de dureza 6-7 que se asocia a la fase tardía de la cristalización granítica y es fundamental para la obtención de estaño.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1294,7 +1294,7 @@
   },
   {
     "imagen": "01_Rocas/unakita.webp",
-    "descripcion": "Unakita | 60qt 44x29.7mm",
+    "descripcion": "Unakita (China) | 60qt 44x29.7mm",
     "contexto": "La unakita es una roca granítica formada por ortoclasa rosa (un feldespato), epidoto verde y cuarzo incoloro con una dureza de 6-7.",
     "carpeta": "01_Rocas",
     "width": 677,
@@ -1318,7 +1318,7 @@
   },
   {
     "imagen": "01_Rocas/pirita.webp",
-    "descripcion": "Pirita | 36.5qt 34x19.3mm",
+    "descripcion": "Pirita (Perú) | 36.5qt 34x19.3mm",
     "contexto": "La pirita es un sulfuro de hierro de dureza 6-6.5, con gran parecido al oro, por lo que se la conoce como el oro de los tontos.",
     "carpeta": "01_Rocas",
     "width": 629,
@@ -1326,7 +1326,7 @@
   },
   {
     "imagen": "01_Rocas/obsidiana.webp",
-    "descripcion": "Obsidiana | 42qt 35.6x28.8mm",
+    "descripcion": "Obsidiana (México) | 42qt 35.6x28.8mm",
     "contexto": "La obsidiana es un vidrio volcánico compuesto de silicatos alumínicos y óxidos con una dureza de 5-5.5. En este caso presenta inclusiones de la sílice cristobalita.",
     "carpeta": "01_Rocas",
     "width": 793,
@@ -1334,7 +1334,7 @@
   },
   {
     "imagen": "01_Rocas/perla.webp",
-    "descripcion": "Perla cultivada (Océano Pacífico) | 7.11qt 10.5x10mm",
+    "descripcion": "Perla cultivada (Tahití) | 7.11qt 10.5x10mm",
     "contexto": "La mayoría de los moluscos ante la agresión de un elemento extraño crean una barrera de nácar (carbonato de calcio de dureza 3.5) que envuelve al intruso para su posterior expulsión.",
     "carpeta": "01_Rocas",
     "width": 801,
@@ -1342,7 +1342,7 @@
   },
   {
     "imagen": "01_Rocas/coralpp.webp",
-    "descripcion": "Coral rojo (Mediterráneo) | 0.14qt 5x3mm",
+    "descripcion": "Coral rojo (Italia) | 0.14qt 5x3mm",
     "contexto": "El coral, con una dureza de 4, es el esqueleto de carbonato cálcico de un pólipo. Hay pólipos de seis y de ocho tentáculos, pero solo los últimos se utilizan en joyería. Los de seis son los de los arrecifes.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1358,7 +1358,7 @@
   },
   {
     "imagen": "01_Rocas/ambar.webp",
-    "descripcion": "Ámbar | 1.46qt 13x7x4.5mm",
+    "descripcion": "Ámbar (Polonia) | 1.46qt 13x7x4.5mm",
     "contexto": "El ámbar es resina vegetal fosilizada y tiene una dureza de 2-3. El término proviene del árabe y significa \"que flota en el mar\".",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -1366,7 +1366,7 @@
   },
   {
     "imagen": "01_Rocas/ebano.webp",
-    "descripcion": "Ébano (África) | 2.35qt 10mm",
+    "descripcion": "Ébano (Gabón) | 2.35qt 10mm",
     "contexto": "El ébano es una madera muy utilizada en ornamentación por su calidad, tonalidad oscura y dureza. Esta madera es tan densa que se hunde en el agua.",
     "carpeta": "01_Rocas",
     "width": 1000,
@@ -2125,6 +2125,22 @@
     "height": 669
   },
   {
+    "imagen": "03_Artefactos/hebilla.webp",
+    "descripcion": "Hebilla medieval (Ochate, Treviño) | siglos XI-XIV | 4.03g 29x27mm",
+    "contexto": "Ochate es un pueblo abandonado en 1934 con fama de maldito debido, entre otras cosas, a tres epidemias sucedidas en 1860, 1864 y 1870 (viruela, tifus y cólera) que acabaron con su población.",
+    "carpeta": "03_Artefactos",
+    "width": 1000,
+    "height": 553
+  },
+  {
+    "imagen": "03_Artefactos/colganteMedieval.webp",
+    "descripcion": "Cruz colgante medieval (Ochate, Treviño) | siglos XI-XIV | 3.30g 26mm",
+    "contexto": "Adorno de fabricación artesanal y chapado en oro, con saliente posterior y agujero, cuya presencia sugiere que fue reutilizado como colgante.",
+    "carpeta": "03_Artefactos",
+    "width": 1000,
+    "height": 557
+  },
+  {
     "imagen": "03_Artefactos/bulaPapal.webp",
     "descripcion": "Bula papal del Papa Eugenio IV 'San Pablo y San Pedro/+·EVGENIVS·PP·IIII·' (Italia) | 1431-1447 | 48.56g 42x38mm",
     "contexto": "Las bulas papales eran documentos sellados con plomo en nombre del Papa. El documento de papiro, pergamino o papel, era enrollado o doblado y asegurado con un sello unido por medio de una cuerda.",
@@ -2155,14 +2171,6 @@
     "carpeta": "03_Artefactos",
     "width": 1000,
     "height": 669
-  },
-  {
-    "imagen": "03_Artefactos/colganteMedieval.webp",
-    "descripcion": "Cruz colgante medieval (Ochate, Treviño) | siglos XVI-XVII | 3.30g 26mm",
-    "contexto": "Ochate es un pueblo abandonado en 1934 con fama de maldito debido, entre otras cosas, a tres epidemias sucedidas en 1860, 1864 y 1870 (viruela, tifus y cólera) que acabaron con su población.",
-    "carpeta": "03_Artefactos",
-    "width": 1000,
-    "height": 557
   },
   {
     "imagen": "03_Artefactos/adornosCinturon.webp",
@@ -5261,38 +5269,6 @@
     "height": 544
   },
   {
-    "imagen": "09_MonedasOtrasCivilizacionesAntiguas/bronceAntioquia.webp",
-    "descripcion": "Bronce acuñado bajo Roma 'Zeus' (Antioquía, Siria) | siglo I aC | 7.59g 19mm",
-    "contexto": "En junio de 47 aC Julio César visitó Antioquía confirmando la libertad a la ciudad a pesar de haber apoyado a Pompeyo en la guerra civil. Se convirtió en el centro militar ante la amenaza de los partos.",
-    "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
-    "width": 1000,
-    "height": 566
-  },
-  {
-    "imagen": "09_MonedasOtrasCivilizacionesAntiguas/broncePergamoRomaSenado.webp",
-    "descripcion": "Bronce acuñado bajo el Imperio Romano 'personificación de Roma/personificación del Senado' (Pérgamo) | 40-60 | 4.06g 17mm",
-    "contexto": "Augusto cambió la capital de Asia de Pérgamo a Éfeso en 27 aC y desde entonces comenzó un lento declive de la ciudad, una de las más importantes de la antigüedad.",
-    "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
-    "width": 1000,
-    "height": 586
-  },
-  {
-    "imagen": "09_MonedasOtrasCivilizacionesAntiguas/bronceGordianoAlejandro.webp",
-    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno' (Koinon, Macedonia) | 238-244 | 10.87g 26mm",
-    "contexto": "La figura de Alejandro era idolatrada en Roma. Julio César lloró al ver su estatua en Hispania, Pompeyo robó su capa, Calígula su coraza y Augusto, al visitar la tumba, declaró que era el único líder que merecía su visita.",
-    "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
-    "width": 1000,
-    "height": 559
-  },
-  {
-    "imagen": "09_MonedasOtrasCivilizacionesAntiguas/bronceGordianoAlejandroBucefalo.webp",
-    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno/Bucéfalo' (Koinon, Macedonia) | 238-244 | 10.31g 26mm",
-    "contexto": "En el anverso se representa a Alejandro cabalgando sobre Bucéfalo, su caballo desde los 9 años, cuando él fue el único capaz de montarlo al ponerlo hacia el sol porque se asustaba de su propia sombra.",
-    "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
-    "width": 1000,
-    "height": 545
-  },
-  {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/cuartoUnidadArabia.webp",
     "descripcion": "Cuarto de unidad 'Atenea/mochuelo' (Reino de Saba) | siglos IV-II aC | 0.97g 11mm",
     "contexto": "Las imitaciones de la moneda ateniense llegaron hasta la península arábiga. El Reino de Saba se encontraba entre el sur de ésta y el cuerno de África y su sociedad era matriarcal, con el poder político heredado por vía femenina.",
@@ -5611,6 +5587,14 @@
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 590
+  },
+  {
+    "imagen": "10_MonedasRepublicaRomana/asAesGravePostSemilibral.webp",
+    "descripcion": "As post-semilibral de aes grave 'Jano/galera' (Roma) | 225-211 aC | 66.72g 41x39mm",
+    "contexto": "La fase post-semilibral es la del colapso del sistema del aes grave; en ella disminuyó su peso rápidamente siendo difícil establecer subfases como la quadrantal (83g) o sextantal (55g) en las que esta moneda no encaja.",
+    "carpeta": "10_MonedasRepublicaRomana",
+    "width": 1000,
+    "height": 580
   },
   {
     "imagen": "10_MonedasRepublicaRomana/quadrigato.webp",
@@ -7445,6 +7429,22 @@
     "height": 545
   },
   {
+    "imagen": "10_MonedasRepublicaRomana/bronceContramarcaRNT.webp",
+    "descripcion": "Bronce contramarcado 'monograma RNT' (Siria) | siglo I aC | 5.88g 17mm",
+    "contexto": "La pieza parece ser originalmente una moneda helenística que, debido al desgaste por circulación, fue contramarcada para que pudiera seguir siendo aceptada como medio de pago.",
+    "carpeta": "10_MonedasRepublicaRomana",
+    "width": 1000,
+    "height": 588
+  },
+  {
+    "imagen": "10_MonedasRepublicaRomana/bronceAntioquia.webp",
+    "descripcion": "Bronce acuñado bajo Roma 'Zeus' (Antioquía, Siria) | siglo I aC | 7.59g 19mm",
+    "contexto": "En junio de 47 aC Julio César visitó Antioquía confirmando la libertad a la ciudad a pesar de haber apoyado a Pompeyo en la guerra civil. Se convirtió en el centro militar ante la amenaza de los partos.",
+    "carpeta": "10_MonedasRepublicaRomana",
+    "width": 1000,
+    "height": 566
+  },
+  {
     "imagen": "11_MonedasImperioRomano/cesarOctavio.webp",
     "descripcion": "Bronce 'Divo Julio Cesar/Octavio' (Tesalónica) | 28-27 aC | 9.23g 22mm",
     "contexto": "Tras la dictadura de Julio Cesar y la Guerra Civil, Octavio inició un periodo de larga paz para Roma: la Pax Augusta, creando los cimientos del Imperio más importante de todos los tiempos.",
@@ -7723,6 +7723,14 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 528
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/broncePergamoRomaSenado.webp",
+    "descripcion": "Bronce acuñado bajo el Imperio Romano 'personificación de Roma/personificación del Senado' (Pérgamo) | 40-60 | 4.06g 17mm",
+    "contexto": "Augusto cambió la capital de Asia de Pérgamo a Éfeso en 27 aC y desde entonces comenzó un lento declive de la ciudad, una de las más importantes de la antigüedad.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 586
   },
   {
     "imagen": "11_MonedasImperioRomano/asNeronLira.webp",
@@ -8547,6 +8555,22 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 499
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/bronceGordianoAlejandro.webp",
+    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno' (Koinon, Macedonia) | 238-244 | 10.87g 26mm",
+    "contexto": "La figura de Alejandro era idolatrada en Roma. Julio César lloró al ver su estatua en Hispania, Pompeyo robó su capa, Calígula su coraza y Augusto, al visitar la tumba, declaró que era el único líder que merecía su visita.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 559
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/bronceGordianoAlejandroBucefalo.webp",
+    "descripcion": "Bronce acuñado bajo Gordiano III 'Alejandro Magno/Bucéfalo' (Koinon, Macedonia) | 238-244 | 10.31g 26mm",
+    "contexto": "En el reverso se representa a Alejandro cabalgando sobre Bucéfalo, su caballo desde los 9 años, cuando él fue el único capaz de montarlo al ponerlo hacia el sol porque se asustaba de su propia sombra.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 545
   },
   {
     "imagen": "11_MonedasImperioRomano/antoninianoFilipoI.webp",
@@ -9435,6 +9459,14 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 547
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaAQP.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Aquileia) | 330-335 | 2.42g 17mm",
+    "contexto": "La muerte de Remo no detuvo a Rómulo, pero dejó una huella trágica en el origen de Roma: su nacimiento fue también una ruptura, un sacrificio que marcó su destino de poder y conflicto.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 508
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaAQS.webp",
@@ -11646,8 +11678,8 @@
   },
   {
     "imagen": "14_MonedasIndia/gadhaya.webp",
-    "descripcion": "Paisa del imperio Chalukya 'Rey/altar de fuego de Zoroastro' (Gadhaya) | siglos X-XIII | 4.79g 15x13mm",
-    "contexto": "Moneda evolucionada del dracma sasánida que, en algunos lugares de la frontera de India con Paquistán, seguía usándose como moneda de intercambio en el siglo XXI.",
+    "descripcion": "Paisa de los Chalukya de Gujarat 'Rey/altar de fuego de Zoroastro' (Gadhaya) | siglos X-XIII | 4.79g 15x13mm",
+    "contexto": "Moneda evolucionada del dracma sasánida que, en algunos lugares de la frontera de India con Pakistán, seguía usándose como moneda de intercambio en el siglo XXI.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 590
@@ -11662,7 +11694,7 @@
   },
   {
     "imagen": "14_MonedasIndia/massaCeilan.webp",
-    "descripcion": "Massa de la Reina Lilavati 'Rey en pie/Rey sentado' (Ceilán) | 1197-1200 | 4.14g 20mm",
+    "descripcion": "Massa de la Reina Lilavati 'Rey en pie/Rey sentado' (Reino de Polonnaruwa, Ceilán) | 1197-1200 | 4.14g 20mm",
     "contexto": "Su dinastía logró expulsar a los Chola de la isla para establecer un reino nativo en 1070 pero, tras sucesivos ataques desde el Sur de la India, Kalinga Magha estableció el Reino Jaffna en 1215.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
@@ -14859,6 +14891,14 @@
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 553
+  },
+  {
+    "imagen": "17_MonedasModernas/kopeksChernenko1984.webp",
+    "descripcion": "20 kopeks de Chernenko (Unión de Repúblicas Socialistas Soviéticas) | 1984 | 3.30g 22mm",
+    "contexto": "Conservador y de salud muy frágil, su mandato fue una continuación pasiva de la era Brezhnev. No implementó reformas significativas y murió al poco tiempo de asumir el poder.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 534
   },
   {
     "imagen": "17_MonedasModernas/kopeksGorbachov.webp",
