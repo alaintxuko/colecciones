@@ -257,7 +257,7 @@
     "contexto": "",
     "compra": "",
     "carpeta": "colecciones.RES",
-    "width": 7729,
+    "width": 7642,
     "height": 4725
   },
   {
@@ -294,7 +294,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 2935
+    "height": 1925
   },
   {
     "imagen": "colecciones.RES/33_ImperioRusoURSS.webp",
@@ -312,7 +312,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 1619
+    "height": 2827
   },
   {
     "imagen": "colecciones.RES/35_PlataXVIII-XX.webp",
@@ -330,7 +330,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 10000,
-    "height": 6193
+    "height": 4475
   },
   {
     "imagen": "colecciones.RES/37_MonedasContemporaneas.webp",
@@ -1250,7 +1250,7 @@
     "contexto": "La calcita es el polimorfo más estable del carbonato cálcico con una dureza de 3. Es el principal componente del mármol.",
     "carpeta": "01_Rocas",
     "width": 1000,
-    "height": 835
+    "height": 834
   },
   {
     "imagen": "01_Rocas/piedraescriturachina.webp",
@@ -11565,14 +11565,6 @@
     "height": 497
   },
   {
-    "imagen": "14_MonedasIndia/kakaniImperioSunga.webp",
-    "descripcion": "Kakani 'elefante/símbolos' (Imperio Sunga) | 187-75 aC | 2.62g 15mm",
-    "contexto": "Pusiamitra asesinó al último rey del Imperio Maurya y usurpó el trono para fundar el Imperio Sunga, que fue hostil al budismo y luchó contra los indogriegos.",
-    "carpeta": "14_MonedasIndia",
-    "width": 1000,
-    "height": 600
-  },
-  {
     "imagen": "14_MonedasIndia/unidadImperioSatavahana.webp",
     "descripcion": "Unidad de Satakarni 'elefante/símbolo de Ujjain' (Imperio Satavahana) | 70-50 aC | 2.73g 19x17mm",
     "contexto": "Los Satavahanas fueron una dinastía india que gobernó en la región del Deccan, en el sur de la India, desde el siglo II aC hasta el siglo III dC.",
@@ -11622,7 +11614,7 @@
   },
   {
     "imagen": "14_MonedasIndia/estateraToramanaII.webp",
-    "descripcion": "Estatera de bronce póstuma de Toramana II 'Toramana II/diosa' (Cachemira) | 570-855 | 6.92g 21mm",
+    "descripcion": "Estatera de bronce póstuma de Toramana II 'Toramana II/diosa' (Reino de Cachemira) | 570-855 | 6.92g 21mm",
     "contexto": "Cosroes I exterminó a los heftalitas en el siglo VI, tras lo cual en Cachemira se estableció un reino que mantuvo las monedas del último rey heftalita Toramana II.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
@@ -11682,7 +11674,7 @@
     "contexto": "Moneda evolucionada del dracma sasánida que, en algunos lugares de la frontera de India con Pakistán, seguía usándose como moneda de intercambio en el siglo XXI.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
-    "height": 590
+    "height": 581
   },
   {
     "imagen": "14_MonedasIndia/dracmaChahamanas.webp",
@@ -11703,7 +11695,7 @@
   {
     "imagen": "14_MonedasIndia/indiaVaca.webp",
     "descripcion": "Jital de Muiz ud din Bahram 'toro/jinete' (Sultanato de Delhi) | 1240-1242 | 3.42g 13mm",
-    "contexto": "El sultanato nació cuando en 1206 un esclavo asumió el poder tras la muerte de su patrón proclamando la independencia del Imperio Ghurid.",
+    "contexto": "El sultanato nació cuando en 1206 un esclavo asumió el poder tras la muerte de su patrón proclamando la independencia del Imperio Gúrida.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 572
@@ -11747,14 +11739,6 @@
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 674
-  },
-  {
-    "imagen": "14_MonedasIndia/mogol.webp",
-    "descripcion": "Dam de Akbar el Grande (Dogaon, Imperio Mogol) | 1556-1605 | 20.19g 22mm",
-    "contexto": "Los emperadores mogoles eran musulmanes y descendientes directos de Gengis Khan. Akbar consiguió un gran progreso económico y cultural que hizo que su imperio durara hasta 1757.",
-    "carpeta": "14_MonedasIndia",
-    "width": 1000,
-    "height": 576
   },
   {
     "imagen": "14_MonedasIndia/kasuNayakasMadurai.webp",
@@ -13222,8 +13206,8 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroCarolingio.webp",
-    "descripcion": "Dinero de Carlomagno 'cruz/monograma' (Melle, Imperio Carolingio) | 793-814/840-864 | 1.54g 22.5mm",
-    "contexto": "Aunque típicamente asignada a Carlomagno, pudo ser acuñada por su nieto Carlos II el Calvo, que conservó el monograma KRLS en sus monedas. Carlomagno es considerado el padre de Europa.",
+    "descripcion": "Dinero de Carlomagno/Carlos el Calvo 'cruz/monograma' (Melle, Imperio Carolingio) | 793-814/843-864 | 1.54g 22.5mm",
+    "contexto": "Aunque típicamente asignada a Carlomagno, pudo ser acuñada por su nieto Carlos II el Calvo, que conservó el monograma KRLS. Recibió Francia Occidental en el Tratado de Verdún que dividió el Imperio Carolingio.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 511
@@ -14534,11 +14518,19 @@
   },
   {
     "imagen": "17_MonedasModernas/coronaReinoUnidoLadyDi1981.webp",
-    "descripcion": "Corona de Isabel II 'Isabel II/Carlos de Gales y Lady Diana' (Londres, Imperio Británico) | 1981 | 28.43g 38.5mm",
+    "descripcion": "Corona de Isabel II 'Isabel II/Carlos de Gales y Lady Diana' (Llantrisant, Gales, Imperio Británico) | 1981 | 28.43g 38.5mm",
     "contexto": "El Príncipe Carlos se casó en 1981 con la aristócrata Lady Diana, hija del conde Spencer y se acabó separando en 1996 en lo que fue una de las relaciones más mediáticas de la época.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 541
+  },
+  {
+    "imagen": "17_MonedasModernas/libraIsabelII.webp",
+    "descripcion": "Libra de Isabel II 'Isabel II/leones ingleses' (Llantrisant, Gales, Imperio Británico) | 2002 | 9.48g 22.5mm",
+    "contexto": "El reinado de Isabel II, el más largo en la historia británica, fue un símbolo de continuidad en tiempos de grandes cambios sociales y políticos.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 563
   },
   {
     "imagen": "17_MonedasModernas/tradeDolar1911.webp",
@@ -15451,6 +15443,22 @@
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 541
+  },
+  {
+    "imagen": "17_MonedasModernas/pesetasJuanCarlosI.webp",
+    "descripcion": "100 pesetas de Juan Carlos I (Madrid, España) | 1980 | 17.02g 34.5mm",
+    "contexto": "Juan Carlos I, elegido como sucesor por Franco, lideró la transición y gobernó con escándalos de corrupción que desembocaron en su abdicación.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 556
+  },
+  {
+    "imagen": "17_MonedasModernas/euroFelipeVI.webp",
+    "descripcion": "Euro de Felipe VI (Madrid, España) | 2017 | 7.49g 23mm",
+    "contexto": "Felipe VI asumió el trono tras la abdicación de su padre, enfocándose en la recuperación de la credibilidad tras los escándalos que marcaron el reinado anterior.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 584
   },
   {
     "imagen": "17_MonedasModernas/pesoArgentina1882.webp",
