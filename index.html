@@ -638,10 +638,9 @@ document.getElementById('boton-tema').addEventListener('click', () => {
 });
 
 // Aplicar preferencia guardada al cargar
-if (localStorage.getItem('tema') === 'oscuro') {
+if (localStorage.getItem('tema') !== 'claro') {
   document.body.classList.add('tema-oscuro');
 }
-
 
 </script>
 
