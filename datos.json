@@ -2453,6 +2453,14 @@
     "height": 1000
   },
   {
+    "imagen": "04_Premonedas/premonedaSultanatoKedah.webp",
+    "descripcion": "Premoneda de anillos del gallo del Sultán Muhammad Jiwa Zainal Abidin Muazzam Shah (Sultanato de Kedah, Malasia) | 1710-1773 | 3.86g 36x16mm",
+    "contexto": "El Sultanato de Kedah dominó el estrecho de Malaca conectando China, India y el mundo islámico. Esta premoneda se basaba en el real de a 8 español, con un valor de 5 céntimos para el gallo y 1 céntimo para cada anillo conectado a él.",
+    "carpeta": "04_Premonedas",
+    "width": 1000,
+    "height": 570
+  },
+  {
     "imagen": "04_Premonedas/premonedaDorome.webp",
     "descripcion": "Premoneda de la tribu Dorome (Nigeria) | ~1900 | 7.71g 26mm",
     "contexto": "Según Dillingham, estos anillos eran la forma de pago de las mercancías que llegaban a las tribus Dorome, mediante carretas de burro. Los jefes de tribu eran los depositarios de los anillos.",
@@ -11565,6 +11573,22 @@
     "height": 497
   },
   {
+    "imagen": "14_MonedasIndia/kakaniImperioSunga.webp",
+    "descripcion": "Kakani 'elefante/símbolos' (Imperio Sunga) | 187-75 aC | 2.31g 15x13mm",
+    "contexto": "Pusiamitra asesinó al último rey del Imperio Maurya y usurpó el trono para fundar el Imperio Sunga, que fue hostil al budismo y luchó contra los indogriegos.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 582
+  },
+  {
+    "imagen": "14_MonedasIndia/medioKarshapanaPanchala.webp",
+    "descripcion": "Medio karshapana de Indamitra 'deidad en pilar/símbolos Panchala' (Reino de Panchala) | 75-50 aC | 3.98g 16mm",
+    "contexto": "El Reino de Panchala destacó como uno de los reinos más importantes de la India en época védica tardía (1100-500 aC) y es célebre en la epopeya del Mahabharata.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 580
+  },
+  {
     "imagen": "14_MonedasIndia/unidadImperioSatavahana.webp",
     "descripcion": "Unidad de Satakarni 'elefante/símbolo de Ujjain' (Imperio Satavahana) | 70-50 aC | 2.73g 19x17mm",
     "contexto": "Los Satavahanas fueron una dinastía india que gobernó en la región del Deccan, en el sur de la India, desde el siglo II aC hasta el siglo III dC.",
@@ -11677,12 +11701,28 @@
     "height": 581
   },
   {
+    "imagen": "14_MonedasIndia/imperioSrivijaya.webp",
+    "descripcion": "Moneda de estaño tipo haba 'flor/cobra' (Imperio Srivijaya, río Musi, Sumatra, Indonesia) | siglos XI-XIII | 0.77g 8mm",
+    "contexto": "El imperio Srivijaya fue un poderoso reino marítimo clave en el comercio entre China, India y el sudeste asiático. Fue muy influenciado por la cultura de la India, especialmente el budismo mahayana.",
+    "carpeta": "14_MonedasIndia",
+    "width": 969,
+    "height": 575
+  },
+  {
     "imagen": "14_MonedasIndia/dracmaChahamanas.webp",
     "descripcion": "Dracma de Ajay Pal Sakhambari 'diosa Lakshmi/leyenda' (Reino de los Chahamanas de Shakambhari) | 1100-1125 | 4.45g 15mm",
     "contexto": "Los Chahamanas gobernaron como vasallos de los Pratiharas hasta el siglo X y a partir del siglo XI comenzaron a enfrentarse a las invasiones musulmanas",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 566
+  },
+  {
+    "imagen": "14_MonedasIndia/jitalImperioGurida.webp",
+    "descripcion": "Jital de Muḥammad Bin Sām 'jinete/toro' (Delhi, Imperio Gúrida) | 1193-1206 | 3.61g 16mm",
+    "contexto": "El imperio Gúrida, originario de Ghor, en Afganistán, se expandió hacia el norte de India. Muḥammad Bin Sām conquistó Delhi estableciendo las bases del dominio islámico de la región.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 575
   },
   {
     "imagen": "14_MonedasIndia/massaCeilan.webp",
@@ -11725,12 +11765,68 @@
     "height": 575
   },
   {
+    "imagen": "14_MonedasIndia/tankaSultanatoJaunpur.webp",
+    "descripcion": "Tanka de Ibrahim Shah (Sultanato de Jaunpur) | 1423 | 9.27g 17mm",
+    "contexto": "El Sultanato de Jaunpur, surgido en 1394 tras independizarse del Sultanato de Delhi, alcanzó su apogeo bajo Ibrahim Shah (1402–1440).",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 634
+  },
+  {
+    "imagen": "14_MonedasIndia/medioTankaSultanatoMalwa.webp",
+    "descripcion": "Media tanka de Ghiyath Shah (Sultanato de Malwa) | 1469-1500 | 5.52g 21.5mm",
+    "contexto": "El Sultanato de Malwa se originó tras la fragmentación del Sultanato de Delhi y se enfrentó a los Sultanatos de Delhi al norte y Bahmaní al sur.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 548
+  },
+  {
+    "imagen": "14_MonedasIndia/mediaTankaSultanatoGujarat.webp",
+    "descripcion": "Media tanka de Mahmud I (Sultanato de Gujarat) | 1481 | 4.30g 14mm",
+    "contexto": "El Sultanato de Gujarat, surgido de la independencia del Sultanato de Delhi en 1407, alcanzó su mayor prosperidad bajo Mahmud I (1458–1511).",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 639
+  },
+  {
+    "imagen": "14_MonedasIndia/kesarahSultanatoCachemira.webp",
+    "descripcion": "Kesarah de Fat'h Shah (Sultanato de Cachemira) | 1487-1517 | 5.46g 20mm",
+    "contexto": "El Sultanato de Cachemira surgió de manera independiente en el siglo XIV y se consolidó como autónomo hasta su incorporación al Imperio Mogol en el siglo XVI.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 544
+  },
+  {
     "imagen": "14_MonedasIndia/bele.webp",
     "descripcion": "Bele (1/10 fanam) 'imagen sagrada/leyenda real' (Vijayanagara) | siglo XVI | 0.04g 2mm",
     "contexto": "Esta moneda es la más pequeña de la historia y se corresponde a un rico Imperio del Sur de la India que alcanzó su mayor auge en el siglo XVI, cuando comenzaron los ataques musulmanes.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 674
+  },
+  {
+    "imagen": "14_MonedasIndia/mogol.webp",
+    "descripcion": "Dam de Akbar el Grande (Dogaon, Imperio Mogol) | 1556-1605 | 20.19g 22mm",
+    "contexto": "Los emperadores mogoles eran musulmanes y descendientes directos de Gengis Khan. Akbar consiguió un gran progreso económico y cultural que hizo que su imperio durara hasta 1757.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 645
+  },
+  {
+    "imagen": "14_MonedasIndia/rupiaMogolAkbar.webp",
+    "descripcion": "Rupia de Akbar el Grande (Ahmadabad, Imperio Mogol) | octubre-noviembre 1601 | 11.44g 20mm",
+    "contexto": "Akbar introdujo el calendario Ilahi, que se iniciaba con su coronación. En las monedas incluso se indicaba el mes persa zoroastriano.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 588
+  },
+  {
+    "imagen": "14_MonedasIndia/rupiaMogolAurangzeb.webp",
+    "descripcion": "Rupia de Aurangzeb (Surat, Imperio Mogol) | 1674 | 11.48g 24mm",
+    "contexto": "Aurangzeb expandió el imperio a su mayor extensión con la conquista del Decán y parte del Sur de la India pero dejó el imperio debilitado por disputas internas.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 583
   },
   {
     "imagen": "14_MonedasIndia/kasuNayakasMadurai.webp",
@@ -13197,12 +13293,36 @@
     "height": 519
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroMerovingio.webp",
+    "descripcion": "Dinero 'M/rombos' (Marsella/Melle, Dinastía merovingia) | 725-751 | 1.20g 12mm",
+    "contexto": "Los merovingios consolidaron la unidad del Reino de los francos, aunque al final su poder fue dominado por los mayordomos de palacio y finalmente suplantado por los carolingios.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 561
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroCarlomagno.webp",
+    "descripcion": "Dinero de Carlomagno 'CARO LUS/LIM' (Limoges, Reino de los francos) | 768-793 | 1.20g 19mm",
+    "contexto": "Carlomagno es considerado el padre de Europa ya que unificó gran parte del continente. Fue coronado emperador en el año 800, imitando la tradición del Imperio romano.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 543
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroCarolingio.webp",
     "descripcion": "Dinero de Carlomagno/Carlos el Calvo 'cruz/monograma' (Melle, Imperio Carolingio) | 793-814/843-864 | 1.54g 22.5mm",
     "contexto": "Aunque típicamente asignada a Carlomagno, pudo ser acuñada por su nieto Carlos II el Calvo, que conservó el monograma KRLS. Recibió Francia Occidental en el Tratado de Verdún que dividió el Imperio Carolingio.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 511
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroLudovicoPio.webp",
+    "descripcion": "Dinero de Ludovico Pío 'cruz/templo' (Imperio Carolingio) | 822-840 | 1.77g 20.5mm",
+    "contexto": "Ludovico Pío, hijo de Carlomagno, destacó por su devoción religiosa y sus intentos de mantener la unidad del imperio antes de fragmentarse tras su muerte.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 533
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/oboleSenyorioBearn.webp",
@@ -15446,11 +15566,11 @@
   },
   {
     "imagen": "17_MonedasModernas/euroFelipeVI.webp",
-    "descripcion": "Euro de Felipe VI (Madrid, España) | 2017 | 7.49g 23mm",
+    "descripcion": "Euro de Felipe VI (Madrid, España) | 2023 | 7.54g 23mm",
     "contexto": "Felipe VI asumió el trono tras la abdicación de su padre, enfocándose en la recuperación de la credibilidad tras los escándalos que marcaron el reinado anterior.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
-    "height": 584
+    "height": 545
   },
   {
     "imagen": "17_MonedasModernas/pesoArgentina1882.webp",
