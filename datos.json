@@ -2333,6 +2333,14 @@
     "height": 735
   },
   {
+    "imagen": "03_Artefactos/medallaVietcong.webp",
+    "descripcion": "Medalla 'combatienete ejemplar' (Vietnam del Norte) | 1974 | 8.03g 46x30mm",
+    "contexto": "Esta medalla fue otorgada por Vietnam del Norte a los combatientes ejemplares. La guerra contra EEUU y el gobierno de Vietnam del Sur finalizó en 1975.",
+    "carpeta": "03_Artefactos",
+    "width": 1000,
+    "height": 788
+  },
+  {
     "imagen": "03_Artefactos/pegatinaETA.webp",
     "descripcion": "Pegatina de Euskadi Ta Askatasuna | 1980-2000 | 1.36g 103x69mm",
     "contexto": "ETA fue el último grupo terrorista de Europa tras el fin del IRA en 2005. Su lema, 'bietan jarrai' significa 'adelante en las dos', es decir, con el hacha (lucha militar) y la serpiente (política).",
@@ -11461,9 +11469,17 @@
     "height": 518
   },
   {
+    "imagen": "13_MonedasLejanoOriente/cashMinhMang.webp",
+    "descripcion": "Cash vietnamita de Minh Mang (dinastía Nguyen 1802-1945) | 1820-1841 | 2.37g 23mm",
+    "contexto": "Minh Mang, hijo del fundador de la dinastía, Gia Long, fortaleció la administración central antes de que en 1947 comenzara la colonización francesa.",
+    "carpeta": "13_MonedasLejanoOriente",
+    "width": 1000,
+    "height": 525
+  },
+  {
     "imagen": "13_MonedasLejanoOriente/cashVietFrancia.webp",
-    "descripcion": "10 wen vietnamitas de Than Thai (dinastía Nguyen 1802-1945) | 1889-1907 | 3.95g 26mm",
-    "contexto": "Than Thai fue establecido como emperador por los franceses a los 10 años tras el asesinato de su padre. De gran inteligencia, realizó una resistencia pasiva que derivó en su exilio.",
+    "descripcion": "Cash vietnamita de Thanh Thai (dinastía Nguyen 1802-1945) | 1889-1907 | 3.95g 26mm",
+    "contexto": "Thanh Thai fue establecido como emperador por los franceses a los 10 años tras el asesinato de su padre. De gran inteligencia, realizó una resistencia pasiva que derivó en su exilio.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
     "height": 514
@@ -14645,6 +14661,14 @@
     "height": 563
   },
   {
+    "imagen": "17_MonedasModernas/peniquesCarlosIII.webp",
+    "descripcion": "50 peniques de Carlos III 'Carlos III/escudos' (Llantrisant, Gales, Imperio Británico) | 2022 | 8.01g 27mm",
+    "contexto": "Carlos III accedió al trono a los 73 años, dada la longevidad de su madre. Lo hizo ya enfermo de cáncer con el reto de adaptar la monarquía en un mundo moderno y cambiante.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 518
+  },
+  {
     "imagen": "17_MonedasModernas/tradeDolar1911.webp",
     "descripcion": "Dólar de comercio 'Britania' (Bombay, Imperio Británico) | 1911 | 26.88g 39mm",
     "contexto": "Estas monedas se acuñaron en la India para facilitar el comercio del Imperio Británico en oriente, por lo que incluye en el reverso texto en chino y malayo.",
@@ -14942,15 +14966,23 @@
   },
   {
     "imagen": "17_MonedasModernas/kopeksMalenkov.webp",
-    "descripcion": "20 kopeks de Malenkov (San Petersburgo, Imperio Ruso) | 1954 | 3.53g 22mm",
+    "descripcion": "20 kopeks de Malenkov (San Petersburgo, Unión de Repúblicas Socialistas Soviéticas) | 1954 | 3.53g 22mm",
     "contexto": "Breve sucesor de Stalin, intentó reducir la represión y dar prioridad a la industria ligera y el bienestar social. Fue desplazado rápidamente por Jrushchov.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 541
   },
   {
+    "imagen": "17_MonedasModernas/rubloJrushchov.webp",
+    "descripcion": "Rublo de Jrushchov (San Petersburgo, Unión de Repúblicas Socialistas Soviéticas) | 1961 | 0.49g 105x53mm",
+    "contexto": "En este llamado rublo políglota aparece el valor en 14 idiomas: ruso, azerí, armenio, georgiano, letón, lituano, estonio, kazajo, kirguís, tayiko, turcomano, uzbeco, ucraniano y bielorruso.",
+    "carpeta": "17_MonedasModernas",
+    "width": 933,
+    "height": 1000
+  },
+  {
     "imagen": "17_MonedasModernas/kopeksJrushchov.webp",
-    "descripcion": "15 kopeks de Jrushchov (San Petersburgo, Imperio Ruso) | 1962 | 2.55g 20mm",
+    "descripcion": "15 kopeks de Jrushchov (San Petersburgo, Unión de Repúblicas Socialistas Soviéticas) | 1962 | 2.55g 20mm",
     "contexto": "Jrushchov lideró la desestalinización denunciando los crímenes de Stalin. Impulsó la carrera espacial pero perdió poder tras fracasos como la Crisis de los Misiles de Cuba.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -16061,6 +16093,22 @@
     "height": 542
   },
   {
+    "imagen": "17_MonedasModernas/dongVietnamNorte.webp",
+    "descripcion": "2 dong 'Ho Chi Minh/estrella' (Vietnam del Norte) | 1946 | 11.44g 31mm",
+    "contexto": "Ho Chi Minh derrotó a los japoneses para conseguir la independencia en 1945, negoció la retirada de los chinos, derrotó a los francese y pusos las bases de la victoria final contra EEUU.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 520
+  },
+  {
+    "imagen": "17_MonedasModernas/xuVietnam.webp",
+    "descripcion": "Xu 'emblema' (Vietnam del Norte) | 1958 | 0.89g 20mm",
+    "contexto": "La guerra de Vietnam comenzó en 1955 y enfrentó a Vietnam del Norte y sus aliados del Sur (Viet Cong) contra el gobierno de Vietnam del Sur y EEUU.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 532
+  },
+  {
     "imagen": "17_MonedasModernas/dongGuerraVietnam.webp",
     "descripcion": "Dong de FAO 'arroz' (Vietnam del Sur) | 1971 | 1.18g 22mm",
     "contexto": "Esta moneda de aluminio fue acuñada en plena Guerra Fría durante la guerra de Vietnam, que es considerada como la primera derrota de los EEUU.",
@@ -16163,6 +16211,14 @@
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 954
+  },
+  {
+    "imagen": "17_MonedasModernas/yuanRPChina1999.webp",
+    "descripcion": "Billete de 1 yuan de Jiang Zemin 'Mao Zedong/lago del Oeste' (República Popular de China) | 1999 | 0.75g 131x63mm",
+    "contexto": "Con Jiang Zemin, que continuó el aperturismo de Deng Xiaoping, China entro en la Organización Mundial de Comercio (2001)",
+    "carpeta": "17_MonedasModernas",
+    "width": 988,
+    "height": 1000
   },
   {
     "imagen": "17_MonedasModernas/yuanesPartidoComunista2021.webp",
