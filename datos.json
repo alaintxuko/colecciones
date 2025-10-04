@@ -11189,30 +11189,6 @@
     "height": 513
   },
   {
-    "imagen": "13_MonedasLejanoOriente/monedaNarizHormiga.webp",
-    "descripcion": "Premoneda dinero fantasma o nariz de hormiga 'bei' (Reino de Chu, China) | 476-221 aC | 1.25g 14x10mm",
-    "contexto": "Estas premonedas presentan un tamaño y forma similar a las conchas cauri y en este caso aparece con la inscripción 'bei' que significa 'concha'.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 756
-  },
-  {
-    "imagen": "13_MonedasLejanoOriente/monedaAzada.webp",
-    "descripcion": "Moneda azada (1/2 Jin=12 Shu) 'Kuan' (dinastía Zhou 1046-221 aC) | 350-255 aC | 4.13g 44x26mm",
-    "contexto": "La dinastía Zhou acabó derivando en señoríos feudales y entre 481 y 220 aC se produjo el periodo de los estados guerreros en el que el estado Qin, del oeste, salió victorioso.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 836
-  },
-  {
-    "imagen": "13_MonedasLejanoOriente/monedaCuchillo.webp",
-    "descripcion": "Moneda cuchillo (30 shu) 'Ming' (dinastía Zhou 1046-221 aC) | 325-250 aC | 14.94g 136x16mm",
-    "contexto": "En el noreste chino, zona de caza y pesca, se utilizaban más las monedas cuchillo mientras que en el resto, zona de agricultores, usaban la más extendida moneda azada.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 513
-  },
-  {
     "imagen": "13_MonedasLejanoOriente/chinaZhou.webp",
     "descripcion": "Yi Hua, estado Yan (dinastía Zhou 1046-221 aC) | 300-220 aC | 1.45g 19mm",
     "contexto": "La dinastía Zhou fue la última dinastía de reyes. En su época vivieron los grandes pensadores chinos de la antigüedad, como Confucio.",
@@ -11405,14 +11381,6 @@
     "height": 528
   },
   {
-    "imagen": "13_MonedasLejanoOriente/chinaMingRebeldes.webp",
-    "descripcion": "Cash del rebelde Wu Sangui (rebeldes dinastía Ming 1644-1681) | 1674-1678 | 3.94g 25mm",
-    "contexto": "Tras la conquista de China por los manchúes de la dinastía Qing en 1644, surgieron diversos rebeldes Ming. Wu Sangui abrió la muralla china a los manchúes para acabar rebelándose.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 519
-  },
-  {
     "imagen": "13_MonedasLejanoOriente/chinaQing1661.webp",
     "descripcion": "Cash del emperador Kangxi (dinastía Qing 1644-1912) | 1661-1722 | 2.87g 25mm",
     "contexto": "La dinastía Qing, procedente de Manchuria, conquistó Pekín y consolidó la expansión territorial de China. En China ha sido considerada una dinastía opresora.",
@@ -11435,22 +11403,6 @@
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
     "height": 534
-  },
-  {
-    "imagen": "13_MonedasLejanoOriente/chinaQing1875.webp",
-    "descripcion": "Cash del emperador Guangxu (dinastía Qing 1644-1912) | 1875-1908 | 3.96g 25mm",
-    "contexto": "Reinó bajo la tutela de su tía Cixi, cuya política xenófoba concluyó con la intervención militar de las potencias europeas, Japón y Estados Unidos en 1900.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 525
-  },
-  {
-    "imagen": "13_MonedasLejanoOriente/coreaChoson.webp",
-    "descripcion": "Cash coreano (dinastía Choson 1392-1910) | 1742-1891 | 4.67g 24mm",
-    "contexto": "Esta dinastía reinó en Corea bajo una gran influencia china hasta ser conquistada por Japón. En este periodo se creó la escritura alfabética coreana Hangul.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 527
   },
   {
     "imagen": "13_MonedasLejanoOriente/tangkaTibet.webp",
@@ -13195,14 +13147,6 @@
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 532
-  },
-  {
-    "imagen": "16_MonedasAbsolutismoEuropeo/arditeFelipeIV.webp",
-    "descripcion": "Ardite de Felipe IV 'Felipe IV/escudo de Barcelona' (Barcelona) | 1651 | 1.01g 16mm",
-    "contexto": "Entre 1640 y 1652 se produjo en Cataluña una sublevación denominada Guerra de los Segadores. Los sublevados protestaban por los abusos del Ejército Español que luchaban contra los franceses.",
-    "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "width": 1000,
-    "height": 527
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/resello.webp",
