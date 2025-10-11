@@ -11198,7 +11198,7 @@
   },
   {
     "imagen": "13_MonedasLejanoOriente/monedaAzada.webp",
-    "descripcion": "Moneda pala (1/2 Jin=12 Shu) 'Kuan' (dinastía Zhou 1046-221 aC, Reino de Zhao) | 350-255 aC | 4.13g 44x26mm",
+    "descripcion": "Moneda pala (1/2 Jin=12 Shu) 'Kuan' (dinastía Zhou 1046-221 aC, Reino de Qin) | 350-255 aC | 4.13g 44x26mm",
     "contexto": "La dinastía Zhou acabó derivando en señoríos feudales y entre 476 y 221 aC se produjo el periodo de los reinos combatientes en el que el estado Qin, del oeste, salió victorioso.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
@@ -11214,11 +11214,11 @@
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaZhou.webp",
-    "descripcion": "Yi Hua, estado Yan (dinastía Zhou 1046-221 aC) | 300-220 aC | 1.45g 19mm",
+    "descripcion": "Yi Hua, estado Yan (dinastía Zhou 1046-221 aC, Reino de Yan) | 300-220 aC | 1.45g 19mm",
     "contexto": "La dinastía Zhou fue la última dinastía de reyes. En su época vivieron los grandes pensadores chinos de la antigüedad, como Confucio.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 534
+    "height": 538
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaQin.webp",
@@ -11226,7 +11226,7 @@
     "contexto": "El rey de los Qin fundó una nueva dinastía surgiendo, por primera vez en la historia, un estado chino fuerte, centralizado y unificado.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 543
+    "height": 519
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaHan.webp",
@@ -11234,7 +11234,7 @@
     "contexto": "Liu Bang estableció esta nueva dinastía y China prosperó con rapidez; la agricultura, la industria y el comercio florecieron.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 520
+    "height": 519
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaWangMang.webp",
@@ -11242,7 +11242,7 @@
     "contexto": "La dinastía Han se vio interrumpida brevemente por el usurpador por excelencia de la historia china, Wang Mang, que intentó organizar un estado basado en el pensamiento confuciano.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 502
+    "height": 549
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaHanEste.webp",
@@ -11250,7 +11250,7 @@
     "contexto": "Los inicios de la dinastía Han Oriental fueron prósperos; en 105 Cai Lun inventó una técnica para hacer papel de gran calidad.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 519
+    "height": 534
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaShu.webp",
@@ -11258,7 +11258,7 @@
     "contexto": "Entre las dinastías Han y Sui hubo un periodo de disputas en lo que se conoce como las Seis Dinastías (220-589) que comenzó con el periodo de los Tres Reinos (220-280).",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 528
+    "height": 525
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaNorteSur.webp",
@@ -11266,7 +11266,7 @@
     "contexto": "Las monedas Wu Zhu (5 Zhu, donde 1 Zhu son 0.64 g) fueron emitidas desde la dinastía Han del Oeste a la dinastía Sui incluídas, durante 700 años. Fueron frecuentemente cinceladas (Zao Bian) para obtener dos monedas.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 509
+    "height": 534
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaWeiOeste.webp",
@@ -11274,7 +11274,7 @@
     "contexto": "Tras la caída de la dinastía Jin, cuya acuñación de moneda es desconocida, en el periodo de las Dinastías Norte-Sur el Norte y el Sur de China fue gobernado por dinastías diferentes.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 525
+    "height": 537
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaLiang.webp",
@@ -11282,7 +11282,7 @@
     "contexto": "El emperador Wu de la dinastía Liang es conocido por su tolerancia aboliendo las ejecuciones y el sacrificio de animales.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 508
+    "height": 543
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaSui.webp",
@@ -11290,15 +11290,7 @@
     "contexto": "En el año 581 Yang Jian (Wen) se hizo con el poder reunificando el sur y el norte e iniciando una etapa de reformas institucionales y de consolidación del poder central.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 523
-  },
-  {
-    "imagen": "13_MonedasLejanoOriente/chinaTang.webp",
-    "descripcion": "Cash del emperador Gaozu, era Xiao Yu (dinastía Tang 618-907) | 618-626 | 3.59g 23mm",
-    "contexto": "La primera parte de la dinastía Tang fue una época de esplendor de la civilización china equivalente o superior al periodo Han.",
-    "carpeta": "13_MonedasLejanoOriente",
-    "width": 1000,
-    "height": 515
+    "height": 526
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaTangWuzong.webp",
@@ -11442,7 +11434,7 @@
     "contexto": "Reinó bajo la tutela de su tía Cixi, cuya política xenófoba concluyó con la intervención militar de las potencias europeas, Japón y Estados Unidos en 1900.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
-    "height": 525
+    "height": 539
   },
   {
     "imagen": "13_MonedasLejanoOriente/coreaChoson.webp",
