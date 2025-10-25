@@ -60,7 +60,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 2725
+    "height": 2377
   },
   {
     "imagen": "colecciones.RES/07_AsesRepublicaRomana.webp",
@@ -195,7 +195,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 6360,
-    "height": 3211
+    "height": 2819
   },
   {
     "imagen": "colecciones.RES/22_FelTempReparatio.webp",
@@ -4597,6 +4597,14 @@
     "height": 545
   },
   {
+    "imagen": "08_MonedaIberica/asBarskunes3.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 11.48g 25mm",
+    "contexto": "Este tipo se caracteriza también por los adornos a los lados del cuello, que desaparecerían posteriormente.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 548
+  },
+  {
     "imagen": "08_MonedaIberica/asBarskunes8702.webp",
     "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 8.37g 25mm",
     "contexto": "Este as presenta una cabeza evolucionada del anterior y en el reverso la leyenda BaRSKuNES lleva la última S invertida.",
@@ -4613,6 +4621,14 @@
     "height": 555
   },
   {
+    "imagen": "08_MonedaIberica/asBarskunes5-2.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 8.85g 23mm",
+    "contexto": "Este tipo es similar al anterior pero con un estilo más tosco, con una mandíbula mucho más pronunciada.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 551
+  },
+  {
     "imagen": "08_MonedaIberica/asBarskunes8706.webp",
     "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 7.87g 24mm",
     "contexto": "Este tipo presenta un busto tosco con unos rizos muy particulares y una leyenda en la que la S final aparece invertida.",
@@ -4621,12 +4637,12 @@
     "height": 527
   },
   {
-    "imagen": "08_MonedaIberica/asBarskunes8706-2.webp",
-    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 9.05g 24mm",
-    "contexto": "En este as el busto es del mismo tipo pero con claras diferencias, como una cabeza de mayor tamaño y un pelo más voluminoso.",
+    "imagen": "08_MonedaIberica/asBarskunes6-2.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 9.61g 26x24mm",
+    "contexto": "En este caso los rizos son mucho más marcados y se nota mejor que están contenidos dentro de la línea que dibuja la cabeza.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
-    "height": 548
+    "height": 538
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes8705-2.webp",
@@ -4635,6 +4651,14 @@
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 568
+  },
+  {
+    "imagen": "08_MonedaIberica/asBarskunes8706-2.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 9.05g 24mm",
+    "contexto": "En este as el busto es del mismo tipo pero con una cabeza de mayor tamaño y un pelo más voluminoso.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 548
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes8705-3.webp",
@@ -4663,18 +4687,34 @@
   {
     "imagen": "08_MonedaIberica/asBarskunes8704.webp",
     "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 7.13g 23mm",
-    "contexto": "Este tipo es más variado en cuanto a estilos de bustos. Aquí la cabeza es pequeña y menos robusta.",
+    "contexto": "Este tipo es el más variado en cuanto a estilos de bustos. Aquí la cabeza es pequeña y menos robusta.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 546
   },
   {
+    "imagen": "08_MonedaIberica/asBarskunes9-3.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 7.75g 24mm",
+    "contexto": "Con un estilo similar al anterior en el anverso, en el reverso presenta línea de exergo bajo la leyenda.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 563
+  },
+  {
     "imagen": "08_MonedaIberica/asBarskunes8704-2.webp",
     "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 8.85g 24mm",
-    "contexto": "En estas emisiones, probablemente más tardías, el busto recuerda al estilo final de Baskunes, típico en los denarios.",
+    "contexto": "En estas emisiones, probablemente más tardías, el busto recuerda al estilo final de Baskunes, típico de los denarios.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 545
+  },
+  {
+    "imagen": "08_MonedaIberica/asBarskunes10.webp",
+    "descripcion": "As vascón 'BaSKuNES' (Baskunes) | 110-90 aC | 7.68g 25mm",
+    "contexto": "El busto es de estilo final, con Benkota detrás, pero unos rizos irregulares que lo diferencian de los tipos finales.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 527
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes.webp",
@@ -4955,6 +4995,14 @@
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 566
+  },
+  {
+    "imagen": "08_MonedaIberica/asEkualakos.webp",
+    "descripcion": "As celtibérico 'EKuALAKoS' (Ekualakos) | 140-90 aC | 13.56g 26mm",
+    "contexto": "La ceca de Ekualakos se asigna a la zona de Soria y al pueblo celtíbero de los pelendones, situado entre berones (al norte) y arevacos, junto a los que lucharon contra Roma.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 560
   },
   {
     "imagen": "08_MonedaIberica/denarioSekobirikes.webp",
@@ -9397,9 +9445,17 @@
     "height": 545
   },
   {
-    "imagen": "11_MonedasImperioRomano/centenionalRomaTRP.webp",
-    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Lugdunum) | 330-335 | 2.44g 18mm",
+    "imagen": "11_MonedasImperioRomano/centenionalRomaTRP1.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Treveri) | 330-335 | 2.48g 19x17mm",
     "contexto": "Aquella escena primitiva, con los gemelos amamantados en la cueva, marcaría para siempre el imaginario romano: su ciudad no nacía como otras, sino de un milagro.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 511
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaTRP.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Treveri) | 330-335 | 2.44g 18mm",
+    "contexto": "En aquel silencio del bosque, bajo la mirada de la loba, los gemelos crecieron como hijos de la naturaleza, destinados a levantar una ciudad más fuerte que los hombres que la engendraron.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 538
@@ -9483,6 +9539,14 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 508
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaAQP2.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Aquileia) | 330-335 | 2.63g 19x17mm",
+    "contexto": "El peso de esa pérdida acompañó siempre a Rómulo, que convirtió su culpa en determinación: Roma debía ser tan poderosa que su origen sangriento quedara redimido por la gloria.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 524
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaAQS.webp",
@@ -11291,6 +11355,14 @@
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
     "height": 526
+  },
+  {
+    "imagen": "13_MonedasLejanoOriente/chinaTang.webp",
+    "descripcion": "Cash del emperador Gaozu, era Xiao Yu (dinastía Tang 618-907) | 618-626 | 3.29g 25mm",
+    "contexto": "La primera parte de la dinastía Tang fue una época de esplendor de la civilización china equivalente o superior al periodo Han.",
+    "carpeta": "13_MonedasLejanoOriente",
+    "width": 1000,
+    "height": 515
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaTangWuzong.webp",
@@ -13179,6 +13251,14 @@
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 554
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/arditeFelipeIII.webp",
+    "descripcion": "Ardite de Felipe III el Piadoso 'Felipe III/escudo de Barcelona' (Barcelona) | 1616 | 1.41g 16.5mm",
+    "contexto": "El ardite es una moneda con valor de dos dineros usada en Cataluña en los siglos XVI-XVIII y cuyo nombre proviene del catalán medieval 'ardit', que significa 'valiente'.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 516
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/cornadoFelipe.webp",
