@@ -2,7 +2,7 @@
   {
     "imagen": "colecciones.RES/00_Historia.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Recopilación de 100 items de la colección que describen los principales acontecimientos de la historia de la humanidad.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8000,
@@ -11,7 +11,7 @@
   {
     "imagen": "colecciones.RES/01_GreciaAntigua.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Recopilación de monedas de la Antigua Grecia, desde la clásica hasta el periodo romano, cubriendo toda su extensión.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 10000,
@@ -20,7 +20,7 @@
   {
     "imagen": "colecciones.RES/02_Aquemenidas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas imperiales persas durante la monarquía aqueménida, desde Darío I hasta la caída ante Alejandro Magno.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -29,7 +29,7 @@
   {
     "imagen": "colecciones.RES/03_PeriodoHelenistico.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Series de monedas helenísticas, desde los argéadas de Macedonia hasta los reinos fundados por los diádocos de Alejandro Magno.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -38,7 +38,7 @@
   {
     "imagen": "colecciones.RES/04_PrincipalesCecasIbericas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas de las cecas más importantes de la época prerromana en la península ibérica.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5300,
@@ -47,7 +47,7 @@
   {
     "imagen": "colecciones.RES/05_DenariosIbericos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de los denarios ibéricos más representativos, incluyendo pueblos íberos, celtíberos y vascones.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5804,
@@ -56,7 +56,7 @@
   {
     "imagen": "colecciones.RES/06_Baskunes.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Recopilación de monedas de la ceca de Baskunes/Barskunes incluyendo, ases, denarios e imitaciones.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -65,7 +65,7 @@
   {
     "imagen": "colecciones.RES/07_AsesRepublicaRomana.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Ases de la República Romana, desde el aes grave de un cuarto de kilo hasta el as de 10-15 gramos que seguiría en el Imperio.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -74,7 +74,7 @@
   {
     "imagen": "colecciones.RES/08_MonedasRepublicaRomana.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas de la República Romana que incluye todos los valores desde la quartuncia hasta el denario.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 3000,
@@ -83,7 +83,7 @@
   {
     "imagen": "colecciones.RES/09_DenariosRepublicaRomana.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Serie de denarios de todas las familias (gens) de la República Romana que acuñaron en plata en época preimperatorial.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8000,
@@ -92,7 +92,7 @@
   {
     "imagen": "colecciones.RES/10_DenariosSaturnino.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de denarios de Lucio Apuleyo Saturnino con todas las marcas de control.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -101,7 +101,7 @@
   {
     "imagen": "colecciones.RES/11_DenariosLegionarios.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de denarios acuñados por Marco Antonio a nombre de todas las legiones.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -110,7 +110,7 @@
   {
     "imagen": "colecciones.RES/12_EmperadoresRomanos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas de todos los emperadores oficiales de Roma desde Augusto hasta la división definitiva del Imperio.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -119,7 +119,7 @@
   {
     "imagen": "colecciones.RES/13_MujeresImperioRomano.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas las mujeres más importantes del Imperio Romano.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -128,7 +128,7 @@
   {
     "imagen": "colecciones.RES/14_UsurpadoresRomanos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas de los principales usurpadores romanos indicando dónde dominaron y los emperadores usurpados.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 3000,
@@ -137,7 +137,7 @@
   {
     "imagen": "colecciones.RES/15_MilenarioRomaFilipoI.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Monedas acuñadas por Filipo I con motivo del milenario de la fundación de Roma.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -146,7 +146,7 @@
   {
     "imagen": "colecciones.RES/16_AntoninianosGalienoZoo.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de antoninianos de Galieno en los que aparecen animales, conocidas como el zoo de Galieno.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 6300,
@@ -155,7 +155,7 @@
   {
     "imagen": "colecciones.RES/17_AntoninianosGalienoZooRumiantes.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de rumiantes de las monedas del zoo de Galieno con fotos de los animales reales que representaban.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 4175,
@@ -164,7 +164,7 @@
   {
     "imagen": "colecciones.RES/18_AntoninianosProbo.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de antoninianos de Probo, con los tipos más comunes que cubren una gran variedad de reversos.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -173,7 +173,7 @@
   {
     "imagen": "colecciones.RES/19_AntoninianosProboEQVITI.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Serie de antoninianos de la ceca de Ticinum donde se descubre el término EQVITI al ordenar las oficinas.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 1068,
@@ -182,7 +182,7 @@
   {
     "imagen": "colecciones.RES/20_ConstantinoIGloriaExercitvs.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de centenionales GLORIA EXERCITVS de Constantino I en todas sus cecas y de Antioquía con todos los emperadores.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -191,7 +191,7 @@
   {
     "imagen": "colecciones.RES/21_VRBSROMA.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas conmemorativas de Roma con motivo de la fundación de Constantinopla. Incluye todas las cecas y diversas oficinas.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 6360,
@@ -200,7 +200,7 @@
   {
     "imagen": "colecciones.RES/22_FelTempReparatio.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de monedas FEL TEMP REPARATIO con todos los tipos, emperadores y cecas principales.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -209,7 +209,7 @@
   {
     "imagen": "colecciones.RES/23_DeidadesMitologiaGrecorromana.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de deidades de las mitologías griega y romana. En la fila superior aparecen los principales 12 dioses olímpicos.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 7200,
@@ -218,7 +218,7 @@
   {
     "imagen": "colecciones.RES/24_China.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas de todos los periodos/dinastías de la historia de China.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -227,7 +227,7 @@
   {
     "imagen": "colecciones.RES/25_India.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas representativas de la historia de la India.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -236,7 +236,7 @@
   {
     "imagen": "colecciones.RES/26_DracmasSasanidas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de dracmas imperiales persas de los más importantes emperadores sasánidas.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -245,7 +245,7 @@
   {
     "imagen": "colecciones.RES/27_MonedasIslamicas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas de los principales imperios/civilizaciones del mundo islámico.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -254,7 +254,7 @@
   {
     "imagen": "colecciones.RES/28_ReinosMedievalesEuropeos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de monedas que cubren el periodo medieval a lo largo de Europa.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 7642,
@@ -263,7 +263,7 @@
   {
     "imagen": "colecciones.RES/29_ImperioBizantino.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas de los principales emperadores bizantinos desde la división del imperio romano con Teodosio I.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -272,7 +272,7 @@
   {
     "imagen": "colecciones.RES/30_SacroImperioRomanoGermanico.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de los más influyentes reinos del Sacro Imperio Romano Germánico.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 3930,
@@ -281,7 +281,7 @@
   {
     "imagen": "colecciones.RES/31_MonedasAlambreRusia.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas de alambre de los principales zares de Rusia hasta Pedro I el Grande.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -290,7 +290,7 @@
   {
     "imagen": "colecciones.RES/32_MonarcasEspana.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monarcas de España desde su unificación con los Reyes Católicos.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -299,7 +299,7 @@
   {
     "imagen": "colecciones.RES/33_ImperioRusoURSS.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas del Imperio Ruso y la URSS para los principales emperadores y presidentes respectivamente.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -308,7 +308,7 @@
   {
     "imagen": "colecciones.RES/34_MonarcasReinoUnido.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Conjunto de monedas del Reino Unido desde su formación en 1707.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -317,7 +317,7 @@
   {
     "imagen": "colecciones.RES/35_PlataXVIII-XX.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de las principales monedas de plata de gran peso (~20g) desde el siglo XVIII al XX.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
@@ -326,7 +326,7 @@
   {
     "imagen": "colecciones.RES/36_CentsLincoln.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Centavos de dólar de EE. UU. del tipo Lincoln para todos los años, desde 1909 hasta 2025, cuando finalizó su acuñación.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 10000,
@@ -335,7 +335,7 @@
   {
     "imagen": "colecciones.RES/37_MonedasContemporaneas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de un ejemplo de cada moneda oficial reconocida por ISO 4217 desde 1978, inluyendo algunas no oficiales.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 10000,
@@ -344,7 +344,7 @@
   {
     "imagen": "colecciones.RES/38_Gemas.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de las gemas y piedras preciosas más importantes.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 7520,
@@ -353,7 +353,7 @@
   {
     "imagen": "colecciones.RES/39_Fosiles.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Selección de fósiles que cubren el desarrollo de la vida desde los estromatolitos hasta los grandes mamíferos.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 3474,
@@ -362,7 +362,7 @@
   {
     "imagen": "colecciones.RES/40_Microprocesadores.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de microprocesadores con todos los tipos principales.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8499,
@@ -371,7 +371,7 @@
   {
     "imagen": "colecciones.RES/41_Videojuegos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de un ejemplo de juego de cada gran consola de la historia de los videojuegos.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 11732,
@@ -380,7 +380,7 @@
   {
     "imagen": "colecciones.RES/42_JuegosGameBoyMasVendidos.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Lista de juegos de Game Boy que vendieron un millón o más unidades.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8000,
@@ -389,7 +389,7 @@
   {
     "imagen": "colecciones.RES/43_JuegosGameBoyCodes.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de un ejemplo de cada código de zona de los juegos de Game Boy.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8000,
@@ -398,7 +398,7 @@
   {
     "imagen": "colecciones.RES/44_JuegosGameBoy.webp",
     "descripcion": "",
-    "contexto": "",
+    "contexto": "Colección de juegos de Game Boy seleccionados por importancia y preferencia.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 8000,
@@ -4643,6 +4643,14 @@
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 538
+  },
+  {
+    "imagen": "08_MonedaIberica/asBarskunes6-3.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 10.48g 24mm",
+    "contexto": "Al igual que en el anterior, se observa una línea de exergo recta con una leyenda curva sobre ella.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 547
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes8705-2.webp",
