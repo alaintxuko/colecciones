@@ -509,12 +509,19 @@ function mostrarGaleria(carpeta) {
     const descripcionTexto = escapeHtml(item.descripcion || '');
 
     // El caption para PhotoSwipe, puede tener <br> para separar
-const parts = [
-  item.descripcion ? escapeHtml(item.descripcion) : '',
-  item.contexto ? escapeHtml(item.contexto) : ''
-].filter(Boolean);
+// Si es colecciones.RES → solo contexto en PhotoSwipe
+let captionHtml;
 
-const captionHtml = parts.join('<br>');
+if (item.carpeta === 'colecciones.RES') {
+  captionHtml = item.contexto ? escapeHtml(item.contexto) : '';
+} else {
+  // Resto de carpetas → descripción + contexto
+  const parts = [
+    item.descripcion ? escapeHtml(item.descripcion) : '',
+    item.contexto ? escapeHtml(item.contexto) : ''
+  ].filter(Boolean);
+  captionHtml = parts.join('<br>');
+}
 
     // Nota: el atributo data-caption con HTML se soporta en v4 para la leyenda
     // Pero PhotoSwipe no interpreta HTML, se mostrará como texto plano,
