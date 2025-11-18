@@ -435,11 +435,18 @@ function abrirPhotoSwipeEn(index) {
 
   gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, galleryItems, options);
 
-  gallery.listen('gettingData', function(idx, item) {
+gallery.listen('gettingData', function(index, item) {
+
+    // FORZAR CAPTION CORRECTO
+    const link = galleryDiv.querySelectorAll('a')[index];
+    const caption = link.getAttribute('data-caption');
+    item.title = caption || '';
+
+    // Mantener el reemplazo de saltos
     if(item.title) {
-      item.title = item.title.replace(/\n/g, '<br>').replace(/&lt;br&gt;/g, '<br>');
+        item.title = item.title.replace(/\n/g, '<br>').replace(/&lt;br&gt;/g, '<br>');
     }
-  });
+});
 
   gallery.init();
 }
@@ -502,8 +509,7 @@ function mostrarGaleria(carpeta) {
     const thumbDiv = document.createElement('div');
     thumbDiv.className = 'thumb';
 
-    // Mostrar descripción bajo miniatura solo si NO es colecciones.RES
-    const showCaptionBelow = carpeta !== 'colecciones.RES';
+    const showCaptionBelow = true;
 
     // Descripción limpia para mostrar bajo miniatura (sin etiquetas)
     const descripcionTexto = escapeHtml(item.descripcion || '');
