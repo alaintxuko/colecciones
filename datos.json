@@ -1,6 +1,6 @@
 [
   {
-    "imagen": "colecciones.RES/00_Historia.webp",
+    "imagen": "colecciones.RES/01_Historia.webp",
     "descripcion": "Recopilación de 100 items de la colección que describen los principales acontecimientos de la historia de la humanidad.",
     "contexto": "La lista expone desde las herramientas de piedra prehistóricas y las primeras escrituras hasta el atentado del 11S pasando por los principales imperios y civilizaciones del mundo.",
     "compra": "",
@@ -9,7 +9,7 @@
     "height": 4867
   },
   {
-    "imagen": "colecciones.RES/01_GreciaAntigua.webp",
+    "imagen": "colecciones.RES/02_GreciaAntigua.webp",
     "descripcion": "Recopilación de monedas de la Antigua Grecia, desde la clásica hasta el periodo romano, cubriendo toda su extensión.",
     "contexto": "La Antigua Grecia fue una cuna de conocimiento y creatividad, donde florecieron la filosofía, el arte, la política y la ciencia que aún influyen en el mundo moderno.",
     "compra": "",
@@ -18,7 +18,7 @@
     "height": 6029
   },
   {
-    "imagen": "colecciones.RES/02_Aquemenidas.webp",
+    "imagen": "colecciones.RES/03_Aquemenidas.webp",
     "descripcion": "Conjunto de monedas imperiales persas durante la monarquía aqueménida, desde Darío I hasta la caída ante Alejandro Magno.",
     "contexto": "El Imperio aqueménida fue una vasta y diversa potencia que unió culturas bajo un gobierno organizado, destacándose por su tolerancia, administración eficiente y grandiosas obras.",
     "compra": "",
@@ -27,7 +27,7 @@
     "height": 3444
   },
   {
-    "imagen": "colecciones.RES/03_PeriodoHelenistico.webp",
+    "imagen": "colecciones.RES/04_PeriodoHelenistico.webp",
     "descripcion": "Series de monedas helenísticas, desde los argéadas de Macedonia hasta los reinos fundados por los diádocos de Alejandro Magno.",
     "contexto": "El periodo helenístico fue una era de intensa mezcla cultural, donde las ideas griegas se difundieron y fusionaron con tradiciones de Asia y Egipto, creando nuevas formas de arte, ciencia y pensamiento.",
     "compra": "",
@@ -36,7 +36,7 @@
     "height": 2823
   },
   {
-    "imagen": "colecciones.RES/04_PrincipalesCecasIbericas.webp",
+    "imagen": "colecciones.RES/05_PrincipalesCecasIbericas.webp",
     "descripcion": "Selección de monedas de las cecas más importantes de la época prerromana en la península ibérica.",
     "contexto": "La Hispania prerromana fue un mosaico de pueblos y culturas —íberos, celtas, tartesios...— caracterizado por su diversidad social, lingüística y religiosa antes de la llegada del dominio romano.",
     "compra": "",
@@ -45,7 +45,7 @@
     "height": 2359
   },
   {
-    "imagen": "colecciones.RES/05_DenariosIbericos.webp",
+    "imagen": "colecciones.RES/06_DenariosIbericos.webp",
     "descripcion": "Selección de los denarios ibéricos más representativos, incluyendo pueblos íberos, celtíberos y vascones.",
     "contexto": "Estos pueblos vivían en oppida fortificados como comunidades tribales, con una economía basada en la agricultura y la metalurgia y contactos comerciales con el Mediterráneo.",
     "compra": "",
@@ -54,16 +54,25 @@
     "height": 3741
   },
   {
-    "imagen": "colecciones.RES/06_Baskunes.webp",
+    "imagen": "colecciones.RES/07_Baskunes.webp",
     "descripcion": "Recopilación de monedas de la ceca de Baskunes/Barskunes incluyendo ases, denarios e imitaciones.",
     "contexto": "Los vascones fueron un pueblo prerromano del área pirenaica y navarra, caracterizado por su resistencia a la plena integración cultural en los procesos de celtización y helenización que afectaron a otras zonas de la península.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 2377
+    "height": 2439
   },
   {
-    "imagen": "colecciones.RES/07_AsesRepublicaRomana.webp",
+    "imagen": "colecciones.RES/08_FasesMonedaRomana.webp",
+    "descripcion": "Fases de las monedas romanas más extendidas desde el aes rude hasta el nummus minimus.",
+    "contexto": "Esta crónica monetaria evoluciona desde la solidez de la expansión republicana y el orden de la Pax Romana, hasta la vorágine inflacionaria que marcó la agonía del Imperio.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 5000,
+    "height": 2234
+  },
+  {
+    "imagen": "colecciones.RES/09_AsesRepublicaRomana.webp",
     "descripcion": "Ases de la República Romana, desde el aes grave de un cuarto de kilo hasta el as de 10-15 gramos que seguiría en el Imperio.",
     "contexto": "El as fue la unidad básica de moneda en la República Romana, utilizada principalmente para transacciones cotidianas. Inicialmente representaba la medida de peso de un libra de bronce.",
     "compra": "",
@@ -72,7 +81,7 @@
     "height": 3342
   },
   {
-    "imagen": "colecciones.RES/08_MonedasRepublicaRomana.webp",
+    "imagen": "colecciones.RES/10_MonedasRepublicaRomana.webp",
     "descripcion": "Conjunto de monedas de la República Romana que incluye todos los valores desde la quartuncia hasta el denario.",
     "contexto": "La República Romana estableció sistemas políticos, legales y administrativos que sirvieron de modelo para muchas naciones europeas posteriores y difundió la cultura y la lengua latina que influyeron en gran parte del continente.",
     "compra": "",
@@ -81,7 +90,7 @@
     "height": 1636
   },
   {
-    "imagen": "colecciones.RES/09_DenariosRepublicaRomana.webp",
+    "imagen": "colecciones.RES/11_DenariosRepublicaRomana.webp",
     "descripcion": "Serie de denarios de todas las familias (gens) de la República Romana que acuñaron en plata en época preimperatorial.",
     "contexto": "Las familias o gens de la República romana mostraban su prestigio en sus monedas, donde a menudo destacaban a sus antepasados ilustres así como otros mensajes políticos.",
     "compra": "",
@@ -90,7 +99,7 @@
     "height": 4035
   },
   {
-    "imagen": "colecciones.RES/10_DenariosSaturnino.webp",
+    "imagen": "colecciones.RES/12_DenariosSaturnino.webp",
     "descripcion": "Conjunto de denarios de Lucio Apuleyo Saturnino con todas las marcas de control.",
     "contexto": "Saturnino, un tribuno turbulento de finales de la República romana, usó su alianza con Mario y sus reformas radicales para desafiar al Senado, convirtiéndose en símbolo de la creciente tensión política que desgarraba a Roma.",
     "compra": "",
@@ -99,7 +108,7 @@
     "height": 1611
   },
   {
-    "imagen": "colecciones.RES/11_DenariosLegionarios.webp",
+    "imagen": "colecciones.RES/13_DenariosLegionarios.webp",
     "descripcion": "Conjunto de denarios acuñados por Marco Antonio a nombre de todas las legiones.",
     "contexto": "Las legiones de Marco Antonio fueron un pilar esencial en su lucha por el poder tras la muerte de César, si bien no poseía tantas como parecen indicar las monedas.",
     "compra": "",
@@ -108,7 +117,7 @@
     "height": 2376
   },
   {
-    "imagen": "colecciones.RES/12_EmperadoresRomanos.webp",
+    "imagen": "colecciones.RES/14_EmperadoresRomanos.webp",
     "descripcion": "Conjunto de monedas de todos los emperadores oficiales de Roma desde Augusto hasta la división definitiva del Imperio.",
     "contexto": "Los emperadores romanos utilizaban las monedas para difundir su imagen y autoridad, convirtiendo cada moneda en un instrumento de propaganda imperial.",
     "compra": "",
@@ -117,8 +126,8 @@
     "height": 3020
   },
   {
-    "imagen": "colecciones.RES/13_MujeresImperioRomano.webp",
-    "descripcion": "Selección de monedas las mujeres más importantes del Imperio Romano.",
+    "imagen": "colecciones.RES/15_MujeresImperioRomano.webp",
+    "descripcion": "Selección de monedas de las mujeres más importantes del Imperio Romano.",
     "contexto": "Las mujeres en el Imperio Romano jugaron roles decisivos en la política y la sociedad, influyendo en emperadores y decisiones clave, aunque sin gozar de derechos políticos formales.",
     "compra": "",
     "carpeta": "colecciones.RES",
@@ -126,8 +135,8 @@
     "height": 2544
   },
   {
-    "imagen": "colecciones.RES/14_UsurpadoresRomanos.webp",
-    "descripcion": "Selección de monedas de los principales usurpadores romanos indicando dónde dominaron y los emperadores usurpados.",
+    "imagen": "colecciones.RES/16_UsurpadoresRomanos.webp",
+    "descripcion": "Selección de monedas de los principales usurpadores romanos indicando dónde gobernaron y los emperadores usurpados.",
     "contexto": "Los usurpadores romanos fueron individuos que intentaron arrebatar el poder al emperador legítimo, proclamándose emperadores en provincias o ejércitos rebeldes y desatando conflictos internos y crisis políticas.",
     "compra": "",
     "carpeta": "colecciones.RES",
@@ -135,7 +144,7 @@
     "height": 1713
   },
   {
-    "imagen": "colecciones.RES/15_MilenarioRomaFilipoI.webp",
+    "imagen": "colecciones.RES/17_MilenarioRomaFilipoI.webp",
     "descripcion": "Monedas acuñadas por Filipo I con motivo del milenario de la fundación de Roma.",
     "contexto": "El Milenario de Roma fue la celebración del mil aniversario de la fundación de la ciudad, marcada por ceremonias, juegos y actos religiosos para honrar su historia y legitimidad.",
     "compra": "",
@@ -144,25 +153,25 @@
     "height": 3024
   },
   {
-    "imagen": "colecciones.RES/16_AntoninianosGalienoZoo.webp",
-    "descripcion": "Conjunto de antoninianos de Galieno en los que aparecen animales, conocidos como \"el zoo de Galieno\".",
+    "imagen": "colecciones.RES/18_ZooGalieno.webp",
+    "descripcion": "El 'zoo de Galieno': conjunto de antoninianos de Galieno en los que aparecen animales y criaturas mitológicas.",
     "contexto": "La explicación más probable de la presencia de animales en tantas monedas de Galieno es como petición de protección a los dioses a los que aparecen ligadas, fundamental en tiempos de crisis.",
     "compra": "",
     "carpeta": "colecciones.RES",
-    "width": 6300,
-    "height": 2455
+    "width": 5000,
+    "height": 3050
   },
   {
-    "imagen": "colecciones.RES/17_AntoninianosGalienoZooRumiantes.webp",
-    "descripcion": "Selección de rumiantes de las monedas del zoo de Galieno con fotos de los animales reales que representaban.",
-    "contexto": "Al comparar los rumiantes que aparecen en las monedas de Galieno se muestra que hay una variedad y un conocimiento zoológico mayor de lo que parece a simple vista.",
+    "imagen": "colecciones.RES/19_AnimalesZooGalieno.webp",
+    "descripcion": "Selección de animales de las monedas del zoo de Galieno con fotos de los animales reales que representaban.",
+    "contexto": "Al estudiar los animales, especialmente los rumiantes, que aparecen en las monedas de Galieno se muestra que hay una variedad y un conocimiento zoológico mayor de lo que parece a simple vista.",
     "compra": "",
     "carpeta": "colecciones.RES",
-    "width": 4175,
+    "width": 5925,
     "height": 3375
   },
   {
-    "imagen": "colecciones.RES/18_AntoninianosProbo.webp",
+    "imagen": "colecciones.RES/20_AntoninianosProbo.webp",
     "descripcion": "Selección de antoninianos de Probo, con los tipos más comunes que cubren una gran variedad de reversos.",
     "contexto": "Bajo Probo, los antoninianos alcanzaron su punto máximo en riqueza iconográfica y calidad artística, con una gran variedad de motivos que combinaban propaganda, simbolismo y destreza numismática.",
     "compra": "",
@@ -171,7 +180,7 @@
     "height": 3137
   },
   {
-    "imagen": "colecciones.RES/19_AntoninianosProboEQVITI.webp",
+    "imagen": "colecciones.RES/21_AntoninianosProboEQVITI.webp",
     "descripcion": "Serie de antoninianos de la ceca de Ticinum donde se descubre el término EQVITI al ordenar las oficinas.",
     "contexto": "Esta serie es un ejemplo de propaganda numismática creativa y destaca la importancia de la caballería para Probo en el gobierno y en sus campañas militares.",
     "compra": "",
@@ -180,7 +189,7 @@
     "height": 3294
   },
   {
-    "imagen": "colecciones.RES/20_ConstantinoIGloriaExercitvs.webp",
+    "imagen": "colecciones.RES/22_ConstantinoIGloriaExercitvs.webp",
     "descripcion": "Conjunto de centenionales GLORIA EXERCITVS de Constantino I en todas sus cecas y de Antioquía con todos los emperadores.",
     "contexto": "El tipo GLORIA EXERCITVS se convirtió en el diseño más difundido de la historia de Roma, simbolizando la fuerza militar y la legitimidad del poder imperial.",
     "compra": "",
@@ -189,7 +198,7 @@
     "height": 2287
   },
   {
-    "imagen": "colecciones.RES/21_VRBSROMA.webp",
+    "imagen": "colecciones.RES/23_VRBSROMA.webp",
     "descripcion": "Selección de monedas conmemorativas de Roma con motivo de la fundación de Constantinopla. Incluye todas las cecas y diversas oficinas.",
     "contexto": "Tras fundar Constantinopla, Constantino acuñó las monedas VRBS ROMA para subrayar que Roma seguía siendo el símbolo central de poder y legitimidad del Imperio.",
     "compra": "",
@@ -198,7 +207,7 @@
     "height": 2819
   },
   {
-    "imagen": "colecciones.RES/22_FelTempReparatio.webp",
+    "imagen": "colecciones.RES/24_FelTempReparatio.webp",
     "descripcion": "Colección de monedas FEL TEMP REPARATIO con todos los tipos, emperadores y cecas principales.",
     "contexto": "Las monedas FEL TEMP REPARATIO celebraban la “restauración de los tiempos felices”, transmitiendo victoria, estabilidad y legitimidad del emperador tras décadas de crisis.",
     "compra": "",
@@ -207,7 +216,7 @@
     "height": 2696
   },
   {
-    "imagen": "colecciones.RES/23_DeidadesMitologiaGrecorromana.webp",
+    "imagen": "colecciones.RES/25_DeidadesMitologiaGrecorromana.webp",
     "descripcion": "Selección de deidades de las mitologías griega y romana. En la fila superior aparecen los principales 12 dioses olímpicos.",
     "contexto": "En Grecia y Roma, los dioses y la mitología fueron clave para explicar el mundo, guiar la vida y reforzar la cultura, la política y los valores de cada sociedad.",
     "compra": "",
@@ -216,7 +225,7 @@
     "height": 3406
   },
   {
-    "imagen": "colecciones.RES/24_China.webp",
+    "imagen": "colecciones.RES/26_China.webp",
     "descripcion": "Conjunto de monedas de todos los periodos/dinastías de la historia de China.",
     "contexto": "China es una civilización milenaria caracterizada por dinastías poderosas, avances en tecnología, filosofía y un Estado centralizado.",
     "compra": "",
@@ -225,7 +234,7 @@
     "height": 2922
   },
   {
-    "imagen": "colecciones.RES/25_India.webp",
+    "imagen": "colecciones.RES/27_India.webp",
     "descripcion": "Selección de monedas representativas de la historia de la India.",
     "contexto": "India es una civilización antigua caracterizada por su enorme diversidad cultural, religiosa y lingüística, con un desarrollo intelectual y artístico destacado.",
     "compra": "",
@@ -234,7 +243,7 @@
     "height": 2170
   },
   {
-    "imagen": "colecciones.RES/26_DracmasSasanidas.webp",
+    "imagen": "colecciones.RES/28_DracmasSasanidas.webp",
     "descripcion": "Conjunto de dracmas imperiales persas de los más importantes emperadores sasánidas.",
     "contexto": "El Imperio sasánida fue un imperio persa rival de Roma y Bizancio, con zoroastrismo como religión oficial y destacado desarrollo militar y cultural.",
     "compra": "",
@@ -243,7 +252,7 @@
     "height": 2493
   },
   {
-    "imagen": "colecciones.RES/27_MonedasIslamicas.webp",
+    "imagen": "colecciones.RES/29_MonedasIslamicas.webp",
     "descripcion": "Selección de monedas de los principales imperios/civilizaciones del mundo islámico.",
     "contexto": "El mundo islámico es una civilización surgida en el siglo VII, caracterizada por su unidad religiosa bajo el Islam, gran diversidad cultural y lingüística, y notables avances científicos, artísticos y comerciales.",
     "compra": "",
@@ -252,7 +261,16 @@
     "height": 2493
   },
   {
-    "imagen": "colecciones.RES/28_ReinosMedievalesEuropeos.webp",
+    "imagen": "colecciones.RES/30_AlAndalus.webp",
+    "descripcion": "Selección de monedas del periodo de dominación islámica en la península ibérica (Al-Ándalus).",
+    "contexto": "De la sobria hegemonía del dirham califal a la sofisticación estética de la moneda nazarí, Al-Ándalus floreció durante casi ocho siglos como el puente cultural y científico entre Oriente y Occidente.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 5000,
+    "height": 2289
+  },
+  {
+    "imagen": "colecciones.RES/31_ReinosMedievalesEuropeos.webp",
     "descripcion": "Selección de monedas que cubren el periodo medieval a lo largo de Europa.",
     "contexto": "La época medieval en Europa fue un periodo caracterizado por la fragmentación política, el feudalismo, la influencia de la Iglesia y un desarrollo gradual de la cultura, el comercio y las ciudades.",
     "compra": "",
@@ -261,7 +279,7 @@
     "height": 4725
   },
   {
-    "imagen": "colecciones.RES/29_ImperioBizantino.webp",
+    "imagen": "colecciones.RES/32_ImperioBizantino.webp",
     "descripcion": "Conjunto de monedas de los principales emperadores bizantinos desde la división del imperio romano con Teodosio I.",
     "contexto": "El Imperio bizantino fue la continuación del Imperio romano en Oriente, centrado en Constantinopla, con fuerte influencia cristiana y gran poder político y cultural.",
     "compra": "",
@@ -270,7 +288,7 @@
     "height": 2509
   },
   {
-    "imagen": "colecciones.RES/30_SacroImperioRomanoGermanico.webp",
+    "imagen": "colecciones.RES/33_SacroImperioRomanoGermanico.webp",
     "descripcion": "Selección de los más influyentes reinos del Sacro Imperio Romano Germánico.",
     "contexto": "El Sacro Imperio fue una confederación de territorios en Europa central (962‑1806) heredero simbólico de Roma, con emperador electo y mezcla de poder religioso y secular.",
     "compra": "",
@@ -279,7 +297,16 @@
     "height": 2700
   },
   {
-    "imagen": "colecciones.RES/31_MonedasAlambreRusia.webp",
+    "imagen": "colecciones.RES/34_EspanaMedieval.webp",
+    "descripcion": "Selección de monedas de la España cristiana entre los visigodos y los Reyes Católicos.",
+    "contexto": "Forjada en el avance hacia el sur desde los reductos del norte, la España cristiana evolucionó desde los primeros dineros de vellón hasta la potencia del real, con la unión dinástica de los Reyes Católicos y el nacimiento del Estado moderno.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 5000,
+    "height": 2555
+  },
+  {
+    "imagen": "colecciones.RES/35_MonedasAlambreRusia.webp",
     "descripcion": "Conjunto de monedas de alambre de los principales zares de Rusia hasta Pedro I el Grande.",
     "contexto": "La Rusia de los zares fue un Estado autocrático en expansión, con la dinastía Rurik primero y Romanov después, marcada por la centralización del poder, la influencia de la Iglesia ortodoxa y la sociedad feudal.",
     "compra": "",
@@ -288,7 +315,16 @@
     "height": 2984
   },
   {
-    "imagen": "colecciones.RES/32_MonarcasEspana.webp",
+    "imagen": "colecciones.RES/36_ImperioOtomano.webp",
+    "descripcion": "Selección de los principales monarcas del Imperio Otomano.",
+    "contexto": "El Imperio Otomano pasó de ser un principado guerrero fronterizo en Anatolia a convertirse en una potencia califal con dominios en tres continentes, hasta su colapso definitivo tras la Primera Guerra Mundial.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 5000,
+    "height": 2197
+  },
+  {
+    "imagen": "colecciones.RES/37_MonarcasEspana.webp",
     "descripcion": "Conjunto de monarcas de España desde su unificación con los Reyes Católicos.",
     "contexto": "La monarquía española es una institución histórica y política que ha gobernado España desde la unificación de los reinos en el siglo XV, combinando poder dinástico, religioso y político a lo largo de su historia.",
     "compra": "",
@@ -297,7 +333,7 @@
     "height": 1925
   },
   {
-    "imagen": "colecciones.RES/33_ImperioRusoURSS.webp",
+    "imagen": "colecciones.RES/38_ImperioRusoURSS.webp",
     "descripcion": "Conjunto de monedas del Imperio Ruso y la URSS para los principales emperadores y presidentes respectivamente.",
     "contexto": "Rusia pasó de ser un imperio autocrático modernizado y expansionista a convertirse en un Estado socialista tras la Revolución de 1917, centralizado políticamente, industrializado y con ideología comunista que transformó la sociedad y la economía.",
     "compra": "",
@@ -306,7 +342,7 @@
     "height": 1628
   },
   {
-    "imagen": "colecciones.RES/34_MonarcasReinoUnido.webp",
+    "imagen": "colecciones.RES/39_MonarcasReinoUnido.webp",
     "descripcion": "Conjunto de monedas del Reino Unido desde su formación.",
     "contexto": "La monarquía del Reino Unido es la institución encabezada por el monarca británico desde la unión de Inglaterra y Escocia en 1707.",
     "compra": "",
@@ -315,7 +351,7 @@
     "height": 2827
   },
   {
-    "imagen": "colecciones.RES/35_PlataXVIII-XX.webp",
+    "imagen": "colecciones.RES/40_PlataXVIII-XX.webp",
     "descripcion": "Selección de las principales monedas de plata de gran peso (~20g) desde el siglo XVIII al XX.",
     "contexto": "Las monedas de plata de gran tamaño fueron piezas de uso corriente, valor estable y aceptación internacional, reflejando cambios políticos y económicos de su época.",
     "compra": "",
@@ -324,7 +360,16 @@
     "height": 3020
   },
   {
-    "imagen": "colecciones.RES/36_CentsLincoln.webp",
+    "imagen": "colecciones.RES/41_CentsCabezaIndia.webp",
+    "descripcion": "Centavos de dólar de EE. UU. de los tipos aguila volando y cabeza india, desde 1857 hasta 1909, cuando finalizó su acuñación.",
+    "contexto": "El periodo de estos primeros centavos de pequeño tamaño coincide con el periodo del lejano oeste (1865-1890) marcado por la colonización de territorios indígenas, el auge de la ganadería y minería, y la construcción del ferrocarril.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 10000,
+    "height": 4370
+  },
+  {
+    "imagen": "colecciones.RES/42_CentsLincoln.webp",
     "descripcion": "Centavos de dólar de EE. UU. del tipo Lincoln para todos los años, desde 1909 hasta 2025, cuando finalizó su acuñación.",
     "contexto": "El periodo de los centavos de Lincoln coincide con el auge, en las dos grandes guerras, esplendor, en la guerra fría y tras la caída de la URSS, y decadencia del imperio estadounidense.",
     "compra": "",
@@ -333,7 +378,7 @@
     "height": 4475
   },
   {
-    "imagen": "colecciones.RES/37_MonedasContemporaneas.webp",
+    "imagen": "colecciones.RES/43_MonedasContemporaneas.webp",
     "descripcion": "Colección de un ejemplo de cada moneda oficial reconocida por ISO 4217 desde 1978, inluyendo algunas no oficiales.",
     "contexto": "La Edad Contemporánea estuvo marcada en numismática por el paso de monedas de metales preciosos a sistemas basados en el dinero fiduciario, la industrialización de la acuñación y la aparición de monedas nacionales modernas.",
     "compra": "",
@@ -342,7 +387,7 @@
     "height": 4890
   },
   {
-    "imagen": "colecciones.RES/38_Gemas.webp",
+    "imagen": "colecciones.RES/44_Gemas.webp",
     "descripcion": "Selección de las gemas y piedras preciosas más importantes.",
     "contexto": "Las gemas y piedras preciosas son minerales o materiales naturales valorados por su belleza, rareza y durabilidad, utilizados en joyería, arte y como símbolos de poder y estatus.",
     "compra": "",
@@ -351,7 +396,7 @@
     "height": 4536
   },
   {
-    "imagen": "colecciones.RES/39_Fosiles.webp",
+    "imagen": "colecciones.RES/45_Fosiles.webp",
     "descripcion": "Selección de fósiles que cubren el desarrollo de la vida desde los estromatolitos hasta los grandes mamíferos.",
     "contexto": "Los fósiles son huellas de organismos del pasado que permiten reconstruir la historia de la vida, mostrando cómo surgieron, cambiaron y desaparecieron todo tipo de organismos.",
     "compra": "",
@@ -360,7 +405,7 @@
     "height": 2360
   },
   {
-    "imagen": "colecciones.RES/40_Microprocesadores.webp",
+    "imagen": "colecciones.RES/46_Microprocesadores.webp",
     "descripcion": "Colección de microprocesadores con todos los tipos principales.",
     "contexto": "Los microprocesadores son circuitos integrados que actúan como el “cerebro” de los dispositivos electrónicos, y su aparición revolucionó la historia al permitir la miniaturización de la informática y la digitalización de la vida contemporánea.",
     "compra": "",
@@ -369,7 +414,7 @@
     "height": 5286
   },
   {
-    "imagen": "colecciones.RES/41_Videojuegos.webp",
+    "imagen": "colecciones.RES/47_Videojuegos.webp",
     "descripcion": "Colección de un ejemplo de juego de cada gran consola de la historia de los videojuegos.",
     "contexto": "Los videojuegos son una forma de entretenimiento digital interactivo que han influido en la cultura, la tecnología y la economía, combinando narrativa, arte y programación para crear experiencias inmersivas cada vez más complejas.",
     "compra": "",
@@ -378,7 +423,7 @@
     "height": 6646
   },
   {
-    "imagen": "colecciones.RES/42_JuegosGameBoyMasVendidos.webp",
+    "imagen": "colecciones.RES/48_JuegosGameBoyMasVendidos.webp",
     "descripcion": "Lista de juegos de Game Boy que vendieron un millón o más unidades.",
     "contexto": "El Game Boy revolucionó el mundo del videojuego al llevar la diversión portátil a millones de personas, demostrando que los grandes juegos dependen principalmente de la creatividad y la accesibilidad.",
     "compra": "",
@@ -387,7 +432,7 @@
     "height": 3250
   },
   {
-    "imagen": "colecciones.RES/43_JuegosGameBoyCodes.webp",
+    "imagen": "colecciones.RES/49_JuegosGameBoyCodes.webp",
     "descripcion": "Colección de un ejemplo de cada código de zona de los juegos de Game Boy.",
     "contexto": "Los códigos de zona indican para qué región del mundo se distribuyó cada juego, aunque los cartuchos no tenían bloqueo de región.",
     "compra": "",
@@ -396,7 +441,7 @@
     "height": 4669
   },
   {
-    "imagen": "colecciones.RES/44_JuegosGameBoy.webp",
+    "imagen": "colecciones.RES/50_JuegosGameBoy.webp",
     "descripcion": "Colección de juegos de Game Boy seleccionados por importancia y preferencia.",
     "contexto": "Esta selección combina criterio histórico y afinidad personal, y que refleja la forma en que cada jugador construye su propia memoria afectiva a partir de títulos que dejaron huella por motivos muy diferentes.",
     "compra": "",
@@ -679,7 +724,7 @@
   {
     "imagen": "01_Rocas/agatamusgosa.webp",
     "descripcion": "Ágata musgosa (India) | 1.17qt 8x6x3.5mm",
-    "contexto": "La ágata musgosa es una calcedonia translúcida con inclusiones verdes y marrones de oxido de manganeso, hornablenda y hierro.",
+    "contexto": "La ágata musgosa es una calcedonia translúcida con inclusiones verdes y marrones de óxido de manganeso, hornblenda y hierro.",
     "carpeta": "01_Rocas",
     "width": 1000,
     "height": 996
@@ -727,7 +772,7 @@
   {
     "imagen": "01_Rocas/jaspe.webp",
     "descripcion": "Jaspe (India) | 8.55qt 16x12x6mm",
-    "contexto": "El jaspe es una roca sedimentaria que procede de un fango de radiolarios (protozoos) silicificado. Suele prsentar varios colores y rara vez es uniforme.",
+    "contexto": "El jaspe es una roca sedimentaria que procede de un fango de radiolarios (protozoos) silicificado. Suele presentar varios colores y rara vez es uniforme.",
     "carpeta": "01_Rocas",
     "width": 1000,
     "height": 868
@@ -743,7 +788,7 @@
   {
     "imagen": "01_Rocas/cornalina.webp",
     "descripcion": "Cornalina (India) | 4.15qt 10.5x10.5x5mm",
-    "contexto": "La cornalina es una variedad de calcedonia roja debido a los óxidos de hierro. También se la conoce como Piedra de Sadoine, de La Meca o de Santiago.",
+    "contexto": "La cornalina es una variedad de calcedonia roja debido a los óxidos de hierro. También se la conoce como Piedra de Sardoine, de La Meca o de Santiago.",
     "carpeta": "01_Rocas",
     "width": 919,
     "height": 1000
@@ -1119,7 +1164,7 @@
   {
     "imagen": "01_Rocas/lepidolita.webp",
     "descripcion": "Lepidolita (Brasil) | 19qt 23x19mm",
-    "contexto": "La lepidolita es un mineral del grupo de las micas de 2.5-3.5 de dureza rico en litio y potasio, que es sustituído con frecuencia por rubidio y cesio.",
+    "contexto": "La lepidolita es un mineral del grupo de las micas de 2.5-3.5 de dureza rico en litio y potasio, que es sustituido con frecuencia por rubidio y cesio.",
     "carpeta": "01_Rocas",
     "width": 1000,
     "height": 910
@@ -1135,7 +1180,7 @@
   {
     "imagen": "01_Rocas/serpentina.webp",
     "descripcion": "Serpentina (Pakistán) | 25qt 35x19mm",
-    "contexto": "La serpentina es un mineral común, generalmente presente como producto de alteración de ciertos silicatos magnesicos y presenta una dureza de 2.",
+    "contexto": "La serpentina es un mineral común, generalmente presente como producto de alteración de ciertos silicatos magnésicos y presenta una dureza de 2.",
     "carpeta": "01_Rocas",
     "width": 616,
     "height": 1000
@@ -1383,7 +1428,7 @@
   {
     "imagen": "02_Fosiles/estromatolitos.webp",
     "descripcion": "Estromatolitos (Kambala, Madagascar) | 3000 Ma (Precámbrico) | 25.91g 38x25mm",
-    "contexto": "Son los más antigos indicios de vida en La Tierra y fueron formados por fijación de partículas carbonatadas por parte de cianobacterias que cambiaron la atmósfera del planeta.",
+    "contexto": "Son los más antiguos indicios de vida en La Tierra y fueron formados por fijación de partículas carbonatadas por parte de cianobacterias que cambiaron la atmósfera del planeta.",
     "carpeta": "02_Fosiles",
     "width": 982,
     "height": 1000
@@ -1439,7 +1484,7 @@
   {
     "imagen": "02_Fosiles/trilobiteAristoharpes.webp",
     "descripcion": "Trilobite Aristoharpes (Marruecos) | 390-375 Ma (Devónico) | 366.9g 100x85mm",
-    "contexto": "Esta especie de trilobites se caracteriza por su rareza y extraño diseño. Era un detrívoro epifaunal capaz de realizar rápidos movimientos.",
+    "contexto": "Esta especie de trilobites se caracteriza por su rareza y extraño diseño. Era un detritívoro epifaunal capaz de realizar rápidos movimientos.",
     "carpeta": "02_Fosiles",
     "width": 1000,
     "height": 902
@@ -1463,7 +1508,7 @@
   {
     "imagen": "02_Fosiles/helechoPecopteris.webp",
     "descripcion": "Helechos Pecopteris (La Magdalena, León) | 300 Ma (Carbonífero) | 40.21g 65x60mm",
-    "contexto": "La fosilización de grandes helechos árboreos, como algunas especies de Pecopteris, es una de las fuentes de creación de los depósitos de carbón.",
+    "contexto": "La fosilización de grandes helechos arbóreos, como algunas especies de Pecopteris, es una de las fuentes de creación de los depósitos de carbón.",
     "carpeta": "02_Fosiles",
     "width": 1000,
     "height": 604
@@ -1607,7 +1652,7 @@
   {
     "imagen": "02_Fosiles/ammoniteCleoniceras.webp",
     "descripcion": "Ammonite Cleoniceras (Madagascar) | 110 Ma (Cretácico) | 14.40g 29mm",
-    "contexto": "Con especies en Europa y Madagascar, estos fósiles se caracterizan por la iridiscencia generada por los depositos en vida de aragonita y conchiolina.",
+    "contexto": "Con especies en Europa y Madagascar, estos fósiles se caracterizan por la iridiscencia generada por los depósitos en vida de aragonita y conchiolina.",
     "carpeta": "02_Fosiles",
     "width": 1000,
     "height": 905
@@ -1638,8 +1683,8 @@
   },
   {
     "imagen": "02_Fosiles/dienteSpinosaurio.webp",
-    "descripcion": "Diente de Spinosaurio (Marruecos) | 95 Ma (Cretácico) | 15.03g 38mm",
-    "contexto": "El Spinosaurio (lagarto de espinas) es considerado el dinosaurio carnívoro más grande, llegando a pesar más de 20 toneladas.",
+    "descripcion": "Diente de Espinosaurio (Marruecos) | 95 Ma (Cretácico) | 15.03g 38mm",
+    "contexto": "El Espinosaurio (lagarto de espinas) es considerado el dinosaurio carnívoro más grande, llegando a pesar más de 20 toneladas.",
     "carpeta": "02_Fosiles",
     "width": 1000,
     "height": 826
@@ -1695,7 +1740,7 @@
   {
     "imagen": "02_Fosiles/dienteTiranosaurio.webp",
     "descripcion": "Fragmento de diente de Tiranosaurio (Dakota del Sur) | 65 Ma (Cretácico) | 0.39g 8x7x5mm",
-    "contexto": "Los dientes de los Tiranosaurios crecían durante toda la vida y presentaban bordes aserrados y un mecanismo de autoafilado.",
+    "contexto": "Los dientes de los Tiranosaurgpjpokyios crecían durante toda la vida y presentaban bordes aserrados y un mecanismo de autoafilado.",
     "carpeta": "02_Fosiles",
     "width": 963,
     "height": 774
@@ -1933,6 +1978,14 @@
     "height": 483
   },
   {
+    "imagen": "03_Artefactos/balaHondagriega.webp",
+    "descripcion": "Proyectil de honda griego 'abeja/ΚΑΛΑ' (Rodas) | siglo IV aC | 29.59g 32x18mm",
+    "contexto": "Esta bala, vinculada a los honderos de Rodas, lleva la inscripción KAΛA ('cosas bonitas') junto a una abeja que ironiza sobre un 'regalo' que, como el escorpión en otras balas, esconde un aguijón mortal.",
+    "carpeta": "03_Artefactos",
+    "width": 1000,
+    "height": 398
+  },
+  {
     "imagen": "03_Artefactos/ponderal4dracmas.webp",
     "descripcion": "Ponderal de 4 dracmas 'delta' (Grecia) | siglos II-I aC | 14.85g 33x29mm",
     "contexto": "Este peso de plomo equivale a cuatro dracmas y utiliza el sistema de numeración jónico, establecido a partir del siglo IV aC, en el que la letra griega delta representa al número 4.",
@@ -1959,7 +2012,7 @@
   {
     "imagen": "03_Artefactos/balaHondaRomana.webp",
     "descripcion": "Proyectil de honda romana (Hispania) | siglos I aC-I dC | 42.76g 35x16mm",
-    "contexto": "Este proyectil es posiblemente de la batalla de Munda entre Julio César y Cneo Pompeyo. A veces llevaban inscripciones con propaganda o insultos al enemigo.",
+    "contexto": "Este proyectil es posiblemente de la batalla de Munda entre Julio César y Cneo Pompeyo, muy probablemente procedente de mercenarios baleares.",
     "carpeta": "03_Artefactos",
     "width": 1000,
     "height": 386
@@ -1971,6 +2024,14 @@
     "carpeta": "03_Artefactos",
     "width": 1000,
     "height": 815
+  },
+  {
+    "imagen": "03_Artefactos/signaculumRomano.webp",
+    "descripcion": "Signaculum 'figura aviar esquematizada' (Imperio Romano) | siglos I-II dC | 7.60g 23x17mm",
+    "contexto": "Este signaculum representa la identidad jurídica de su propietario, sirviendo como garantía de autoridad y autenticidad en una sociedad profundamente burocratizada y comercial.",
+    "carpeta": "03_Artefactos",
+    "width": 1000,
+    "height": 920
   },
   {
     "imagen": "03_Artefactos/amuletoFalico.webp",
@@ -2054,7 +2115,7 @@
   },
   {
     "imagen": "03_Artefactos/anilloRomano.webp",
-    "descripcion": "Anillo de bronce con piedra preciosa (cornelia) (Imperio Romano) | siglos II-III dC | 2.38g 20mm",
+    "descripcion": "Anillo de bronce con piedra preciosa (cornalina) (Imperio Romano) | siglos II-III dC | 2.38g 20mm",
     "contexto": "Las mujeres romanas llevaban muchas joyas y la piedra más común era la cornalina. Los romanos fueron los primeros en usar anillos como símbolo del matrimonio.",
     "carpeta": "03_Artefactos",
     "width": 1000,
@@ -2327,14 +2388,14 @@
   {
     "imagen": "03_Artefactos/muroBerlin.webp",
     "descripcion": "Fragmento del muro de Berlín | 1961-1989 | 24.24g 45x26mm",
-    "contexto": "El muro de Berlín fue construído por la República Democrática Alemana para evitar la emigración y fue el símbolo más conocido de la Guerra Fría.",
+    "contexto": "El muro de Berlín fue construido por la República Democrática Alemana para evitar la emigración y fue el símbolo más conocido de la Guerra Fría.",
     "carpeta": "03_Artefactos",
     "width": 1000,
     "height": 735
   },
   {
     "imagen": "03_Artefactos/medallaVietcong.webp",
-    "descripcion": "Medalla 'combatienete ejemplar' (Vietnam del Norte) | 1974 | 8.03g 46x30mm",
+    "descripcion": "Medalla 'combatiente ejemplar' (Vietnam del Norte) | 1974 | 8.03g 46x30mm",
     "contexto": "Esta medalla fue otorgada por Vietnam del Norte a los combatientes ejemplares. La guerra contra EEUU y el gobierno de Vietnam del Sur finalizó en 1975.",
     "carpeta": "03_Artefactos",
     "width": 1000,
@@ -2383,10 +2444,18 @@
   {
     "imagen": "04_Premonedas/premonedaCelta.webp",
     "descripcion": "Premoneda celta (Europa central) | 800-500 aC | 3.38g 21mm",
-    "contexto": "Estas anillas pudieron ser amuletos de los druidas, anillos de los difuntos o simples anillas de sujección de correajes, si bien su aparición en tesoros refuerza su uso como monedas.",
+    "contexto": "Estas anillas pudieron ser amuletos de los druidas, anillos de los difuntos o simples anillas de sujeción de correajes, si bien su aparición en tesoros refuerza su uso como monedas.",
     "carpeta": "04_Premonedas",
     "width": 943,
     "height": 1000
+  },
+  {
+    "imagen": "04_Premonedas/lingoteGriego.webp",
+    "descripcion": "Lingote de plata (Asia Menor) | siglos VI-V aC | 5.01g 15x13mm",
+    "contexto": "Este trozo recortado de plata ilustra la persistencia del intercambio por peso de metal en Asia Menor, coexistiendo con la normalización de la moneda acuñada, ya introducida en Lidia.",
+    "carpeta": "04_Premonedas",
+    "width": 1000,
+    "height": 582
   },
   {
     "imagen": "04_Premonedas/aesRude.webp",
@@ -2399,7 +2468,7 @@
   {
     "imagen": "04_Premonedas/aesFormatumConcha.webp",
     "descripcion": "Aes formatum 'concha' (Italia central) | siglos VI-IV aC | 20.36g 31x26mm",
-    "contexto": "El aes rude fue sustituído por el aes formatum que utilizaba formas definidas. Para transacciones de mayor tamaño surgió el aes signatum, un gran lingote con símbolos oficiales.",
+    "contexto": "El aes rude fue sustituido por el aes formatum que utilizaba formas definidas. Para transacciones de mayor tamaño surgió el aes signatum, un gran lingote con símbolos oficiales.",
     "carpeta": "04_Premonedas",
     "width": 1000,
     "height": 528
@@ -2413,6 +2482,14 @@
     "height": 823
   },
   {
+    "imagen": "04_Premonedas/aesFormatumLunulaDentada.webp",
+    "descripcion": "Aes formatum 'lúnula dentada' (Italia central) | siglos VI-IV aC | 3.47g 33x10mm",
+    "contexto": "Este aes formatum parece de origen funcional, concebido inicialmente como aplique ornamental. Su valor material en bronce le permitió circular posteriormente como medio de cambio.",
+    "carpeta": "04_Premonedas",
+    "width": 1000,
+    "height": 423
+  },
+  {
     "imagen": "04_Premonedas/bronceIstros.webp",
     "descripcion": "Premoneda 'rueda/IST' (Istros, Tracia) | ~500 aC | 1.15g 12mm",
     "contexto": "Estas premonedas fundidas son una evolución de las premonedas en forma de punta de flecha en las que a veces aparecía la rueda.",
@@ -2423,7 +2500,7 @@
   {
     "imagen": "04_Premonedas/sicilia.webp",
     "descripcion": "Trias 'águila/cangrejo' (Akragas, Sicilia) | ~450 aC | 15.48g 19x18x12mm",
-    "contexto": "Esta premoneda fundida de bronce podría ser más bien un peso. Al igual que sucedió con las primeras monedas de electrum, los pesos se garantizaban con la acuñación.",
+    "contexto": "Esta premoneda fundida de bronce podría ser más bien un peso. Al igual que sucedió con las primeras monedas de electro, los pesos se garantizaban con la acuñación.",
     "carpeta": "04_Premonedas",
     "width": 1000,
     "height": 592
@@ -2511,14 +2588,14 @@
   {
     "imagen": "05_MonedasGreciaClasica/estateraCreso.webp",
     "descripcion": "1/3 de estatera de plata de Creso 'león y toro' (Sardes, Reino de Lidia) | 561-546 aC | 3.43g 12mm",
-    "contexto": "Primera moneda de plata de la historia. Al desarrollarse el método para separar el oro de la plata, el electrum se podía rehacer con menos oro, por lo cual era mejor separar ambos metales en monedas diferentes.",
+    "contexto": "Primera moneda de plata de la historia. Al desarrollarse el método para separar el oro de la plata, el electro se podía rehacer con menos oro, por lo cual era mejor separar ambos metales en monedas diferentes.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 524
   },
   {
     "imagen": "05_MonedasGreciaClasica/estateraCrotona.webp",
-    "descripcion": "Estatera 'trípode y grua normal e incuso' (Crotona, Bruttium) | 550-480 aC | 7.78g 20mm",
+    "descripcion": "Estatera 'trípode y grulla normal e incuso' (Crotona, Bruttium) | 550-480 aC | 7.78g 20mm",
     "contexto": "Por la forma especial de acuñación de reverso incuso, estas monedas quizá se desarrollaron de manera independiente, es posible que por Pitágoras, que vivió en Crotona en esa época.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -2527,7 +2604,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/dracmaSybaris.webp",
     "descripcion": "Dracma 'toro normal e incuso' (Sybaris, Lucania) | 550-510 aC | 2.29g 20x18mm",
-    "contexto": "Gracias al comercio Sybaris fue tan rica que pasó a ser legendaria. Los sibaritas fueron conocidos por sus lujos y su su aversión al trabajo llegando a prohibir herreros, carpinteros y animales escandalosos, como el gallo.",
+    "contexto": "Gracias al comercio Sybaris fue tan rica que pasó a ser legendaria. Los sibaritas fueron conocidos por sus lujos y su aversión al trabajo llegando a prohibir herreros, carpinteros y animales escandalosos, como el gallo.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 505
@@ -2670,7 +2747,7 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/oboloAtenas.webp",
-    "descripcion": "Óbolo 'Atenea/mochuelo' (Atenas, Attica) | 460-404 aC | 0.65g 8.5mm",
+    "descripcion": "Óbolo 'Atenea/mochuelo' (Atenas, Ática) | 460-404 aC | 0.65g 8.5mm",
     "contexto": "El óbolo, 1/6 de dracma, era la moneda de circulación cotidiana. Tras finalizar las Guerras Médicas en 477 aC Arístides creo la Confederación de Delos y Pericles la convirtió en el Imperio ateniense.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -2678,7 +2755,7 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/tetradracmaAtenas.webp",
-    "descripcion": "Tetradracma 'Atenea/mochuelo' (Atenas, Attica) | 454-404 aC | 17.26g 25mm",
+    "descripcion": "Tetradracma 'Atenea/mochuelo' (Atenas, Ática) | 454-404 aC | 17.26g 25mm",
     "contexto": "Seguramente la moneda más famosa de la antigüedad, representa a Palas Atenea, diosa de la que Atenas era devota y en el reverso al sagrado mochuelo, la Luna reina de la noche y la rama de olivo con su fruto.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -2686,7 +2763,7 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/tetradracmaAtenas2.webp",
-    "descripcion": "Tetradracma 'Atenea/mochuelo' (Atenas, Attica) | 454-404 aC | 17.05g 26x22mm",
+    "descripcion": "Tetradracma 'Atenea/mochuelo' (Atenas, Ática) | 454-404 aC | 17.05g 26x22mm",
     "contexto": "Los tetradracmas de Atenas aparecen con mucha frecuencia con contramarcas que se aplicaban para verificar la calidad del metal. La más común era el corte en el cuello del mochuelo.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -2959,7 +3036,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/hemioboloHalicarnaso.webp",
     "descripcion": "Hemióbolo 'hombre jóven/carnero' (Halicarnaso, Caria) | 400-340 aC | 0.35g 7mm",
-    "contexto": "Halicarnaso constituyó la hexápolis dórica junto a Cnido, Cos, Ialisos, Lindos y Cámiros. El mausoleo de Halicarnaso, una de las Siete Maravillas, fue construído en 350 aC en honor al sátrapa persa Mausolo.",
+    "contexto": "Halicarnaso constituyó la hexápolis dórica junto a Cnido, Cos, Ialisos, Lindos y Cámiros. El mausoleo de Halicarnaso, una de las Siete Maravillas, fue construido en 350 aC en honor al sátrapa persa Mausolo.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 557
@@ -2999,7 +3076,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/hemidracmaBoeotia.webp",
     "descripcion": "Hemidracma 'escudo/cántaro' (Tebas, Beocia) | 395-338 aC | 2.45g 14x12mm",
-    "contexto": "La Liga Beocia, con Tebas a la cabeza, aprovechó la debilidad de Atenas tras la guerra del Peloponeso para convertirse en una gran potencia militar. Fue disuelta por Filipo II y Tebas destruída por Alejandro Magno.",
+    "contexto": "La Liga Beocia, con Tebas a la cabeza, aprovechó la debilidad de Atenas tras la guerra del Peloponeso para convertirse en una gran potencia militar. Fue disuelta por Filipo II y Tebas destruida por Alejandro Magno.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 524
@@ -3023,7 +3100,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/bronceAbdera.webp",
     "descripcion": "Bronce 'grifo/cuatripartito' (Abdera, Tracia) | 390-352 aC | 0.70g 11mm",
-    "contexto": "En las Guerras Médicas Abdera fue cuartel general de Jerjes I. En 376 aC fue destruída por una tribu tracia y posteriormente conquistada por Filipo II hacia 350 aC.",
+    "contexto": "En las Guerras Médicas Abdera fue cuartel general de Jerjes I. En 376 aC fue destruida por una tribu tracia y posteriormente conquistada por Filipo II hacia 350 aC.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 514
@@ -3087,7 +3164,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/estateraCorinto.webp",
     "descripcion": "Estatera 'Pegaso/Atenea' (Corinto, Corintia) | 375-300 aC | 8.38g 22mm",
-    "contexto": "Belerofonte, hijo del Rey de Corinto, domó a Pegaso usando una brida de oro de Atenea y realizó con él grandes hazañas.",
+    "contexto": "Belerofonte, hijo del rey de Corinto, domó a Pegaso usando una brida de oro de Atenea y realizó con él grandes hazañas.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 559
@@ -3151,7 +3228,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/bronceGargara.webp",
     "descripcion": "Bronce 'Apolo/caballo' (Gárgara, Tróade) | ~350 aC | 5.33g 19mm",
-    "contexto": "Gárgara es una región montañosa de la Tróade, que debe su nombre a Tros, Rey de Dardania que renombró a las tierras como Tróade y llamó a sus gentes troyanos.",
+    "contexto": "Gárgara es una región montañosa de la Tróade, que debe su nombre a Tros, rey de Dardania que renombró a las tierras como Tróade y llamó a sus gentes troyanos.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 588
@@ -3438,7 +3515,7 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/dracmaIllyriaTIMHN.webp",
-    "descripcion": "Dracma 'TIMHN/DAMOFONTOS' (Apollonia, Illyria) | 230-29 aC | 2.75g 16mm",
+    "descripcion": "Dracma 'TIMHN/DAMOFONTOS' (Apollonia, Iliria) | 230-29 aC | 2.75g 16mm",
     "contexto": "Acuñada bajo el reinado de Teuta como madre y regente de Pinnes, de la tribu Ardiaei. En 229 aC Roma le declaró la guerra por acciones de piratería que para los ilirios eran lícitas.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -3446,8 +3523,8 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/dracmaIllyriaImitacion.webp",
-    "descripcion": "Dracma imitativo 'APISTON/DAMOFONTOS' (Apollonia, Illyria) | 230-29 aC | 2.80g 17x15mm",
-    "contexto": "Las monedas de imitación del dracma de Illyria frecuentemente mezclan monetarios (anverso) y magistrados (reverso) que no se corresponden con las auténticas.",
+    "descripcion": "Dracma imitativo 'APISTON/DAMOFONTOS' (Apollonia, Iliria) | 230-29 aC | 2.80g 17x15mm",
+    "contexto": "Las monedas de imitación del dracma de Iliria frecuentemente mezclan monetarios (anverso) y magistrados (reverso) que no se corresponden con las auténticas.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 585
@@ -3503,7 +3580,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/bronceFrigia.webp",
     "descripcion": "Bronce 'Zeus' (Eumeneia, Frigia) | 200-133 aC | 4.80g 16mm",
-    "contexto": "Frigia, el Reino del Rey Midas, fue un rico reino que tras Alejandro pasó por manos de galos, Pérgamo (189-133 aC) y Roma.",
+    "contexto": "Frigia, el Reino del rey Midas, fue un rico reino que tras Alejandro pasó por manos de galos, Pérgamo (189-133 aC) y Roma.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 563
@@ -3583,7 +3660,7 @@
   {
     "imagen": "05_MonedasGreciaClasica/bronceEsmirna.webp",
     "descripcion": "Bronce 'Apolo/Homero' (Esmirna) | 145-125 aC | 8.16g 19mm",
-    "contexto": "Roma declaró a Esmirna independiente bajo su protección por su ayuda en la victoria frente a Pérgamo. Competía con Éfeso y Pérgamo por ser la mayor ciudad de Asia.",
+    "contexto": "Esta moneda atestigua la reivindicación histórica de Esmirna como la verdadera cuna de Homero, respaldada por la tradición que sitúa su nacimiento a orillas del río Meles y la fusión cultural jónico-eolia de la ciudad.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 547
@@ -3613,6 +3690,14 @@
     "height": 527
   },
   {
+    "imagen": "05_MonedasGreciaClasica/bronceEsmirnaTyche.webp",
+    "descripcion": "Bronce 'Tyche/Afrodita' (Esmirna) | 125-115 aC | 4.87g 20x18mm",
+    "contexto": "Roma declaró a Esmirna independiente bajo su protección por su ayuda en la victoria frente a Pérgamo. Competía con Éfeso y Pérgamo por ser la mayor ciudad de Asia.",
+    "carpeta": "05_MonedasGreciaClasica",
+    "width": 1000,
+    "height": 594
+  },
+  {
     "imagen": "05_MonedasGreciaClasica/calcoSestos.webp",
     "descripcion": "Calco 'Hermes/lira' (Sestos, Tracia) | finales del siglo II aC | 4.43g 17mm",
     "contexto": "Situada en una zona importante para el dominio de los mares, Sesto fue dominada durante el siglo II aC por macedonios, seléucidas, el reino de Pérgamo y finalmente Roma.",
@@ -3622,7 +3707,7 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/tetradracmaAtticaNuevoEstilo.webp",
-    "descripcion": "Tetradracma 'Atenea/mochuelo sobre ánfora' de nuevo estilo (Atenas, Attica) Magistrados: Ammonios y Kallias | 112-111 aC | 16.78g 27mm",
+    "descripcion": "Tetradracma 'Atenea/mochuelo sobre ánfora' de nuevo estilo (Atenas, Ática) Magistrados: Ammonios y Kallias | 112-111 aC | 16.78g 27mm",
     "contexto": "Tras la victoria de Roma sobre Filipo V que liberaba a los griegos, Atenas acuñó un nuevo tetradracma en el que se cambió a Atenea Palas por Atenea Paternos y se denominó stephanephoros por la corona del reverso.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
@@ -3662,8 +3747,8 @@
   },
   {
     "imagen": "05_MonedasGreciaClasica/bronceMitridatesVIDionisio.webp",
-    "descripcion": "Bronce de Mitrídates VI 'Mitrídates como Dionisio/císta mística' (Amisos, Ponto) | 85-65 aC | 8.53g 20mm",
-    "contexto": "Mitrídates el Grande, Rey del Ponto, luchó exitosamente contra tres de los más grandes generales de finales de la República Romana: Sila, Lúculo y Pompeyo, quien lo derrotó.",
+    "descripcion": "Bronce de Mitrídates VI 'Mitrídates como Dionisio/cista mística' (Amisos, Ponto) | 85-65 aC | 8.53g 20mm",
+    "contexto": "Mitrídates el Grande, rey del Ponto, luchó exitosamente contra tres de los más grandes generales de finales de la República Romana: Sila, Lúculo y Pompeyo, quien lo derrotó.",
     "carpeta": "05_MonedasGreciaClasica",
     "width": 1000,
     "height": 558
@@ -3775,7 +3860,7 @@
   {
     "imagen": "06_MonedasHelenismo/dracmaFilipoIII.webp",
     "descripcion": "Dracma de Filipo III Arrideo 'Hércules/Zeus' (Sardes, Lidia) | 322-318 aC | 4.05g 16mm",
-    "contexto": "Tras la muerte de Alejandro Magno, Filipo III, medio hermano retrasado de Alejandro y muy querido por éste fue proclamado Rey. Fue mandado asesinar en 317 aC por Olimpia de Épiro, madre de Alejandro.",
+    "contexto": "Tras la muerte de Alejandro Magno, Filipo III, medio hermano retrasado de Alejandro y muy querido por éste fue proclamado rey. Fue mandado asesinar en 317 aC por Olimpia de Épiro, madre de Alejandro.",
     "carpeta": "06_MonedasHelenismo",
     "width": 1000,
     "height": 582
@@ -3935,7 +4020,7 @@
   {
     "imagen": "06_MonedasHelenismo/bronceSeleucoIII.webp",
     "descripcion": "Bronce de Seleuco III Sóter Cerauno 'Seleuco III/Apolo en ónfalo' (Siria) | 226-223 aC | 3.43g 16x13mm",
-    "contexto": "Intentó derrocar a Átalo I, Rey de Pérgamo, para completar el plan de su padre, Seleuco II, pero murió traicionado por Nicanor, uno de sus oficiales.",
+    "contexto": "Intentó derrocar a Átalo I, rey de Pérgamo, para completar el plan de su padre, Seleuco II, pero murió traicionado por Nicanor, uno de sus oficiales.",
     "carpeta": "06_MonedasHelenismo",
     "width": 1000,
     "height": 488
@@ -4135,7 +4220,7 @@
   {
     "imagen": "06_MonedasHelenismo/tetradracmaAntiocoXIII.webp",
     "descripcion": "Tetradracma de Antíoco XIII Asiático 'Antíoco XIII/Zeus' (Antioquía) | 69-64 aC | 15.35g 26mm",
-    "contexto": "Fue proclamado Rey por el Senado Romano pero en 65 aC Pompeyo lo depuso proclamando Siria como nueva provincia romana. Antíoco XIII, considerado el último seléucida, huyó a Emesa, donde fue capturado y asesinado.",
+    "contexto": "Fue proclamado rey por el Senado Romano pero en 65 aC Pompeyo lo depuso proclamando Siria como nueva provincia romana. Antíoco XIII, considerado el último seléucida, huyó a Emesa, donde fue capturado y asesinado.",
     "carpeta": "06_MonedasHelenismo",
     "width": 1000,
     "height": 561
@@ -4222,7 +4307,7 @@
   },
   {
     "imagen": "06_MonedasHelenismo/tetradracmaPtolomeoXII.webp",
-    "descripcion": "Tetradracma de Ptolomeo X Auletes 'Ptolomeo I Sóter/águila' (Alejandría) | 96-95 aC | 14.85g 23mm",
+    "descripcion": "Tetradracma de Ptolomeo X Alejandro I 'Ptolomeo I Sóter/águila' (Alejandría) | 96-95 aC | 14.85g 23mm",
     "contexto": "Padre de Cleopatra VII e hijo de Ptolomeo IX y de madre desconocida, para conservar el trono tuvo que buscar apoyo en Roma debido a su condición de bastardo.",
     "carpeta": "06_MonedasHelenismo",
     "width": 1000,
@@ -4230,7 +4315,7 @@
   },
   {
     "imagen": "06_MonedasHelenismo/tetradracmaPtolomeoX.webp",
-    "descripcion": "Tetradracma de Ptolomeo XII Alejandro I 'Ptolomeo I Sóter/águila' (Alejandría) | 62-61 aC | 14.70g 24x22mm",
+    "descripcion": "Tetradracma de Ptolomeo XII Auletes 'Ptolomeo I Sóter/águila' (Alejandría) | 62-61 aC | 14.70g 24x22mm",
     "contexto": "Ptolomeo X reinó en alternancia con Ptolomeo IX, posteriormente reinó unos días su hijo Ptolomeo XI, y tras él, Ptolomeo XII, hijo de Ptolomeo IX y padre de Cleopatra VII.",
     "carpeta": "06_MonedasHelenismo",
     "width": 1000,
@@ -4613,12 +4698,28 @@
     "height": 548
   },
   {
+    "imagen": "08_MonedaIberica/asBarskunes4-2.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 7.27g 24mm",
+    "contexto": "Siendo bastante común, esta moneda presenta un busto bastante diferente al resto, con una nariz triangular y una especie de tupé.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 540
+  },
+  {
     "imagen": "08_MonedaIberica/asBarskunesViejo.webp",
     "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 9.07g 23mm",
-    "contexto": "En este caso el busto presenta rizos redondos y en el reverso las patas traseras del caballo comienzan a estar sobre la leyenda.",
+    "contexto": "Esta moneda presentaba una soldadura fuerte que fue limpiada satisfactoriamente; seguramente fue usada de colgante o similar.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 555
+  },
+  {
+    "imagen": "08_MonedaIberica/asBarskunes5new.webp",
+    "descripcion": "As vascón 'BaRSKuNES' (Barskunes) | 150-125 aC | 9.29g 23mm",
+    "contexto": "Como en la moneda anterior, el busto presenta rizos redondos y en el reverso las patas traseras del caballo comienzan a estar sobre la leyenda.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 545
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes5-2.webp",
@@ -4717,12 +4818,28 @@
     "height": 545
   },
   {
+    "imagen": "08_MonedaIberica/asBarskunes10ok.webp",
+    "descripcion": "As vascón 'BaSKuNES' (Baskunes) | 110-90 aC | 8.54g 23mm",
+    "contexto": "El busto es de estilo final, con Benkota detrás, pero presenta unos rizos irregulares que lo diferencian de los tipos finales.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 547
+  },
+  {
     "imagen": "08_MonedaIberica/asBarskunes10.webp",
     "descripcion": "As vascón 'BaSKuNES' (Baskunes) | 110-90 aC | 7.68g 25mm",
-    "contexto": "El busto es de estilo final, con Benkota detrás, pero unos rizos irregulares que lo diferencian de los tipos finales.",
+    "contexto": "En este tipo las piernas traseras del caballo comienza a aparecer delante de la leyenda mientras antes se situaban encima.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 527
+  },
+  {
+    "imagen": "08_MonedaIberica/asBarskunes10-3.webp",
+    "descripcion": "As vascón 'BaSKuNES' (Baskunes) | 110-90 aC | 8.37g 24mm",
+    "contexto": "En este tipo además empieza a aparecer el texto BeNKoTa detrás del busto, como en los denarios.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 542
   },
   {
     "imagen": "08_MonedaIberica/asBarskunes.webp",
@@ -4755,6 +4872,14 @@
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 534
+  },
+  {
+    "imagen": "08_MonedaIberica/denarioBaskunes13.webp",
+    "descripcion": "Denario (dracma) vascón 'BeNKoTa/BaSKuNES' (Baskunes) | 110-90 aC | 4.01g 18mm",
+    "contexto": "Este tipo se suele incluir junto al anterior, si bien presenta un busto más evolucionado y la espada es más corta.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 535
   },
   {
     "imagen": "08_MonedaIberica/denarioBaskunes8712-2.webp",
@@ -4829,6 +4954,14 @@
     "height": 546
   },
   {
+    "imagen": "08_MonedaIberica/denarioImitacionBaskunesGalo.webp",
+    "descripcion": "Denario galo de imitación de Baskunes 'BeKoTa/BaSKuNES' (Galia) | 100 aC | 4.01g 18mm",
+    "contexto": "Las primeras copias galas de la moneda de Baskunes, como ésta, se asemejan más a las originales, si bien las conocidas hasta ahora son de bronce. Por lo tanto, esta pieza constituye la primera imitación gala de Baskunes publicada en plata, forrada o no.",
+    "carpeta": "08_MonedaIberica",
+    "width": 1000,
+    "height": 585
+  },
+  {
     "imagen": "08_MonedaIberica/bronceImitacionBaskunesAmbianos.webp",
     "descripcion": "Bronce ambiano de imitación de Baskunes 'BeNTaTa/BaSKuNBaN' (Amiens, Somme, Galia Bélgica) | 60-40 aC | 3.14g 21x19mm",
     "contexto": "Julio César dividía la Galia en aquitanos, celtas y belgas. Los ambianos eran un pueblo belga aliado de Vercingétorix. Se desconoce cómo llegó el prototipo vascón tan al norte.",
@@ -4839,7 +4972,7 @@
   {
     "imagen": "08_MonedaIberica/bronceImitacionBaskunesAmbianos2.webp",
     "descripcion": "Bronce ambiano de imitación de Baskunes 'torqueses/BaSKuNKu' (Sena Marítimo, Galia Bélgica) | 60-40 aC | 2.74g 15mm",
-    "contexto": "Mientras la imitación anterior parece realizada a partir de un molde, ésta se trata de un nuevo cuño que cambia totalmente el anverso.",
+    "contexto": "Mientras la imitación anterior intenta reproducir la moneda original, en ésta se diseña un nuevo cuño que cambia totalmente el anverso.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 549
@@ -5135,7 +5268,7 @@
   {
     "imagen": "08_MonedaIberica/asCascantum.webp",
     "descripcion": "As hispanorromano 'Tiberio/toro' (Cascantum) | 14-37 | 11.53g 27mm",
-    "contexto": "Cascantum fue una ciudad romana construída sobre la celtíbera de Kaiskata, y que ahora se denomina Cascante. Según Ptolomeo, en época romana formaba parte del territorio vascón.",
+    "contexto": "Cascantum fue una ciudad romana construida sobre la celtíbera de Kaiskata, y que ahora se denomina Cascante. Según Ptolomeo, en época romana formaba parte del territorio vascón.",
     "carpeta": "08_MonedaIberica",
     "width": 1000,
     "height": 525
@@ -5375,7 +5508,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/prutaHerodes.webp",
     "descripcion": "Pruta de Herodes I el Grande 'ancla/doble cornucopia' (Judea) | 40-4 aC | 1.97g 15mm",
-    "contexto": "De origen idumeo y educación griega fue nombrado procurador de Judea por Julio César y Rey por Marco Antonio. Derrocó a los asmoneos y es conocido por la Matanza de los Inocentes, lo que seguramente es ficticio.",
+    "contexto": "De origen idumeo y educación griega fue nombrado procurador de Judea por Julio César y rey por Marco Antonio. Derrocó a los asmoneos y es conocido por la Matanza de los Inocentes, lo que seguramente es ficticio.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 540
@@ -5399,7 +5532,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/prutaPilato.webp",
     "descripcion": "Pruta de Poncio Pilato, prefecto de Roma bajo Tiberio 'lituus/fecha' (Judea) | 30-31 | 1.98g 15mm",
-    "contexto": "Muy conocido por la condena a muerte de Jesús de Nazaret relatada por los Evangelios, Pilatos intentó romanizar Judea sin éxito enfrentándose a Barrabás y los samaritanos.",
+    "contexto": "Muy conocido por la condena a muerte de Jesús de Nazaret relatada por los Evangelios, Pilato intentó romanizar Judea sin éxito enfrentándose a Barrabás y los samaritanos.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 568
@@ -5407,7 +5540,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/prutaHerodesAgripa.webp",
     "descripcion": "Pruta de Herodes Agripa I 'sombrilla/espigas' (Jerusalén, Judea) | 41-42 | 2.09g 17mm",
-    "contexto": "Nieto de Herodes el Grande, tras vivir en Antioquía y Roma, fue proclamado Rey de Judea por Claudio pero su deseo de incrementar sus territorios lo enemistaron con él. Murió tras acudir a una fiesta en honor de Claudio.",
+    "contexto": "Nieto de Herodes el Grande, tras vivir en Antioquía y Roma, fue proclamado rey de Judea por Claudio pero su deseo de incrementar sus territorios lo enemistaron con él. Murió tras acudir a una fiesta en honor de Claudio.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 516
@@ -5415,7 +5548,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/prutaFelix.webp",
     "descripcion": "Pruta de Antonio Félix, procurador de Roma bajo Claudio 'escudos cruzados/palmera' (Jerusalén, Judea) | 54 | 2.89g 17mm",
-    "contexto": "Antonio Félix era un liberto que ejerció de procurador en Judea usando la represión y la corrupción. Fue acusado en Roma y sustituído por Porcio Festo.",
+    "contexto": "Antonio Félix era un liberto que ejerció de procurador en Judea usando la represión y la corrupción. Fue acusado en Roma y sustituido por Porcio Festo.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 557
@@ -5501,6 +5634,14 @@
     "height": 548
   },
   {
+    "imagen": "09_MonedasOtrasCivilizacionesAntiguas/dracmaVolcas.webp",
+    "descripcion": "Dracma galo 'busto celtizado/cruz con adornos' de la tribu de los volcas tectósages (Tolosa) | siglo I aC | 2.81g 13mm",
+    "contexto": "Pasaron a la historia por el inmenso tesoro del 'Oro de Tolosa', supuestamente expoliado de Delfos y luego robado a los volcas por el cónsul Cepión, cuya ruina consolidó el mito de una maldición mortal.",
+    "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
+    "width": 1000,
+    "height": 618
+  },
+  {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/nummusSriLanka.webp",
     "descripcion": "Nummus imitativo 'busto/corona' (Sri Lanka) | siglo V | 1.44g 13mm",
     "contexto": "El comercio de Roma con la India comenzó tras la conquista de Egipto por Augusto y duró hasta el siglo VII. Estas relaciones produjeron un importante intercambio cultural.",
@@ -5511,7 +5652,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/nummusVandalo.webp",
     "descripcion": "Nummus de imitación vándala 'busto y letras como líneas/VOT MVLT' (Reino Vándalo) | siglos V-VI | 0.57g 10mm",
-    "contexto": "Los vándalos, originarios de Europa central, cruzaron Iberia hasta África liderados por Genserico y creando un reino centrado en Cartago que fue destruído en 534 por los bizantinos.",
+    "contexto": "Los vándalos, originarios de Europa central, cruzaron Iberia hasta África liderados por Genserico y creando un reino centrado en Cartago que fue destruido en 534 por los bizantinos.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 547
@@ -5527,7 +5668,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/bronceTigranesII.webp",
     "descripcion": "Calco de Tigranes II el Grande 'Tigranes II/Hércules' (Artaxa, Reino de Armenia) | 70-55 aC | 3.92g 17mm",
-    "contexto": "Tigranes II, Rey de Reyes de Armenia, llevo a Armenia a la cúspide de su poder siendo la mayor potencia del Este, aliada con el Ponto contra Roma.",
+    "contexto": "Tigranes II, rey de reyes de Armenia, llevo a Armenia a la cúspide de su poder siendo la mayor potencia del Este, aliada con el Ponto contra Roma.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 589
@@ -5567,7 +5708,7 @@
   {
     "imagen": "09_MonedasOtrasCivilizacionesAntiguas/dracmaPartoArtabanoII.webp",
     "descripcion": "Dracma de Artabano II 'Arsaces I como arquero' (Ecbatana, Imperio Parto) | 10-38 | 2.00g 20x15mm",
-    "contexto": "Entregado por su padre Fraates IV, creció como rehén de Augusto. Venció a su hermano Vonones I para ser Rey y mantuvo numerosas disputas con Roma y la nobleza parta.",
+    "contexto": "Entregado por su padre Fraates IV, creció como rehén de Augusto. Venció a su hermano Vonones I para ser rey y mantuvo numerosas disputas con Roma y la nobleza parta.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
     "width": 1000,
     "height": 622
@@ -5622,11 +5763,11 @@
   },
   {
     "imagen": "10_MonedasRepublicaRomana/litraRomano.webp",
-    "descripcion": "Litra o quartuncia anónima 'Minerva/cabeza de caballo' (Roma) | 276-269 aC | 5.37g 17mm",
+    "descripcion": "Litra o quartuncia anónima 'Minerva/cabeza de caballo' (Roma) | 276-269 aC | 5.48g 17.5mm",
     "contexto": "Las monedas del sistema predenario fueron emitidas con la leyenda ROMANO por trabajadores de Campania para comerciar con la Magna Grecia.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
-    "height": 556
+    "height": 569
   },
   {
     "imagen": "10_MonedasRepublicaRomana/litraRoma.webp",
@@ -5742,11 +5883,11 @@
   },
   {
     "imagen": "10_MonedasRepublicaRomana/asJanoGrande.webp",
-    "descripcion": "As uncial anónimo 'Jano/galera' (Roma) | 141-91 aC | 29.22g 34mm",
+    "descripcion": "As uncial anónimo 'Jano/galera' (Roma) | 141-91 aC | 25.83g 32x29mm",
     "contexto": "Jano era el dios de las puertas, los comienzos y los finales y de él deriva el nombre del mes de enero. Se lo invocaba al comenzar una guerra, y mientras ésta durara, las puertas de su templo permanecían abiertas.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
-    "height": 535
+    "height": 552
   },
   {
     "imagen": "10_MonedasRepublicaRomana/asJano.webp",
@@ -5879,7 +6020,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioSaufeia.webp",
     "descripcion": "Denario gens Saufeia 'Lucius Saufeius' (Roma) | 152 aC | 3.98g 17mm",
-    "contexto": "Familia de origen plebeyo, seguramente procedente de Prerieste, que en la época de los Graco alcanza rango senatorial.",
+    "contexto": "Familia de origen plebeyo, seguramente procedente de Praeneste, que en la época de los Graco alcanza rango senatorial.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 526
@@ -6623,7 +6764,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioTituriaRapto.webp",
     "descripcion": "Denario gens Tituria 'Lucius Titurius Sabinus' (Roma) | 89 aC | 3.42g 18mm",
-    "contexto": "El reverso representa el rapto de las sabinas por parte de los fundadores de Roma, lo que llevó a los sabinos a atacarla consiguiendo establecer una diarquía entre el Rey sabino Tito Tacio (anverso) y Rómulo.",
+    "contexto": "El reverso representa el rapto de las sabinas por parte de los fundadores de Roma, lo que llevó a los sabinos a atacarla consiguiendo establecer una diarquía entre el rey sabino Tito Tacio (anverso) y Rómulo.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 509
@@ -6831,7 +6972,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioEgnatia.webp",
     "descripcion": "Denario gens Egnatia 'Caius Egnatius Maximus' (Roma) | 75 aC | 3.70g 18mm",
-    "contexto": "Gens de Sammio que luchó contra Roma aunque finalmente fueron admitidos por el Senado. La moneda representa a Roma pisando una cabeza de loba y a Venus con Cupido.",
+    "contexto": "Gens de Samnio que luchó contra Roma aunque finalmente fueron admitidos por el Senado. La moneda representa a Roma pisando una cabeza de loba y a Venus con Cupido.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 570
@@ -6951,7 +7092,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioScribonia.webp",
     "descripcion": "Denario gens Scribonia 'Lucius Scribonius Libo' (Roma) | 62 aC | 3.46g 19mm",
-    "contexto": "En el reverso se representa el famoso brocal de pozo escriboniano que Escribonio construyó donde había antes un templo de Minerva destruído por un rayo.",
+    "contexto": "En el reverso se representa el famoso brocal de pozo escriboniano que Escribonio construyó donde había antes un templo de Minerva destruido por un rayo.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 556
@@ -6959,7 +7100,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioAemiliaPerseo.webp",
     "descripcion": "Denario gens Aemilia 'Paullus Aemilius Lepidus' (Roma) | 62 aC | 3.71g 18.5mm",
-    "contexto": "Esta moneda conmemora la victoria de Paulo Emilio sobre Macedonia en 168 aC, tras la cual exhibió a Perseo (último Rey macedonio) y sus dos hijos prisioneros.",
+    "contexto": "Esta moneda conmemora la victoria de Paulo Emilio sobre Macedonia en 168 aC, tras la cual exhibió a Perseo (último rey macedonio) y sus dos hijos prisioneros.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 532
@@ -7007,7 +7148,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioMarciusPhilippusForrado.webp",
     "descripcion": "Denario gens Marcia 'Lucius Marcius Philippus' (Roma) | 56 aC | 3.39g 17mm",
-    "contexto": "En el anverso muestra al cuarto Rey de Roma (Ancus Marcius) y en el reverso el Aqua Marcia, construído por el pretor Quintus Marcius Rex (estatua).",
+    "contexto": "En el anverso muestra al cuarto rey de Roma (Ancus Marcius) y en el reverso el Aqua Marcia, construido por el pretor Quintus Marcius Rex (estatua).",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 541
@@ -7047,7 +7188,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioJunia.webp",
     "descripcion": "Denario gens Junia 'Marcus Iunius Brutus' (Roma) | 54 aC | 3.85g 21x17mm",
-    "contexto": "Lucio Junio Bruto fue el primer cónsul de la historia de Roma y fundador de la República que expulsó a Tarquinio (reverso), el último Rey. Marco murió defendiendo esa República frente a Julio César.",
+    "contexto": "Lucio Junio Bruto fue el primer cónsul de la historia de Roma y fundador de la República que expulsó a Tarquinio (reverso), el último rey. Marco murió defendiendo esa República frente a Julio César.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 546
@@ -7103,7 +7244,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioAntia.webp",
     "descripcion": "Denario gens Antia 'Caius Antius Restio' (Roma) | 47 aC | 3.23g 19x17mm",
-    "contexto": "Acuñada en honor de un antepasado del mismo nombre (anverso) que fue perseguido por los patricios al promulgar leyes que limitaban los lujos de éstos. Este monetario tuvo que huir al ser incluído en la lista de la muerte del Segundo Triunvirato.",
+    "contexto": "Acuñada en honor de un antepasado del mismo nombre (anverso) que fue perseguido por los patricios al promulgar leyes que limitaban los lujos de éstos. Este monetario tuvo que huir al ser incluido en la lista de la muerte del Segundo Triunvirato.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 529
@@ -7239,7 +7380,7 @@
   {
     "imagen": "10_MonedasRepublicaRomana/denarioMussidia.webp",
     "descripcion": "Denario gens Mussidia 'Lucius Mussidius Longus' (Roma) | 42 aC | 3.57g 17mm",
-    "contexto": "Con Sol en el anverso y en el reverso el santuario de Venus Cloacina, diosa protectora de la Cloaca Maxima, un sistema de alcantarillado construído por los reyes etruscos.",
+    "contexto": "Con Sol en el anverso y en el reverso el santuario de Venus Cloacina, diosa protectora de la Cloaca Maxima, un sistema de alcantarillado construido por los reyes etruscos.",
     "carpeta": "10_MonedasRepublicaRomana",
     "width": 1000,
     "height": 576
@@ -7527,7 +7668,7 @@
   {
     "imagen": "11_MonedasImperioRomano/bronceTracioAugusto.webp",
     "descripcion": "Bronce de Roemetalces 'Roemetalces y Pitodora/Augusto' (Reino Odrisio de Tracia) | 11 aC-12 dC | 7.78g 22.5mm",
-    "contexto": "Roemetalces I reinó como aliado de Augusto en el Reino Odrisio de Tracia, en el Bósforo. Tácito lo describió como un Rey atractivo y civilizado.",
+    "contexto": "Roemetalces I reinó como aliado de Augusto en el Reino Odrisio de Tracia, en el Bósforo. Tácito lo describió como un rey atractivo y civilizado.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 554
@@ -7839,7 +7980,7 @@
   {
     "imagen": "11_MonedasImperioRomano/aureoNeron.webp",
     "descripcion": "Áureo de Nerón 'AVGVSTVS GERMANICVS' recortado (Roma) | 64-66 | 5.86g 17x15.5mm",
-    "contexto": "Este aureo fue recortado para extraer parte de su oro. El gobierno de Nerón se centró en el desarrollo económico y artístico. Un golpe de Estado hizo que se suicidara diciendo: \"¡Qué artista muere conmigo!\".",
+    "contexto": "Este áureo fue recortado para extraer parte de su oro. El gobierno de Nerón se centró en el desarrollo económico y artístico. Un golpe de Estado hizo que se suicidara diciendo: \"¡Qué artista muere conmigo!\".",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 544
@@ -8951,7 +9092,7 @@
   {
     "imagen": "11_MonedasImperioRomano/denarioBronceAureliano.webp",
     "descripcion": "Denario de bronce de Aureliano 'VICTORIA AVG' (Roma) | 272-274 | 1.98g 20x18mm",
-    "contexto": "Aureliano introdujo los denarios de bronce, una de las últimas acuñaciones definidas como denario, aunque ya no fuesen de plata. En las reformas de Diocleciano fueron sustituídos por el follis.",
+    "contexto": "Aureliano introdujo los denarios de bronce, una de las últimas acuñaciones definidas como denario, aunque ya no fuesen de plata. En las reformas de Diocleciano fueron sustituidos por el follis.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 508
@@ -8983,7 +9124,7 @@
   {
     "imagen": "11_MonedasImperioRomano/antoninianoVabalato.webp",
     "descripcion": "Antoniniano de Vabalato 'Aureliano/Vabalato' (Antioquía, Imperio de Palmira) | 270-272 | 4.26g 20mm",
-    "contexto": "La Reina Zenobia y su hijo Vabalato crearon un Imperio de las provincias de Siria-Palestina y Egipto. Durante un tiempo Aureliano reconoció a Vabalato como Rey hasta verse fuerte para invadir Palmira.",
+    "contexto": "La Reina Zenobia y su hijo Vabalato crearon un Imperio de las provincias de Siria-Palestina y Egipto. Durante un tiempo Aureliano reconoció a Vabalato como rey hasta verse fuerte para invadir Palmira.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 554
@@ -9527,7 +9668,7 @@
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaRBQ.webp",
     "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Roma) | 330-335 | 2.33g 17x15mm",
-    "contexto": "Roma, bajo la guía de Rómulo, empezó a consolidarse no solo como refugio de los desposeídos, sino como un proyecto de civilización con vocación de grandeza.",
+    "contexto": "Roma, bajo la guía de Rómulo, empezó a consolidarse no solo como refugio de los desposeidos, sino como un proyecto de civilización con vocación de grandeza.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 513
@@ -9595,6 +9736,22 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 511
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaSMTSE3.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Tesalónica) | 330-335 | 1.18g 17mm",
+    "contexto": "En la ceca de Tesalónica solamente la quinta oficina (epsilon, la quinta letra del alfabeto griego) acuñó el tipo conmemorativo de VRBS ROMA con la loba.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 527
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaSMHB.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Heraclea) | 330-335 | 2.28g 18mm",
+    "contexto": "La figura de Rómulo se fue cargando así de un valor ejemplar: no solo fundador, sino referencia moral y política para las generaciones romanas posteriores.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 528
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaSMHE1.webp",
@@ -9670,7 +9827,7 @@
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaSMKA2.webp",
-    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Cícico) | 330-335 | 2,42g 18mm",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Cícico) | 330-335 | 2.42g 18mm",
     "contexto": "Estas monedas con la inscripción VRBS ROMA no representan solo una ciudad, sino una idea imperial compartida: la Roma eterna como fundamento de la civilización romana, incluso más allá de sus muros.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
@@ -9691,6 +9848,14 @@
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 525
+  },
+  {
+    "imagen": "11_MonedasImperioRomano/centenionalRomaSMANThok.webp",
+    "descripcion": "Centenional conmemorativo 'VRBS ROMA/loba' acuñado bajo Constantino (Antioquía) | 330-335 | 2.23g 17mm",
+    "contexto": "Estas emisiones monetarias no eran simples piezas de circulación, sino mensajes políticos cuidadosamente diseñados para recordar al pueblo romano la eternidad de su ciudad y la legitimidad del poder imperial.",
+    "carpeta": "11_MonedasImperioRomano",
+    "width": 1000,
+    "height": 533
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalRomaSMANTh.webp",
@@ -9830,11 +9995,11 @@
   },
   {
     "imagen": "11_MonedasImperioRomano/centenionalConstantinoIestandarte.webp",
-    "descripcion": "Centenional de Constantino 'GLORIA EXERCITVS' (Antioquía) | 335-337 | 1.60g 16mm",
+    "descripcion": "Centenional de Constantino 'GLORIA EXERCITVS' (Antioquía) | 335-337 | 1.39g 16mm",
     "contexto": "En 335, siguiendo la política inflacionaria de Constantino, se redujeron de nuevo los pesos de los centenionales con el Gloria Exercitus con un estandarte.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
-    "height": 523
+    "height": 534
   },
   {
     "imagen": "11_MonedasImperioRomano/follisCrispo.webp",
@@ -9887,7 +10052,7 @@
   {
     "imagen": "11_MonedasImperioRomano/follisConstantinoII.webp",
     "descripcion": "Follis de Constantino II 'IOVI CONSERVATORI CAESS' (Cícico) | 317-320 | 2.39g 20mm",
-    "contexto": "Este follis fue acuñado siguiendo el sistema monetario de Licinio en un momento en el que Constantino ya había sustituído el follis por el centenional (318).",
+    "contexto": "Este follis fue acuñado siguiendo el sistema monetario de Licinio en un momento en el que Constantino ya había sustituido el follis por el centenional (318).",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 554
@@ -9991,7 +10156,7 @@
   {
     "imagen": "11_MonedasImperioRomano/mediaMaiorinaConstanteArbolRoma.webp",
     "descripcion": "Media maiorina de Constante 'FEL TEMP REPARATIO' (Roma) | 348-350 | 3.54g 21mm",
-    "contexto": "La imágen del reverso simboliza la integración o sumisión de los pueblos bárbaron a la civilización romana representada por el emperador.",
+    "contexto": "La imágen del reverso simboliza la integración o sumisión de los pueblos bárbaros a la civilización romana representada por el emperador.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 518
@@ -10446,7 +10611,7 @@
   },
   {
     "imagen": "11_MonedasImperioRomano/maiorinasTeodosioFundidas.webp",
-    "descripcion": "Maiorinas de Teodosio fundidas (Antioquía) | 379-383 | 12.26g 25x22mm",
+    "descripcion": "Maiorinas de Teodosio aglomeradas (Antioquía) | 379-383 | 12.26g 25x22mm",
     "contexto": "Era común en la antigüedad, especialmente en tiempos de guerra, que los ciudadanos enterraran sus monedas para recuperarlas más adelante.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
@@ -10599,7 +10764,7 @@
   {
     "imagen": "11_MonedasImperioRomano/nummusMarciano.webp",
     "descripcion": "Nummus de Marciano 'monograma' (Constantinopla) | 450-457 | 1.32g 12mm",
-    "contexto": "Accedió al poder casándose con Pulqueria, hermana de Teodosio II, que murió virgen. Ante la falta de descendencia, fue sustituído en el trono por un militar, León I.",
+    "contexto": "Accedió al poder casándose con Pulqueria, hermana de Teodosio II, que murió virgen. Ante la falta de descendencia, fue sustituido en el trono por un militar, León I.",
     "carpeta": "11_MonedasImperioRomano",
     "width": 1000,
     "height": 572
@@ -10759,7 +10924,7 @@
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoLeon.webp",
     "descripcion": "Antoniniano de Galieno 'P M TR P XIII' (Antioquía) | 265 | 4.08g 21x18mm",
-    "contexto": "Damnatio ad bestias era un tipo de pena de muerte donde los condenados eran arrojados a una jaula de fieras. El león era de las más comunes y algunos bestiarii habían conseguido domarlos.",
+    "contexto": "La moneda de Galieno del león es más común en el tipo de la legión que en el tipo CONS AVG, que es con diferencia la moneda más rara de la serie.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
     "height": 561
@@ -10773,9 +10938,17 @@
     "height": 479
   },
   {
+    "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoToroOK.webp",
+    "descripcion": "Antoniniano de Galieno 'SOLI CONS AVG' (Roma) | 267-268 | 2.55g 20x18mm",
+    "contexto": "Al margen de la religión oficial, en la Antigua Roma el culto mistérico más extendido era el Mitraísmo, en el que el toro era su símbolo sagrado.",
+    "carpeta": "12_AntoninianosFilipoGalienoProbo",
+    "width": 1000,
+    "height": 479
+  },
+  {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoToro.webp",
     "descripcion": "Antoniniano de Galieno 'LEG VII CL VI P VI F' (Milan) | 260-261 | 2.54g 21x19mm",
-    "contexto": "Al margen de la religión oficial, en la Antigua Roma el culto mistérico más extendido era el Mitraísmo, en el que el toro era su símbolo sagrado.",
+    "contexto": "El toro ilustra aquí la doble propaganda de la serie: como animal sagrado para invocar la protección divina (SOLI CONS AVG) y como emblema militar para asegurar la lealtad de la Legión VII.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
     "height": 538
@@ -10861,6 +11034,14 @@
     "height": 545
   },
   {
+    "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoCiervoSaec.webp",
+    "descripcion": "Antoniniano de Galieno 'SAECULARHS AVG' (Antioquía) | 260-268 | 4.07g 22mm",
+    "contexto": "La leyenda SAECULARES invoca una nueva era, escrita aquí con una 'H' en sustitución de la 'E' debido a la fonética de los grabadores orientales de origen griego.",
+    "carpeta": "12_AntoninianosFilipoGalienoProbo",
+    "width": 1000,
+    "height": 527
+  },
+  {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoLoba.webp",
     "descripcion": "Antoniniano de Galieno 'AETERNITAS AVG' (Antioquía) | 268 | 3.85g 23mm",
     "contexto": "La imagen de la loba Luperca amamantando a Rómulo y Remo se utilizó como símbolo de la fortaleza y el origen divino de la ciudad de Roma.",
@@ -10870,11 +11051,11 @@
   },
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoSaloninaAlce.webp",
-    "descripcion": "Antoniniano de Salonina 'IVNONI CONS AVG' (Roma) | 267-268 | 2.69g 22x19mm",
+    "descripcion": "Antoniniano de Salonina 'IVNONI CONS AVG' (Roma) | 267-268 | 3.73g 22x20mm",
     "contexto": "Galieno también incluye animales en las monedas de su mujer Salonina, en concreto este alce, con perilla, largas piernas y cuernos pequeños.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
-    "height": 505
+    "height": 495
   },
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoProboAbundantia.webp",
@@ -10911,7 +11092,7 @@
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoProboClementiaDiosa.webp",
     "descripcion": "Antoniniano de Probo 'CLEMENTIA TEMP' (Roma) | 276 | 3.88g 21mm",
-    "contexto": "Clementia era na diosa personificación de la conmiseración, el perdón y de, como su nombre indica, la clemencia.",
+    "contexto": "Clementia era una diosa personificación de la conmiseración, el perdón y de, como su nombre indica, la clemencia.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
     "height": 546
@@ -10927,7 +11108,7 @@
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoProboClementiaTripoli.webp",
     "descripcion": "Antoniniano de Probo 'CLEMENTIA TEMP' (Trípoli) | 276 | 3.86g 22mm",
-    "contexto": "Esta rara ceca solamente acuñó antoninianos de esta iconografía. Esta diosa era adorada en un templo construído por la clemencia que tuvo Julio César con sus enemigos.",
+    "contexto": "Esta rara ceca solamente acuñó antoninianos de esta iconografía. Esta diosa era adorada en un templo construido por la clemencia que tuvo Julio César con sus enemigos.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
     "height": 519
@@ -11103,7 +11284,7 @@
   {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoProboRomaeAeter.webp",
     "descripcion": "Antoniniano de Probo 'ROMAE AETER' (Roma) | 280 | 3.87g 23.21mm",
-    "contexto": "En el reverso se presenta el templo de Venus, construído por Adriano, de 10 columnas, de las que se quitan las 4 centrales para que se vea la estatua de Roma en su interior.",
+    "contexto": "En el reverso se presenta el templo de Venus, construido por Adriano, de 10 columnas, de las que se quitan las 4 centrales para que se vea la estatua de Roma en su interior.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
     "width": 1000,
     "height": 507
@@ -11335,7 +11516,7 @@
   {
     "imagen": "13_MonedasLejanoOriente/chinaNorteSur.webp",
     "descripcion": "Zao Bian Wu Zhu (dinastías Norte/Sur 420-589) | 420-589 | 1.66g 21mm",
-    "contexto": "Las monedas Wu Zhu (5 Zhu, donde 1 Zhu son 0.64 g) fueron emitidas desde la dinastía Han del Oeste a la dinastía Sui incluídas, durante 700 años. Fueron frecuentemente cinceladas (Zao Bian) para obtener dos monedas.",
+    "contexto": "Las monedas Wu Zhu (5 Zhu, donde 1 Zhu son 0.64 g) fueron emitidas desde la dinastía Han del Oeste a la dinastía Sui incluidas, durante 700 años. Fueron frecuentemente cinceladas (Zao Bian) para obtener dos monedas.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
     "height": 534
@@ -11479,7 +11660,7 @@
   {
     "imagen": "13_MonedasLejanoOriente/chinaMingRebeldes.webp",
     "descripcion": "Cash del rebelde Wu Sangui (rebeldes dinastía Qing 1644-1681) | 1674-1678 | 3.94g 25mm",
-    "contexto": "Tras la conquista de China por los manchúes de la dinastía Qing en 1644, surgieron diversos generales rebeldes. Wu Sangui abrió la muralla china a los manchúes para acabar rebelándose.",
+    "contexto": "Los manchúes de la dinastía Qing conquistaron China con la ayuda de Wu Sangui, general Ming que les abrió la muralla y cazó a los últimos príncipes Ming. En 1673 se rebela contra los Qing.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
     "height": 519
@@ -11510,7 +11691,7 @@
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaQing1875.webp",
-    "descripcion": "Cash del emperador Guangxu (dinastía Qing 1644-1912, Kashgar, Sikiang) | 1875-1908 | 3.96g 25mm",
+    "descripcion": "Cash del emperador Guangxu (dinastía Qing 1644-1912, Kashgar, Sinkiang) | 1875-1908 | 3.96g 25mm",
     "contexto": "Reinó bajo la tutela de su tía Cixi, cuya política xenófoba concluyó con la intervención militar de las potencias europeas, Japón y Estados Unidos en 1900.",
     "carpeta": "13_MonedasLejanoOriente",
     "width": 1000,
@@ -11607,7 +11788,7 @@
   {
     "imagen": "14_MonedasIndia/indiaTaxila.webp",
     "descripcion": "1/8 satamana 'flor de loto' (Taxila, Gandhara, Reinos Mahajanapadas) | 500-300 aC | 1.42g 14x12mm",
-    "contexto": "Estas primeras monedas de la India fueron encontradas por Alejandro Magno cuando conquistó Taxila en 326 aC. Ambhi, Rey de Taxila, le pagó con ellas para mostrarle su sumisión.",
+    "contexto": "Estas primeras monedas de la India fueron encontradas por Alejandro Magno cuando conquistó Taxila en 326 aC. Ambhi, rey de Taxila, le pagó con ellas para mostrarle su sumisión.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 618
@@ -11686,7 +11867,7 @@
   },
   {
     "imagen": "14_MonedasIndia/dracmaEscita.webp",
-    "descripcion": "Dracma de Azes II 'Rey a caballo/Zeus Nicéforo' (Reino Indoescita) | 35 aC-5 dC | 2.37g 14.5mm",
+    "descripcion": "Dracma de Azes II 'rey a caballo/Zeus Nicéforo' (Reino Indoescita) | 35 aC-5 dC | 2.37g 14.5mm",
     "contexto": "A Azes II se le identifica como Gaspar, uno de los Tres Reyes Magos. Además, en el ataúd Bimaran, que incluye una de las primeras representaciones de Buda, se encontraron varias de estas monedas.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
@@ -11766,7 +11947,7 @@
   },
   {
     "imagen": "14_MonedasIndia/octopus.webp",
-    "descripcion": "Bronce de Rajaraja Chola I 'Rey en pie/Rey sentado' (Imperio Chola) | 985-1014 | 4.03g 17mm",
+    "descripcion": "Bronce de Rajaraja Chola I 'rey en pie/rey sentado' (Imperio Chola) | 985-1014 | 4.03g 17mm",
     "contexto": "Imperio activo desde el siglo II al XIV, su época de esplendor la vivió con Rajaraja, que dominó el Sur de la India, Sri Lanka, el Oeste de Indonesia y parte de Malasia.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
@@ -11774,16 +11955,24 @@
   },
   {
     "imagen": "14_MonedasIndia/sangramaDeva.webp",
-    "descripcion": "Estatera de bronce del rey Sangrama Deva, dinastía Lohara 'Ardoxsho/Rey' (Valle de Cachemira) | 1003-1028 | 5.78g 17mm",
+    "descripcion": "Estatera de bronce del rey Sangrama Deva, dinastía Lohara 'Ardoxsho/rey' (Valle de Cachemira) | 1003-1028 | 5.78g 17mm",
     "contexto": "Ésta es la moneda que ha sido acuñada durante más tiempo (más de 1300 años) sin cambios significativos en el diseño. Desciende de las estateras Kushan.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 547
   },
   {
+    "imagen": "14_MonedasIndia/paisaChalukya.webp",
+    "descripcion": "Paisa de los Chalukya de Gujarat 'rey/altar de fuego de Zoroastro' (Gadhaya) | 950-1050 | 4.18g 17mm",
+    "contexto": "Tras la caída del imperio persa comenzaron las imitaciones del famoso dracma sasánida que con el tiempo fueron desarrollando representaciones cada vez más esquemáticas.",
+    "carpeta": "14_MonedasIndia",
+    "width": 1000,
+    "height": 536
+  },
+  {
     "imagen": "14_MonedasIndia/gadhaya.webp",
-    "descripcion": "Paisa de los Chalukya de Gujarat 'Rey/altar de fuego de Zoroastro' (Gadhaya) | siglos X-XIII | 4.79g 15x13mm",
-    "contexto": "Moneda evolucionada del dracma sasánida que, en algunos lugares de la frontera de India con Pakistán, seguía usándose como moneda de intercambio en el siglo XXI.",
+    "descripcion": "Paisa de los Chalukya de Gujarat 'rey/altar de fuego de Zoroastro' (Gadhaya) | siglos 1050-1300 | 4.79g 15x13mm",
+    "contexto": "En algunos lugares de la frontera de India con Pakistán, el Gadhaya paisa seguía usándose como moneda de intercambio en el siglo XXI.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
     "height": 581
@@ -11814,7 +12003,7 @@
   },
   {
     "imagen": "14_MonedasIndia/massaCeilan.webp",
-    "descripcion": "Massa de la Reina Lilavati 'Rey en pie/Rey sentado' (Reino de Polonnaruwa, Ceilán) | 1197-1200 | 4.14g 20mm",
+    "descripcion": "Massa de la Reina Lilavati 'rey en pie/rey sentado' (Reino de Polonnaruwa, Ceilán) | 1197-1200 | 4.14g 20mm",
     "contexto": "Su dinastía logró expulsar a los Chola de la isla para establecer un reino nativo en 1070 pero, tras sucesivos ataques desde el Sur de la India, Kalinga Magha estableció el Reino Jaffna en 1215.",
     "carpeta": "14_MonedasIndia",
     "width": 1000,
@@ -12053,6 +12242,22 @@
     "height": 511
   },
   {
+    "imagen": "15_MonedasIslamicas/dirhamHishamI.webp",
+    "descripcion": "Dirham de Hisham I (Al-Ándalus, Emirato de Córdoba) | 789-790 | 2.43g 28mm",
+    "contexto": "Hisham I consolidó las estructuras estatales y religiosas del emirato, priorizando la organización administrativa y la ortodoxia malikí tras la etapa de conquista de su padre Abderramán I.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 517
+  },
+  {
+    "imagen": "15_MonedasIslamicas/dirhamAlhakenI.webp",
+    "descripcion": "Dirham de Alhakén I (Al-Ándalus, Emirato de Córdoba) | 819-820 | 2.29g 27mm",
+    "contexto": "Alhakén I impuso un férreo control sobre la población tras haber sofocado a sangre y fuego la Revuelta del Arrabal, garantizando así la estabilidad para el final de su reinado.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 540
+  },
+  {
     "imagen": "15_MonedasIslamicas/dirhamAbderramanII.webp",
     "descripcion": "Dirham de Abderramán II (Al-Ándalus, Emirato de Córdoba) | 844 | 2.40g 24mm",
     "contexto": "Abderramán II fomentó las ciencias, las artes, la agricultura y la industria en Al-Ándalus en un clima de luchas externas y, sobre todo, internas.",
@@ -12085,8 +12290,40 @@
     "height": 548
   },
   {
+    "imagen": "15_MonedasIslamicas/dirhamHishamII.webp",
+    "descripcion": "Dirham de Hisham II (Madinat al Zahra, Al-Ándalus, Califato de Córdoba) | 993-994 | 3.74g 23mm",
+    "contexto": "El califa Hisham II fue relegado a un papel ceremonial por Almanzor, cuya supremacía política que se hace patente al incluir su propio nombre ('Amir) junto al del califa en el reverso de la moneda.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 565
+  },
+  {
+    "imagen": "15_MonedasIslamicas/dirhamMohamedII.webp",
+    "descripcion": "Dirham de Mohamed II (Madinat al Zahra, Al-Ándalus, Califato de Córdoba) | 1008-1009 | 1.75g 24mm",
+    "contexto": "El derrocamiento de los sucesores de Almanzor desencadenó una Fitna o guerra civil en la que Muhammad II accedió al trono con el respaldo de la aristocracia cordobesa, personificada en el visir Yahwar, citado en la moneda.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 517
+  },
+  {
+    "imagen": "15_MonedasIslamicas/dirhamSulaiman.webp",
+    "descripcion": "Dirham de Sulaimán (Madinat al Zahra, Al-Ándalus, Califato de Córdoba) | 1009-1010 | 3.45g 24mm",
+    "contexto": "El califa rival Sulaimán, aupado militarmente por los bereberes y respaldado por Ibn Šuhaid (en el anverso), profundizó la fractura política de una contienda que terminaría por desintegrar definitivamente el Califato.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 537
+  },
+  {
+    "imagen": "15_MonedasIslamicas/fraccionDirhamTaifaToledo.webp",
+    "descripcion": "Fracción de dirham de Yahya I Al-Mamún (Madinat Tulaytula, Taifa de Toledo) | 1070 | 1.14g 11x14mm",
+    "contexto": "Tras la disolución del Califato, Al-Andalus se fragmentó en un mosaico de reinos rivales donde destacó la poderosa Taifa de Toledo de Al-Mamún, encarnando el máximo esplendor cultural y científico en una época de gran inestabilidad política.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 581
+  },
+  {
     "imagen": "15_MonedasIslamicas/dirhamAlmoravide.webp",
-    "descripcion": "Dirham anónimo (Al-Ándalus, Imperio Almorávide) | 1085-1232 | 0.94g 12mm",
+    "descripcion": "Quirat de Ali ibn Yusuf y el emir Tashfin (Al-Ándalus, Imperio Almorávide) | 1138-1143 | 0.94g 12mm",
     "contexto": "Tras la pérdida de Toledo en 1085, los reinos Taifas piden ayuda a los almorávides, los cuales derrotan a Alfonso VI y se apoderan de Al-Ándalus hasta la llegada de los almohades.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
@@ -12094,11 +12331,19 @@
   },
   {
     "imagen": "15_MonedasIslamicas/dirhamAlmohades.webp",
-    "descripcion": "Dirham anónimo (Marruecos, Reino Almohade) | siglo XIII | 1.53g 14mm",
+    "descripcion": "Dirham anónimo (Fez, Marruecos, Reino Almohade) | 1147-1238 | 1.53g 14mm",
     "contexto": "El Imperio Almohade, procedente del Magreb, arrebató Al-Ándalus a los almorávides trasladando la capital de Granada a Sevilla, donde construyeron la Giralda y la Torre del Oro.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 528
+  },
+  {
+    "imagen": "15_MonedasIslamicas/felusReinoNazariGranada.webp",
+    "descripcion": "Felús (Gharnata, Reino nazarí de Granada) | 1476 | 2.76g 24x20mm",
+    "contexto": "El Reino nazarí de Granada fue el último bastión islámico de la Península que resistió más de dos siglos en las montañas del sur, sublimando el arte andalusí hasta alcanzar su máxima expresión estética.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 540
   },
   {
     "imagen": "15_MonedasIslamicas/sudaysiDinastiaRassida.webp",
@@ -12135,7 +12380,7 @@
   {
     "imagen": "15_MonedasIslamicas/felusSamanida.webp",
     "descripcion": "Felús de Mansur I (Bukhara, Emirato Samánida) | 961-976 | 2.09g 22mm",
-    "contexto": "Este emirato dependiente del Califato Abasí, famoso por su labor de mezenazgo, sirvió de protección al mundo musulmán ante las incursiones de las tribus turcas paganas de Asia Central.",
+    "contexto": "Este emirato dependiente del Califato Abasí, famoso por su labor de mecenazgo, sirvió de protección al mundo musulmán ante las incursiones de las tribus turcas paganas de Asia Central.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 520
@@ -12293,6 +12538,14 @@
     "height": 504
   },
   {
+    "imagen": "15_MonedasIslamicas/akceOrhanI.webp",
+    "descripcion": "Akce de Orhan I (Imperio Otomano) | 1326-1362 | 1.22g 19x17mm",
+    "contexto": "Fue el primer soberano osmanlí en acuñar moneda propia (el akce de plata). Cruzó por primera vez a Europa tras la toma de la fortaleza de Galípoli y organizó los primeros cuerpos militares profesionales: los jenízaros.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 490
+  },
+  {
     "imagen": "15_MonedasIslamicas/akceMuradI.webp",
     "descripcion": "Akce de Murad I el Divino (Imperio Otomano) | 1362-1389 | 0.69g 13mm",
     "contexto": "Transformó el principado en un imperio europeo dotándolo de un ejército permanente. Fue el único sultán asesinado en una batalla; fue en la de Kosovo.",
@@ -12307,6 +12560,22 @@
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 562
+  },
+  {
+    "imagen": "15_MonedasIslamicas/akceMehmedI.webp",
+    "descripcion": "Akce de Mehmed I el Verdugo (Imperio Otomano) | 1413-1414 | 1.15g 11mm",
+    "contexto": "Puso fin a la década de guerra civil conocida como el Interregno Otomano tras derrotar a sus hermanos en la lucha por la sucesión y sofocó la gran rebelión sociorreligiosa de Sheikh Bedreddin.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 521
+  },
+  {
+    "imagen": "15_MonedasIslamicas/akceMuradII.webp",
+    "descripcion": "Akce de Murad II el Grande (Imperio Otomano) | 1431 | 1.17g 13mm",
+    "contexto": "Aseguró la supervivencia del Estado al aniquilar la última gran Cruzada europea en la Batalla de Varna; su victoria consolidó el dominio balcánico y preparó el terreno militar para que su hijo, Mehmed II, conquistara Constantinopla.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 553
   },
   {
     "imagen": "15_MonedasIslamicas/akceMehmedII.webp",
@@ -12349,6 +12618,14 @@
     "height": 528
   },
   {
+    "imagen": "15_MonedasIslamicas/akceSelimII.webp",
+    "descripcion": "Akce de Selim II (Constantinopla, Imperio Otomano) | 1566 | 0.67g 11mm",
+    "contexto": "Selim II rompió la tradición guerrera al no acudir nunca al frente de batalla; bajo su gobierno se conquistó Chipre, victoria eclipsada por el desastre naval de Lepanto, que quebró el mito de la invencibilidad otomana en el Mediterráneo.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 568
+  },
+  {
     "imagen": "15_MonedasIslamicas/dirhamMuradIII.webp",
     "descripcion": "Dirham de Murad III (Halab, Imperio Otomano) | 1574 | 2.99g 20x18mm",
     "contexto": "Nieto de Solimán I e hijo de Selim II, Murad III se enfrentó a los safávidas en una guerra que le dio territorios pero también problemas económicos.",
@@ -12359,10 +12636,18 @@
   {
     "imagen": "15_MonedasIslamicas/medinAhmedI.webp",
     "descripcion": "Medin de Ahmed I el Severo (Misir, Egipto, Imperio Otomano) | 1603-1617 | 0.93g 15mm",
-    "contexto": "Al contrario que sus antecederos fue un sultán afectuoso y sensible e incluso rechazó asesinar a su hermano Mustafa. Es recordado por la construcción de la Mezquita Azul de Estambul.",
+    "contexto": "Al contrario que sus antecederos fue un sultán afectuoso y sensible e incluso rechazó asesinar a su hermano Mustafá. Es recordado por la construcción de la Mezquita Azul de Estambul.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 554
+  },
+  {
+    "imagen": "15_MonedasIslamicas/akceMuradIV.webp",
+    "descripcion": "Akce de Murad IV el Verdugo (Imperio Otomano) | 1622-1623 | 0.83g 16mm",
+    "contexto": "Asumió el poder efectivo tras una década de regencia y caos institucional para imponer una disciplina militar absoluta, erradicando la corrupción interna mediante purgas masivas y liderando personalmente la campaña que recuperó Bagdad.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 520
   },
   {
     "imagen": "15_MonedasIslamicas/akceIbrahim.webp",
@@ -12373,12 +12658,44 @@
     "height": 493
   },
   {
+    "imagen": "15_MonedasIslamicas/akceMehmedIV.webp",
+    "descripcion": "Akce de Mehmed IV el cazador (Constantinopla, Imperio Otomano) | 1648-1687 | 0.27g 12mm",
+    "contexto": "El reinado de Mehmed IV sufrió un colapso monetario sin precedentes; la inflación galopante redujo el akçe a un peso insignificante obligando al comercio a depender de divisas extranjeras ante la quiebra virtual de la hacienda otomana.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 541
+  },
+  {
     "imagen": "15_MonedasIslamicas/mangirSolimanII.webp",
     "descripcion": "Mangir de Solimán II (Saray, Imperio Otomano) | 1689 | 1.83g 18mm",
     "contexto": "Accedió al trono tras la deposición de su hermano Mehmed IV durante la Gran Guerra Turca frente a la Liga Santa. Falleció tras la grave derrota de Slankamen.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 532
+  },
+  {
+    "imagen": "15_MonedasIslamicas/kurusMustafaII.webp",
+    "descripcion": "Kurus de Mustafá II (Constantinopla, Imperio Otomano) | 1695 | 19.24g 40x38mm",
+    "contexto": "Mustafá II lideró una fallida contraofensiva frente al Sacro Imperio que culminó en la debacle de Zenta y el Tratado de Karlowitz, que selló la pérdida de Hungría y el inicio irrevocable del repliegue otomano en Europa.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 521
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraAhmedIII.webp",
+    "descripcion": "Para de Ahmed III (Constantinopla, Imperio Otomano) | 1703-1704 | 0.44g 14mm",
+    "contexto": "Ahmed III presidió la célebre 'Era de los Tulipanes', un periodo de refinamiento artístico y apertura cultural que, tras años de paz y hedonismo, terminó abruptamente con una sangrienta rebelión jenízara.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 530
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraAhmedIIIEgipto.webp",
+    "descripcion": "Para de Ahmed III (Misr, Egipto, Imperio Otomano) | 1703-1704 | 0.68g 16mm",
+    "contexto": "Egipto actuaba como el inagotable granero y tesoro del Imperio, financiando con sus tributos el esplendor de la capital; sus monedas de la ceca de Misr son testimonio de esta riqueza vital y del poder creciente de las élites locales bajo la soberanía otomana.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 551
   },
   {
     "imagen": "15_MonedasIslamicas/paraMahmudI.webp",
@@ -12389,12 +12706,44 @@
     "height": 518
   },
   {
+    "imagen": "15_MonedasIslamicas/kharubAliI.webp",
+    "descripcion": "Kharub de Abu l-Hasan Ali I (dinastía husainí, Túnez) | 1739-1740 | 0.94g 15mm",
+    "contexto": "Abu l-Hasan Ali I consolidó su poder como bey de Túnez tras una cruenta guerra civil y gobernó con autonomía ante el Imperio otomano hasta la invasión argelina de 1756.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 514
+  },
+  {
     "imagen": "15_MonedasIslamicas/burbeMustafaIII.webp",
-    "descripcion": "Burbe de Mustafa III (Túnez, Imperio Otomano) | 1760 | 2.82g 20mm",
-    "contexto": "Mustafa III intentó modernizar el Ejército y el Estado a pesar de las rebeliones de jenízaros e imanes pero el declive era ya demasiado profundo. Declaró la guerra a Rusia.",
+    "descripcion": "Burbe de Ali II ibn Husayn (dinastía husainí, Túnez) | 1760 | 2.82g 20mm",
+    "contexto": "El bey Ali II logró reconstruir Túnez tras la devastadora invasión argelina, aunque su soberanía fue desafiada por la flota francesa, que bombardeó los puertos tunecinos en 1770 forzando un tratado comercial.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 525
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraMustafaIII.webp",
+    "descripcion": "Para de Mustafá III (Constantinopla, Imperio Otomano) | 1764-1765 | 0.38g 15mm",
+    "contexto": "Mustafá III intentó modernizar el Ejército y el Estado a pesar de las rebeliones de jenízaros e imanes pero el declive era ya demasiado profundo. Declaró la guerra a Rusia.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 507
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraAbdulHamidI.webp",
+    "descripcion": "Para de Abdul Hamid I (Constantinopla, Imperio Otomano) | 1773-1774 | 0.45g 15.5mm",
+    "contexto": "Abdul Hamid I heredó un imperio derrotado y se vio obligado a firmar con Rusia el humillante tratado de Küçük Kaynarca, oficializando la traumática pérdida de Crimea y cediendo a los zares el dominio del Mar Negro.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 515
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraSelimIII.webp",
+    "descripcion": "Para de Selim III (Constantinopla, Imperio Otomano) | 1801-1802 | 0.23g 15mm",
+    "contexto": "Selim III intentó salvar al Estado mediante el 'Nuevo Orden' (Nizam-ı Cedid); su audaz modernización militar chocó frontalmente con el fanatismo reaccionario de los jenízaros, costándole el trono y la vida.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 532
   },
   {
     "imagen": "15_MonedasIslamicas/MahmutII.webp",
@@ -12403,6 +12752,22 @@
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 510
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraAbdulmejidConstantinopla.webp",
+    "descripcion": "5 para de Abdulmejid (Constantinopla, Imperio Otomano) | 1842-1843 | 1.53g 20.5mm",
+    "contexto": "Promulgó el Edicto de Gülhane para iniciar formalmente el periodo de las Tanzimat o reformas reorganizativas, garantizando por primera vez la igualdad ante la ley de todos los súbditos otomanos.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 517
+  },
+  {
+    "imagen": "15_MonedasIslamicas/paraAbdulmejid.webp",
+    "descripcion": "5 para de Abdulmejid (Egipto, Imperio Otomano) | 1839-1840 | 7.36g 20mm",
+    "contexto": "Abdulmejid accedió al trono con las tropas rebeldes de Egipto amenazando la capital. La intervención europea salvó el Imperio, pero al precio de perder el control de Egipto en 1841.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 538
   },
   {
     "imagen": "15_MonedasIslamicas/qiranQajar.webp",
@@ -12687,7 +13052,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/follisTeofilo.webp",
     "descripcion": "Follis de Teófilo '+THEO FILE AVGOVSTE SV nICAS' (Constantinopla) | 829-842 | 6.55g 29mm",
-    "contexto": "Teófilo fue un iconoclasta que poseía un gran gusto por la ciencia y el arte, incluído el árabe, a pesar de que en su reinado combatió con el Califato abasí.",
+    "contexto": "Teófilo fue un iconoclasta que poseía un gran gusto por la ciencia y el arte, incluido el árabe, a pesar de que en su reinado combatió con el Califato abasí.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 530
@@ -12981,6 +13346,22 @@
     "height": 497
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroAlfonsoVI.webp",
+    "descripcion": "Dinero de Alfonso VI el Bravo 'cruz' (Reino de Castilla y León) | 1073-1109 | 0.91g 18mm",
+    "contexto": "Alfonso VI conquistó Toledo en 1085, desplazando la frontera cristiana hasta el río Tajo, y se proclamó 'Imperator totius Hispaniae' mientras imponía el rito romano frente al mozárabe.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 528
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroAlfonsoIX.webp",
+    "descripcion": "Dinero de Alfonso IX el de las Cortes 'león/cruz' (Reino de León) | 1188-1230 | 0.67g 19mm",
+    "contexto": "Alfonso IX convocó en 1188 las primeras Cortes de la historia mundial y fundó la Universidad de Salamanca, centrando su esfuerzo militar en la reconquista definitiva de Extremadura para consolidar la frontera leonesa frente a los almohades.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 518
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroSanchoVI.webp",
     "descripcion": "Dinero de Sancho VI el Sabio 'Sancho VI/árbol superado de cruz' (Pamplona, Reino de Navarra) | 1150-1194 | 0.86g 18mm",
     "contexto": "Fundó Vitoria y San Sebastián y estabilizó el Reino de Navarra (antes de él, de Pamplona) en sus luchas con Castilla y Aragón. Casó a su hija con Ricardo Corazón de León. Definió al euskera como 'lingua navarrorum'.",
@@ -13005,17 +13386,25 @@
     "height": 502
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/carlinCarlosII.webp",
+    "descripcion": "Carlín de Carlos II el Malo 'castillo/cruz' (Pamplona, Reino de Navarra) | 1349-1387 | 0.58g 18x16mm",
+    "contexto": "Carlos II de Navarra pasó de ser un gran señor feudal en territorio francés a convertirse en una pieza clave del equilibrio europeo, hasta que la pérdida de sus dominios externos centró su legado en el fortalecimiento institucional de Navarra.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 472
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/cornadoJuanCatalina.webp",
     "descripcion": "Cornado de Juan III de Albret y Catalina de Foix 'IK coronadas/cruz' (Pamplona, Reino de Navarra) | 1483-1512 | 0.70g 15mm",
-    "contexto": "Últimos Reyes de Navarra que vieron cómo Castilla se hacía con su Reino a manos del regente Fernando el Católico. Huyeron a Bearne y desde allí intentaron recuperarlo hasta su muerte sin éxito.",
+    "contexto": "Últimos reyes de Navarra que vieron cómo Castilla se hacía con su Reino a manos del regente Fernando el Católico. Huyeron a Bearne y desde allí intentaron recuperarlo hasta su muerte sin éxito.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 521
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/oboloJaimeI.webp",
-    "descripcion": "Dinero de Jaime I el Conquistador 'Jaime I/cruz' (Barcelona, Reino de Aragón) | 1213-1276 | 0.68g 17mm",
-    "contexto": "Concebido creyendo el rey Pedro II que se acostaba con una de sus amantes, fue repudiado por éste. Fue Rey a los 5 años tras quedar huérfano. Venció a los nobles y conquistó Baleares, Valencia y Murcia.",
+    "descripcion": "Dinero de Jaime I el Conquistador 'Jaime I/cruz' (Barcelona, Corona de Aragón) | 1213-1276 | 0.68g 17mm",
+    "contexto": "Concebido creyendo el rey Pedro II que se acostaba con una de sus amantes, fue repudiado por éste. Fue rey a los 5 años tras quedar huérfano. Venció a los nobles y conquistó Baleares, Valencia y Murcia.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 506
@@ -13029,8 +13418,32 @@
     "height": 514
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroPedroIII.webp",
+    "descripcion": "Dinero de Pedro III el Grande 'Pedro III/cruz' (Barcelona, Corona de Aragón) | 1276-1285 | 1.23g 16mm",
+    "contexto": "Pedro III convirtió la Corona de Aragón en la primera potencia marítima del Mediterráneo tras la conquista de Sicilia; su desafío militar a Francia y al Papado situó a sus dominios como el referente hegemónico de la época.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 509
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroJaimeII.webp",
+    "descripcion": "Dinero de Jaime II el Justo 'Jaime II/cruz' (Barcelona, Corona de Aragón) | 1291-1327 | 1.01g 17mm",
+    "contexto": "Jaime II expandió los dominios de la Corona con la conquista de Cerdeña creando una red comercial que conectó Barcelona y Valencia con los principales puertos del norte de África y Oriente.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 525
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroPedroIV.webp",
+    "descripcion": "Dinero de Pedro IV el Ceremonioso 'Pedro IV/cruz' (Zaragoza, Corona de Aragón) | 1336-1387 | 0.86g 18x16mm",
+    "contexto": "Pedro IV reincorporó por la fuerza el Reino de Mallorca a sus dominios tras derrotar a Jaime III y acabó con la resistencia de la Unión de la nobleza aragonesa en la batalla de Épila.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 526
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/dinerSicilia.webp",
-    "descripcion": "Diner de Alfonso V el Magnánimo 'águila/escudo' (Messina, Reino de Sicilia) | 1416-1458 | 0.79g 15mm",
+    "descripcion": "Diner de Alfonso V el Magnánimo 'águila/escudo' (Messina, Reino de Sicilia, Corona de Aragón) | 1416-1458 | 0.79g 15mm",
     "contexto": "El Reino de Sicilia estuvo bajo dominación aragonesa entre 1282 y 1442, cuando Alfonso V conquistó el Reino de Nápoles y los unificó.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -13077,6 +13490,14 @@
     "height": 532
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/millares.webp",
+    "descripcion": "Millarés (reinos cristianos) | siglo XIII | 1.01g 20x18mm",
+    "contexto": "El millarés es una copia del dirham cuadrado almohade acuñada por los reinos cristianos principalmente para comerciar con el norte de África.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "width": 1000,
+    "height": 476
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/pugesaLleida.webp",
     "descripcion": "Pugesa 'lirio heráldico de Lleida en rombo/lirio heráldico de Lleida' (Lleida) | siglos XIII-XIV | 3.38g 17mm",
     "contexto": "Con un valor fiduciario de un cuarto de dinero, esta moneda local fue acuñada en diferentes zonas de Cataluña siendo la de Lleida la más conocida.",
@@ -13095,7 +13516,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/cruzadoEnriqueII.webp",
     "descripcion": "Cruzado de Enrique II de Trastámara 'Enrique II/cruz' (Reino de Castilla) | 1374-1376 | 2.12g 19mm",
-    "contexto": "Derrotó a Fernando I de Portugal en las Guerras Fernandinas y al Duque de Lancaster en la batalla de La Rochelle del almirante Bocanegra en alianza con Carlos V de Francia.",
+    "contexto": "Derrotó a Fernando I de Portugal en las Guerras Fernandinas y al duque de Lancaster en la batalla de La Rochelle del almirante Bocanegra en alianza con Carlos V de Francia.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 527
@@ -13127,7 +13548,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/blancaEnriqueIV.webp",
     "descripcion": "Blanca de Enrique IV el Impotente 'castillo/león' (Toledo, Reino de Castilla) | 1454-1474 | 0.86g 20mm",
-    "contexto": "Tras su muerte la sucesión se debatía entre Juana, hija de Enrique IV y esposa del Rey de Portugal, e Isabel, hija de Juan II y esposa del Rey de Aragón. El conflicto sucesorio alcanzó un nivel internacional.",
+    "contexto": "Tras su muerte la sucesión se debatía entre Juana, hija de Enrique IV y esposa del rey de Portugal, e Isabel, hija de Juan II y esposa del rey de Aragón. El conflicto sucesorio alcanzó un nivel internacional.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 519
@@ -13159,7 +13580,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/blancaReyesCatolicos.webp",
     "descripcion": "Blanca de los Reyes Católicos 'F coronada/Y coronada' (Cuenca, Reinos de Castilla y Aragón) | 1555-1566 | 1.13g 18mm",
-    "contexto": "Esta blanca (medio maravedí) representa las iniciales coronadas de ambos Reyes, (F)ernando e (Y)sabel. El ensayador es Pedro Becerril, que trabajó entre 1512 y 1566.",
+    "contexto": "Esta blanca (medio maravedí) representa las iniciales coronadas de ambos reyes, (F)ernando e (Y)sabel. El ensayador es Pedro Becerril, que trabajó entre 1512 y 1566.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 525
@@ -13207,7 +13628,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/felipe2.webp",
     "descripcion": "2 cuartos de Felipe II el Prudente 'castillo/león' (Cuenca) | 1577-1582 | 3.51g 23mm",
-    "contexto": "Hijo de Carlos I y de Isabel de Portugal y casado con María I de Inglaterra, fue además Rey de Portugal y los Algarves y de Inglaterra.",
+    "contexto": "Hijo de Carlos I y de Isabel de Portugal y casado con María I de Inglaterra, fue además rey de Portugal y los Algarves y de Inglaterra.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 505
@@ -13303,7 +13724,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/maravedisFelipeIV.webp",
     "descripcion": "16 maravedís de Felipe IV el Grande 'Felipe IV/escudo' (Sevilla) | 1662 | 3.91g 24mm",
-    "contexto": "En su reinado se vio obligado a reconocer la independencia de Portugal y las Provincias Unidas (Países Bajos). Su gobierno se apoyó en el Conde-Duque de Olivares.",
+    "contexto": "En su reinado se vio obligado a reconocer la independencia de Portugal y las Provincias Unidas (Países Bajos). Su gobierno se apoyó en el conde-duque de Olivares.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 520
@@ -13327,7 +13748,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/maravedisCarlosII.webp",
     "descripcion": "2 maravedís de Carlos II el Hechizado 'escudo de castillo/escudo de león' (Coruña) | 1665-1700 | 6.17g 23x20mm",
-    "contexto": "Último Rey de la casa de Austria, de naturaleza enfermiza y estéril por la consanguineidad familiar, era además muy manipulable hasta el punto que en su testamento cedía el trono a Felipe de Anjou, nieto de Luis XIV.",
+    "contexto": "Último rey de la casa de Austria, de naturaleza enfermiza y estéril por la consanguineidad familiar, era además muy manipulable hasta el punto que en su testamento cedía el trono a Felipe de Anjou, nieto de Luis XIV.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 559
@@ -13351,7 +13772,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/maravedisFelipeV.webp",
     "descripcion": "2 maravedís de Felipe V el Animoso 'escudo/león coronado con cetro y sable' (Barcelona) | 1720 | 4.23g 23mm",
-    "contexto": "Primer Rey de la Casa de Borbón y el de más largo reinado, tuvo la oposición de Carlos de Austria que pretendía el trono y se inició una guerra que acabó cuando Carlos se hizo Emperador de Austria.",
+    "contexto": "Primer rey de la Casa de Borbón y el de más largo reinado, tuvo la oposición de Carlos de Austria que pretendía el trono y se inició una guerra que acabó cuando Carlos se hizo Emperador de Austria.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 535
@@ -13535,7 +13956,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/pfennigAustriaFederico.webp",
     "descripcion": "Pfennig de Federico de Habsburgo, el Hermoso 'tres tréboles' (Viena, Ducado de Austria, Sacro Imperio Romano Germánico) | 1314-1330 | 0.37g 13mm",
-    "contexto": "Desde el siglo XIII al XX el destino de Austria estuvo ligado a los Habsburgo. Federico fue Duque de Austria y Estiria como Federico I y Rey de Romanos como Federico III. El Rey de Romanos era un emperador de facto pero que no había sido coronado por el Papa.",
+    "contexto": "Desde el siglo XIII al XX el destino de Austria estuvo ligado a los Habsburgo. Federico fue duque de Austria y Estiria como Federico I y rey de romanos como Federico III. El rey de romanos era un emperador de facto pero que no había sido coronado por el Papa.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 534
@@ -13559,7 +13980,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroSegismundo.webp",
     "descripcion": "Dinero de Segismundo de Luxemburgo 'cruz patriarcal/escudo' (Buda, Hungría, Sacro Imperio Romano Germánico) | 1390-1427 | 0.47g 14mm",
-    "contexto": "Último emperador de la casa de Luxemburgo, reinó desde Hungría situándola en el eje de Europa central en la lucha contra los otomanos. Aparte de emperador (1433-1437) también fue Rey de Hungría, Croacia, Bohemia e Italia.",
+    "contexto": "Último emperador de la casa de Luxemburgo, reinó desde Hungría situándola en el eje de Europa central en la lucha contra los otomanos. Aparte de emperador (1433-1437) también fue rey de Hungría, Croacia, Bohemia e Italia.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 511
@@ -13630,7 +14051,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/germ.webp",
-    "descripcion": "Groschen de Alberto de Brandeburgo, Príncipe Elector de Maguncia 'Alberto/águila' (Königsberg, Ducado de Prusia) | 1539 | 1.87g 23mm",
+    "descripcion": "Groschen de Alberto de Brandeburgo, príncipe elector de Maguncia 'Alberto/águila' (Königsberg, Ducado de Prusia) | 1539 | 1.87g 23mm",
     "contexto": "Por su enorme cantidad de cargos tuvo que pagar grandes cantidades al Papa y para ello vendió indulgencias, enfadando a Lutero, que inmediatamente publicó sus 95 tesis, lo que inició el movimiento de Reforma Protestante.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -13639,7 +14060,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroFernando.webp",
     "descripcion": "Dinero de Fernando I de Habsburgo 'vírgen con niño/escudo' (Hungría, Sacro Imperio Romano Germánico) | 1543 | 0.49g 15mm",
-    "contexto": "Hermano de Carlos I de España y nieto preferido de Fernando el Católico, fue emperador del Sacro Imperio Romano (1558-1564), Rey de Hungría, de Bohemia y Archiduque de Austria.",
+    "contexto": "Hermano de Carlos I de España y nieto preferido de Fernando el Católico, fue emperador del Sacro Imperio Romano (1558-1564), rey de Hungría, de Bohemia y archiduque de Austria.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 534
@@ -13655,7 +14076,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/pfennigBohemia.webp",
     "descripcion": "Pfennig de Rodolfo II 'león' (Kuttenberg, Bohemia, Archiducado de Austria, Sacro Imperio Romano Germánico) | 1591 | 0.35g 13mm",
-    "contexto": "Con la elección en 1526 de Fernando I de Habsburgo como Rey de Bohemia la historia de Bohemia quedó unida a la de Austria hasta 1918. La revuelta bohemia de 1618 inició la Guerra de los Treinta Años.",
+    "contexto": "Con la elección en 1526 de Fernando I de Habsburgo como rey de Bohemia la historia de Bohemia quedó unida a la de Austria hasta 1918. La revuelta bohemia de 1618 inició la Guerra de los Treinta Años.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 499
@@ -13670,7 +14091,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/thalerJorgeGuillermo.webp",
-    "descripcion": "Groschen de Jorge Guillermo I de Brandeburgo, Margrave Elector y Duque de Prusia 'escudo/globo imperial' (Königsberg, Brandeburgo-Prusia, Sacro Imperio Romano Germánico) | 1624 | 0.79g 19mm",
+    "descripcion": "Groschen de Jorge Guillermo I de Brandeburgo, margrave elector y duque de Prusia 'escudo/globo imperial' (Königsberg, Brandeburgo-Prusia, Sacro Imperio Romano Germánico) | 1624 | 0.79g 19mm",
     "contexto": "Brandeburgo-Prusia fue un Estado formado en 1618 al unir el ducado de Prusia y el margraviato de Brandeburgo. Jorge Guillermo quiso mantenerse neutral en la Guerra de los Treinta Años pero acabó apoyando al bando protestante.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -13687,7 +14108,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kreuzerAustriaFernandoIII.webp",
     "descripcion": "Kreuzer de Fernando III de Austria 'Fernando III/águila' (Archiducado de Austria, Sacro Imperio Romano Germánico) | 1630 | 0.76g 16mm",
-    "contexto": "Fernando II de Habsburgo defendió el catolicismo frente a la tendencia protestante suprimiendo la práctica de fes no católicas precipitóando la Guerra de los Treinta Años. Sofocó la revuelta de Bohemia y dejó en herencia un imperio en guerra.",
+    "contexto": "Fernando II de Habsburgo defendió el catolicismo frente a la tendencia protestante suprimiendo la práctica de fes no católicas precipitando la Guerra de los Treinta Años. Sofocó la revuelta de Bohemia y dejó en herencia un imperio en guerra.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 526
@@ -13742,7 +14163,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/thalerCarlosI.webp",
-    "descripcion": "Groschen de Carlos I, Duque de Brunswick-Lunenburg 'caballo' (Brunswick-Wolfenbüttel, Sacro Imperio Romano Germánico) | 1776 | 1.68g 20mm",
+    "descripcion": "Groschen de Carlos I, duque de Brunswick-Lunenburg 'caballo' (Brunswick-Wolfenbüttel, Sacro Imperio Romano Germánico) | 1776 | 1.68g 20mm",
     "contexto": "El Principado de Brunswick-Wolfenbüttel (1269-1807) era una subdivisión del Ducado de Brunswick-Lunenburg. Durante el reinado de Carlos I hubo un importante desarrollo cultural y científico.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -13807,7 +14228,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/stycaAnglosajon.webp",
     "descripcion": "Styca de Wigmund, arzobispo de York '+VIGMVND/+COENRED' (York, Reino de Northumbria) | 837-849 | 1.04g 12mm",
-    "contexto": "Tras la caída de la Heptarquía anglosajona en 827, Egbert, Rey de Mercia y Wessex, se proclamó Rey de Inglaterra sometiendo a Northumbria. Poco después, en 867, los vikingos tomaron York.",
+    "contexto": "Tras la caída de la Heptarquía anglosajona en 827, Egbert, rey de Mercia y Wessex, se proclamó rey de Inglaterra sometiendo a Northumbria. Poco después, en 867, los vikingos tomaron York.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 564
@@ -13831,7 +14252,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/pennyRicardoI.webp",
     "descripcion": "Penique de Ricardo I Corazón de León 'Ricardo I/cruz' (Londres) | 1189-1199 | 1.42g 19mm",
-    "contexto": "Esencialmente francés, Ricardo pisó Inglaterra solo para sus coronaciones debido a sus campañas como Cruzado. Fue un mal Rey pero un excelente soldado.",
+    "contexto": "Esencialmente francés, Ricardo pisó Inglaterra solo para sus coronaciones debido a sus campañas como Cruzado. Fue un mal rey pero un excelente soldado.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 517
@@ -14039,7 +14460,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/gengisSiege.webp",
     "descripcion": "Jital de Rabi II 'Al-Malik/Kalima' (Kurzuwan, Imperio Corasmio) | junio de 1221 | 3.23g 20mm",
-    "contexto": "En verano de 1221 los mongoles asediaron Kurzuwan, importante ciudad del Imperio Corasmio. Durante el asedio se acuñaron estas monedas en la ciudad antes de ser destruída y su población aniquilada por los mongoles.",
+    "contexto": "En verano de 1221 los mongoles asediaron Kurzuwan, importante ciudad del Imperio Corasmio. Durante el asedio se acuñaron estas monedas en la ciudad antes de ser destruida y su población aniquilada por los mongoles.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 502
@@ -14047,7 +14468,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/solidoOdoacro.webp",
     "descripcion": "Sólido de Odoacro 'Zenón/Victoria' (Roma, Reino Ostrogodo) | 476-493 | 4.48g 21mm",
-    "contexto": "Odoacro depuso en 476 al último emperador romano de Occidente, Rómulo Augústulo, proclamándose Rey y marcando el fin del Imperio Romano. Formalmente reconoció la autoridad de Zenón.",
+    "contexto": "Odoacro depuso en 476 al último emperador romano de Occidente, Rómulo Augústulo, proclamándose rey y marcando el fin del Imperio Romano. Formalmente reconoció la autoridad de Zenón.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 528
@@ -14102,7 +14523,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/ducadoVenecia.webp",
-    "descripcion": "Ducado de Bartolomeo Gradenigo 'Duque de rodillas frente a San Marcos/Jesucristo' (República de Venecia) | 1339-1342 | 3.48g 20mm",
+    "descripcion": "Ducado de Bartolomeo Gradenigo 'duque de rodillas frente a San Marcos/Jesucristo' (República de Venecia) | 1339-1342 | 3.48g 20mm",
     "contexto": "Durante el siglo XV el ducado fue sustituyendo al florín como moneda de oro de referencia en Europa. El ducado ha sido usado también en España, Austria y Alemania con otras iconografías.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14110,7 +14531,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/grossoVeneciaGradenigo.webp",
-    "descripcion": "Grosso de Pietro Gradenigo 'Duque y San Marcos/Jesucristo' (República de Venecia) | 1289-1311 | 2.03g 20mm",
+    "descripcion": "Grosso de Pietro Gradenigo 'duque y San Marcos/Jesucristo' (República de Venecia) | 1289-1311 | 2.03g 20mm",
     "contexto": "Venecia, capital de la República de Venecia y una de las ciudades más grandes de la época, dominó los mares del mundo medieval así como el comercio con China e India.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14119,22 +14540,22 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/denaroConradoIV.webp",
     "descripcion": "Denaro de Conrado I 'COR/cruz' (Reino de Sicilia) | 1250-1254 | 0.51g 15x13mm",
-    "contexto": "Rey de Alemania (IV), Sicilia (I) y Jerusalén (II) y Duque de Suabia (III) que conquistó Nápoles y fue excomulgado por el papa Inocencio IV.",
+    "contexto": "Rey de Alemania (IV), Sicilia (I) y Jerusalén (II) y duque de Suabia (III) que conquistó Nápoles y fue excomulgado por el papa Inocencio IV.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 591
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/denaroGianGaleazzoVisconti.webp",
-    "descripcion": "Denaro de Gian Galeazzo Visconti, Duque de Milán 'omega sobre GZ/cruz' (Ducado de Milán) | 1395-1402 | 0.52g 15mm",
-    "contexto": "Primer Duque de Milán que llevó a la dinastía de los Visconti al apogeo de su poder tras las victorias frente a las ligas formadas por Florencia contra Milán.",
+    "descripcion": "Denaro de Gian Galeazzo Visconti, duque de Milán 'omega sobre GZ/cruz' (Ducado de Milán) | 1395-1402 | 0.52g 15mm",
+    "contexto": "Primer duque de Milán que llevó a la dinastía de los Visconti al apogeo de su poder tras las victorias frente a las ligas formadas por Florencia contra Milán.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 539
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/denaroGaleazzoSforza.webp",
-    "descripcion": "Denaro de Gian Galeazzo Sforza, Duque de Milán 'corona ducal/cruz' (Ducado de Milán) | 1480-1494 | 0.47g 12mm",
+    "descripcion": "Denaro de Gian Galeazzo Sforza, duque de Milán 'corona ducal/cruz' (Ducado de Milán) | 1480-1494 | 0.47g 12mm",
     "contexto": "Tras el asesinato de su padre Galeazzo Maria Sforza, llegó al trono con 7 años dejando su regencia en manos de su tío Ludovico Sforza hasta que murió envenenado, seguramente por su propio tío.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14142,7 +14563,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/testoneLudovicoSforza.webp",
-    "descripcion": "Testone de Ludovico Maria Sforza, Duque de Milán 'Ludovico/escudo de armas' (Ducado de Milán) | 1494-1500 | 9.58g 28mm",
+    "descripcion": "Testone de Ludovico Maria Sforza, duque de Milán 'Ludovico/escudo de armas' (Ducado de Milán) | 1494-1500 | 9.58g 28mm",
     "contexto": "Fue mecenas de Leonardo da Vinci (1482-1500), que le fue enviado por Lorenzo de Médici. Leonardo sirvió a Ludovico como ingeniero y organizador de fiestas y bajo su mecenazgo pintó 'La última cena'.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14150,7 +14571,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/quattrinoMedici.webp",
-    "descripcion": "Quattrino de Lorenzo II de Médici, Señor de Florencia y Duque de Urbino 'VR BIN I/escudo de Médici' (Ducado de Urbino) | 1516-1519 | 0.70g 17mm",
+    "descripcion": "Quattrino de Lorenzo II de Médici, señor de Florencia y duque de Urbino 'VR BIN I/escudo de Médici' (Ducado de Urbino) | 1516-1519 | 0.70g 17mm",
     "contexto": "Los Médici fueron los más importantes mecenas de las artes, especialmente su abuelo Lorenzo el Magnífico. Maquiavelo, con ironía, le dedicó 'El Príncipe', su libro más importante. Su tumba fue diseñada por Miguel Ángel.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14158,15 +14579,15 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/testoneCosmeIMedici.webp",
-    "descripcion": "Testone de Cosme I de Médici, Duque de Florencia y Siena 'Cosme I/San Juan Bautista' (Ducado de Florencia) | 1555-1569 | 9.09g 32mm",
-    "contexto": "Conquistó Siena para convertirse en Gran Duque de la Toscana (1569) y su marina participó en la batalla de Lepanto. En las artes construyó los Uffizi y el palacio Pitti. Además era un gran coleccionista antiguo.",
+    "descripcion": "Testone de Cosme I de Médici, duque de Florencia y Siena 'Cosme I/San Juan Bautista' (Ducado de Florencia) | 1555-1569 | 9.09g 32mm",
+    "contexto": "Conquistó Siena para convertirse en Gran duque de la Toscana (1569) y su marina participó en la batalla de Lepanto. En las artes construyó los Uffizi y el palacio Pitti. Además era un gran coleccionista antiguo.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 532
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/quattrinosCosmeIMedici.webp",
-    "descripcion": "3 quattrinos de Cosme III de Médici, Gran Duque de Toscana 'escudo de Médici/cruz pisana' (Pisa, Toscana) | 1681 | 1.04g 19mm",
+    "descripcion": "3 quattrinos de Cosme III de Médici, gran duque de Toscana 'escudo de Médici/cruz pisana' (Pisa, Toscana) | 1681 | 1.04g 19mm",
     "contexto": "Con Cosme III comenzó la decadencia del Gran Ducado de Toscana, marcada por su conservadurismo extremo y una obsesión religiosa que sofocaron la vida cultural, científica y económica del Estado.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14190,7 +14611,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kopekVasiliI.webp",
-    "descripcion": "Kopek de Vasili I, Gran Príncipe de Moscú 'jinete con lanza' (Moscú) | 1389-1425 | 0.71g 15x11mm",
+    "descripcion": "Kopek de Vasili I, gran príncipe de Moscú 'jinete con lanza' (Moscú) | 1389-1425 | 0.71g 15x11mm",
     "contexto": "Vasili I estabilizó el poder hereditario moscovita y pudo mantener la unidad de Moscú frente a la Horda de Oro, aunque continuó el pago de tributo.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14198,7 +14619,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kopekVasiliII.webp",
-    "descripcion": "Kopek de Vasili II el Oscuro, Gran Príncipe de Moscú 'jinete con lanza' (Moscú) | 1425-1462 | 0.52g 14x12mm",
+    "descripcion": "Kopek de Vasili II el Oscuro, gran príncipe de Moscú 'jinete con lanza' (Moscú) | 1425-1462 | 0.52g 14x12mm",
     "contexto": "Tras la muerte de Vasili I se produjo la guerra civil más larga de la historia de Rusia: la guerra de sucesión moscovita de la que Vasili II, hijo de Vasili I, salió victorioso.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14206,7 +14627,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dengaIvanIII.webp",
-    "descripcion": "Denga de Iván III el Grande, Gran Príncipe de Moscú 'jinete con espada' (Moscú) | 1462-1505 | 0.40g 14x10mm",
+    "descripcion": "Denga de Iván III el Grande, gran príncipe de Moscú 'jinete con espada' (Moscú) | 1462-1505 | 0.40g 14x10mm",
     "contexto": "Iván III liberó a Rusia del dominio tártaro de la Horda de Oro y asumió el título de soberano de toda la Rus de Kiev, no solamente de Moscú. Introdujo símbolos imperiales como el águila bicéfala.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14214,7 +14635,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dengaVasiliIII.webp",
-    "descripcion": "Denga de Vasili III, Gran Príncipe de Moscú 'jinete con espada' (Moscú) | 1505-1533 | 0.35g 13x9mm",
+    "descripcion": "Denga de Vasili III, gran príncipe de Moscú 'jinete con espada' (Moscú) | 1505-1533 | 0.35g 13x9mm",
     "contexto": "Vasili III continuó la expansión territorial y fortaleció el poder central. Su gobierno fue autoritario y reprimió duramente a los boyardos, la alta nobleza rusa.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14222,7 +14643,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dengaIvanIVElTerrible.webp",
-    "descripcion": "Denga de Iván IV el Terrible, Gran Príncipe de Moscú 'jinete con espada' (Moscú) | 1535-1547 | 0.33g 11x9mm",
+    "descripcion": "Denga de Iván IV el Terrible, gran príncipe de Moscú 'jinete con espada' (Moscú) | 1535-1547 | 0.33g 11x9mm",
     "contexto": "Iván IV expandió Rusia cultural (introdujo la imprenta) y territorialmente (derrotó a tártaros, polacos, la Orden Teutona y tomó Siberia) y reformó el gobierno.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14230,7 +14651,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kopekZarXVI.webp",
-    "descripcion": "Kopek de Iván IV el Terrible, Gran Príncipe de Moscú 'jinete con lanza' (Novgorod) | 1535-1547 | 0.64g 13x11mm",
+    "descripcion": "Kopek de Iván IV el Terrible, gran príncipe de Moscú 'jinete con lanza' (Novgorod) | 1535-1547 | 0.64g 13x11mm",
     "contexto": "En 1547 Iván se autoproclamó Zar, equivalente a César, al considerarse heredero legítimo del Imperio bizantino y de la cristiandad ortodoxa. Consideraba Moscú como la Tercera Roma.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14286,7 +14707,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kopekMiguelI.webp",
-    "descripcion": "Kopek de Mijaíll I, Zar de Rusia 'jinete con lanza' (Moscú) | 1613-1645 | 0.54g 14.5x9.5mm",
+    "descripcion": "Kopek de Mijaíl I, Zar de Rusia 'jinete con lanza' (Moscú) | 1613-1645 | 0.54g 14.5x9.5mm",
     "contexto": "Mijaíl I fue el primer zar de la casa de Romanov y fue elegido en la asamblea nacional por ser sobrino-nieto de Anastasia, la mujer de Iván IV.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14334,7 +14755,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/tankLeonI.webp",
-    "descripcion": "Tank del Rey León I el Magnífico 'león coronado/cruz patriarcal' (Sis, Reino Armenio de Cilicia) | 1198-1219 | 8.08g 29mm",
+    "descripcion": "Tank del rey León I el Magnífico 'león coronado/cruz patriarcal' (Sis, Reino Armenio de Cilicia) | 1198-1219 | 8.08g 29mm",
     "contexto": "León fue un poderoso monarca que se alió con los caballeros hospitalarios y templarios. Consiguió tomar el castillo de Bagras tras la muerte de Saladino y llegó a ocupar Antioquía.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14342,7 +14763,7 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kardezHetumII.webp",
-    "descripcion": "Kardez del Rey Hetum II 'cruz patriarcal' (Reino Armenio de Cilicia) | 1289-1305 | 3.82g 21mm",
+    "descripcion": "Kardez del rey Hetum II 'cruz patriarcal' (Reino Armenio de Cilicia) | 1289-1305 | 3.82g 21mm",
     "contexto": "Armenia fue la primera nación en adoptar el cristianismo, en 301. Tras la invasión selyúcida los armenios se refugiaron en Cilicia y se convirtieron en un importante y poderoso aliado de los cruzados europeos.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
@@ -14351,7 +14772,7 @@
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/medioGrossoInocencioXI.webp",
     "descripcion": "Medio grosso del Papa Inocencio XI 'NOCET MINVS' (Roma) | 1686 | 0.65g 15mm",
-    "contexto": "Inocencio XI reformó la Administración Vaticana y mantuvo disputas con Luis XIV, Rey de Francia. Organizó la Liga Santa que derrotó a los turcos en Viena iniciando su expulsión de Europa.",
+    "contexto": "Inocencio XI reformó la Administración Vaticana y mantuvo disputas con Luis XIV, rey de Francia. Organizó la Liga Santa que derrotó a los turcos en Viena iniciando su expulsión de Europa.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "width": 1000,
     "height": 516
@@ -14382,7 +14803,7 @@
   },
   {
     "imagen": "17_MonedasModernas/jetonLuisXVbasque.webp",
-    "descripcion": "Jeton de Luis XV el Bienamado, Rey de Francia y de Navarra 'Francia ofrece rama de olivo a España' (Nuremberg, Alemania) | 1719-1774 | 4.48g 24mm",
+    "descripcion": "Jeton de Luis XV el Bienamado, rey de Francia y de Navarra 'Francia ofrece rama de olivo a España' (Nuremberg, Alemania) | 1719-1774 | 4.48g 24mm",
     "contexto": "Luis XV heredó el trono de su bisabuelo Luis XIV. Su desinterés por la política y sus débiles gobiernos sentaron las bases para la Revolución Francesa. En este jeton se conmemora la victoria de la Cuádruple Alianza sobre España.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14390,7 +14811,7 @@
   },
   {
     "imagen": "17_MonedasModernas/liardLuisXVI.webp",
-    "descripcion": "Liard de Luis XVI, Rey de Francia y de Navarra 'escudo' (Aix) | 1782 | 2.62g 22mm",
+    "descripcion": "Liard de Luis XVI, rey de Francia y de Navarra 'escudo' (Aix) | 1782 | 2.62g 22mm",
     "contexto": "Luis XVI fracasó frente a los privilegiados de la nobleza y el clero en sus intentos reformistas, si bien en política exterior tuvo más éxito, debilitando a Inglaterra y manteniendo la paz en Europa.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14398,7 +14819,7 @@
   },
   {
     "imagen": "17_MonedasModernas/dinerosLuisXVI.webp",
-    "descripcion": "12 dineros de Luis XVI, Rey de los franceses 'fasces' (Marsella) | 1791 | 12.07g 29mm",
+    "descripcion": "12 dineros de Luis XVI, rey de los franceses 'fasces' (Marsella) | 1791 | 12.07g 29mm",
     "contexto": "En 1789 se formó una asamblea para crear la Constitución de 1791. Las amenazas externas para restablecer la monarquía se vieron como una conspiración y Luis XVI fue guillotinado.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14406,7 +14827,7 @@
   },
   {
     "imagen": "17_MonedasModernas/jetonLuisXVI.webp",
-    "descripcion": "Jeton póstumo de Luis XVI, Rey de los franceses 'urna funeraria' (Berlín, Prusia) | 1793 | 2.86g 24mm",
+    "descripcion": "Jeton póstumo de Luis XVI, rey de los franceses 'urna funeraria' (Berlín, Prusia) | 1793 | 2.86g 24mm",
     "contexto": "Tras la ejecución de Luis XVI, en las monarquías europeas que lo apoyaban, principalmente en Prusia, se lamentaba su muerte, de la que se hizo propaganda con el lema \"el Sol ha desaparecido del reino\".",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14591,14 +15012,14 @@
   {
     "imagen": "17_MonedasModernas/farthingJorgeI.webp",
     "descripcion": "Farthing de Jorge I 'Jorge I/Britania sentada' (Londres, Imperio Británico) | 1721 | 3.96g 22mm",
-    "contexto": "Jorge I, Principe Elector de Hanóver y que apenas hablaba inglés, fue elegido sucesor por sus orígenes protestantes. Entre 1699 y 1727 el Maestro de la Ceca Real de Londres fue Isaac Newton.",
+    "contexto": "Jorge I, principe elector de Hanóver y que apenas hablaba inglés, fue elegido sucesor por sus orígenes protestantes. Entre 1699 y 1727 el Maestro de la Ceca Real de Londres fue Isaac Newton.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 519
   },
   {
     "imagen": "17_MonedasModernas/peniquesJorgeII.webp",
-    "descripcion": "6 peniques de Jorge II 'Jorge II/escudos de Francia, Irlanda y dos de Gran Bretaña (Inglaterria y Escocia)' (Londres, Imperio Británico) | 1757 | 3.01g 20.5mm",
+    "descripcion": "6 peniques de Jorge II 'Jorge II/escudos de Francia, Irlanda y dos de Gran Bretaña (Inglaterra y Escocia)' (Londres, Imperio Británico) | 1757 | 3.01g 20.5mm",
     "contexto": "Jorge II tuvo una difícil relación con su padre y después con su hijo y heredero Federico Luis, que murió en 1751. Por lo tanto le sucedió su nieto Jorge III. El 'God save the King' nació en su reinado.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14639,7 +15060,7 @@
   {
     "imagen": "17_MonedasModernas/farthingGuilermoIV.webp",
     "descripcion": "Farthing de Guillermo IV 'Jorge IV/Britania sentada' (Londres, Imperio Británico) | 1831 | 4.57g 22mm",
-    "contexto": "Guillermo IV impulsó la transición hacia el liberalismo, incluyendo la Reforma Electoral de 1832, que amplió el sufragio y redujo la corrupción parlamentaria.",
+    "contexto": "Guillermo IV impulsó la transición hacia el liberalismo, incluyendo la reforma electoral de 1832, que amplió el sufragio y redujo la corrupción parlamentaria.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 547
@@ -14727,7 +15148,7 @@
   {
     "imagen": "17_MonedasModernas/coronaReinoUnidoLadyDi1981.webp",
     "descripcion": "Corona de Isabel II 'Isabel II/Carlos de Gales y Lady Diana' (Llantrisant, Gales, Imperio Británico) | 1981 | 28.43g 38.5mm",
-    "contexto": "El Príncipe Carlos se casó en 1981 con la aristócrata Lady Diana, hija del conde Spencer y se acabó separando en 1996 en lo que fue una de las relaciones más mediáticas de la época.",
+    "contexto": "El príncipe Carlos se casó en 1981 con la aristócrata Lady Diana, hija del conde Spencer y se acabó separando en 1996 en lo que fue una de las relaciones más mediáticas de la época.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 541
@@ -14766,7 +15187,7 @@
   },
   {
     "imagen": "17_MonedasModernas/piastrasChipre1928.webp",
-    "descripcion": "45 piastras 'Jorge V/leones' (Londres, Imperio Británico) | 1928 | 2836g 38.5mm",
+    "descripcion": "45 piastras 'Jorge V/leones' (Londres, Imperio Británico) | 1928 | 28.36g 38.5mm",
     "contexto": "Tras el dominio del Imperio Otomano, la isla de Chipre estuvo bajo posesión británica desde 1878 hasta 1960. Desde 1974 Chipre quedó dividida entre el norte turcochipriota y el sur grecochipriota.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14782,8 +15203,8 @@
   },
   {
     "imagen": "17_MonedasModernas/tokenCanadaWellington.webp",
-    "descripcion": "Token de medio penique de Canadá 'Duque de Wellington' (Imperio Británico) | 1813-1814 | 9.18g 27mm",
-    "contexto": "Estas monedas, conmemorativas de las victorias del Duque de Wellington frente a Napoleón en la península ibérica, circularon hasta 1835 en la Baja Canadá.",
+    "descripcion": "Token de medio penique de Canadá 'duque de Wellington' (Imperio Británico) | 1813-1814 | 9.18g 27mm",
+    "contexto": "Estas monedas, conmemorativas de las victorias del duque de Wellington frente a Napoleón en la península ibérica, circularon hasta 1835 en la Baja Canadá.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 526
@@ -14838,7 +15259,7 @@
   },
   {
     "imagen": "17_MonedasModernas/india1969.webp",
-    "descripcion": "20 paisa de Indira Gandhi 'Mahatma Gandhi' (Hyderabad, India) | 1969 | 4.43g 22mm",
+    "descripcion": "20 paisas de Indira Gandhi 'Mahatma Gandhi' (Hyderabad, India) | 1969 | 4.43g 22mm",
     "contexto": "En 1948 Mahatma Gandhi fue asesinado por un radical hinduista relacionado con grupos ultraderechistas de la India.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -14846,7 +15267,7 @@
   },
   {
     "imagen": "17_MonedasModernas/india1984.webp",
-    "descripcion": "20 paisa de Indira Gandhi (Bombay, India) | 1984 | 2.28g 26mm",
+    "descripcion": "20 paisas de Indira Gandhi (Bombay, India) | 1984 | 2.28g 26mm",
     "contexto": "Indira Gandhi fue primera ministra de la India en dos periodos, el segundo hasta ser asesinada en 1984 por sus guardaespaldas sijs en venganza por la Operación Estrella Azul contra los sijs.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15375,15 +15796,15 @@
   {
     "imagen": "17_MonedasModernas/francesconeToscana1780.webp",
     "descripcion": "Francescone de Pedro Leopoldo 'Pedro Leopoldo/escudo' (Florencia, Toscana) | 1780 | 27.09g 41mm",
-    "contexto": "Más conocido como Leopoldo II del Sacro Imperio Romano Germánico, fue emperador del mismo así como Gran Duque de Toscana y rey de Hungría y Bohemia.",
+    "contexto": "Más conocido como Leopoldo II del Sacro Imperio Romano Germánico, fue emperador del mismo así como gran duque de Toscana y rey de Hungría y Bohemia.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 528
   },
   {
     "imagen": "17_MonedasModernas/centimosCerdenya.webp",
-    "descripcion": "5 céntimos de Carlos Félix 'escudo' (Turin, Reino de Cerdeña-Piamonte) | 1826 | 9.69g 27.5mm",
-    "contexto": "El Reino de Cerdeña-Piamonte fue uno de los reinos más mportantes de Italia antes de su unificación y el principal impulsor de dicha unificación.",
+    "descripcion": "5 céntimos de Carlos Félix 'escudo' (Turín, Reino de Cerdeña-Piamonte) | 1826 | 9.69g 27.5mm",
+    "contexto": "El Reino de Cerdeña-Piamonte fue uno de los reinos más importantes de Italia antes de su unificación y el principal impulsor de dicha unificación.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 523
@@ -15406,16 +15827,16 @@
   },
   {
     "imagen": "17_MonedasModernas/unifItalia.webp",
-    "descripcion": "Céntimo de Victor Manuel II (Milán, Reino de Italia) | 1861 | 0.99g 15mm",
-    "contexto": "El 17 de marzo de 1861 Victor Manuel II asumió el título de Rey de Italia tras la toma del Reino de las Dos Sicilias por Garibaldi pero habría que esperar a 1870 para culminar la unificación de Italia con la toma de Roma.",
+    "descripcion": "Céntimo de Víctor Manuel II (Milán, Reino de Italia) | 1861 | 0.99g 15mm",
+    "contexto": "El 17 de marzo de 1861 Víctor Manuel II asumió el título de rey de Italia tras la toma del Reino de las Dos Sicilias por Garibaldi pero habría que esperar a 1870 para culminar la unificación de Italia con la toma de Roma.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 525
   },
   {
     "imagen": "17_MonedasModernas/lirasVictorManuelII.webp",
-    "descripcion": "5 liras de Victor Manuel II (Milán, Reino de Italia) | 1875 | 24.87g 37mm",
-    "contexto": "Víctor Manuel II fue el último rey del Reino de Cerdeña y el primer rey de Italia. Bajo su mandato el Reino de Cerdeña creció hasta incluir toda Italia pasando a llamarse Reino de Italia y Victor Manuel II fue apodado el Padre de la Patria.",
+    "descripcion": "5 liras de Víctor Manuel II (Milán, Reino de Italia) | 1875 | 24.87g 37mm",
+    "contexto": "Víctor Manuel II fue el último rey del Reino de Cerdeña y el primer rey de Italia. Bajo su mandato el Reino de Cerdeña creció hasta incluir toda Italia pasando a llamarse Reino de Italia y Víctor Manuel II fue apodado el Padre de la Patria.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 535
@@ -15430,7 +15851,7 @@
   },
   {
     "imagen": "17_MonedasModernas/taleroEritreaItaliana1918.webp",
-    "descripcion": "Tálero para Eritrea de Victor Manuel III 'Victor Manuel III/águila' (Roma, Reino de Italia) | 1918 | 27.99g 40mm",
+    "descripcion": "Tálero para Eritrea de Víctor Manuel III 'Víctor Manuel III/águila' (Roma, Reino de Italia) | 1918 | 27.99g 40mm",
     "contexto": "Esta moneda fue creada como imitación del tálero de Maria Teresa para comerciar con los árabes. Eritrea fue una colonia italiana desde 1890 hasta la Segunda Guerra Mundial.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15438,7 +15859,7 @@
   },
   {
     "imagen": "17_MonedasModernas/lirasMussolini.webp",
-    "descripcion": "5 liras de Victor Manuel III 'Victor Manuel III/águila' (Roma, República Social Italiana) | 1927 | 4.99g 23mm",
+    "descripcion": "5 liras de Víctor Manuel III 'Víctor Manuel III/águila' (Roma, República Social Italiana) | 1927 | 4.99g 23mm",
     "contexto": "La Italia fascista liderada por Mussolini duró desde 1922 a 1943. El fascismo surge en grupos nacionalistas como reacción a la Revolución Bolchevique y las luchas sindicales.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15446,7 +15867,7 @@
   },
   {
     "imagen": "17_MonedasModernas/liraMussolini.webp",
-    "descripcion": "Lira de Victor Manuel III 'Victor Manuel III/águila' (Roma, República Social Italiana) | 1941 | 7.99g 26.5mm",
+    "descripcion": "Lira de Víctor Manuel III 'Víctor Manuel III/águila' (Roma, República Social Italiana) | 1941 | 7.99g 26.5mm",
     "contexto": "Mussolini, líder del fascismo italiano, entró en la 2ªGM en 1940 como aliado de la Alemania Nazi pero sin la preparación suficiente. Tras sus derrotas acabó como títere de Hitler y fusilado por la Resistencia partisana.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15479,7 +15900,7 @@
   {
     "imagen": "17_MonedasModernas/medioEscudoCarlosIII.webp",
     "descripcion": "Medio escudo de Carlos III el Político 'CarlosIII (tipo cara de rata)/escudo' (Sevilla, España) | 1767 | 1.79g 15.5mm",
-    "contexto": "A la muerte de su hermanastro Fernando VI, Carlos III accedió al trono tras abdicar como Rey de Nápoles. Defendió las ideas ilustradas desde el despotismo ilustrado, del que fue su máximo exponente.",
+    "contexto": "A la muerte de su hermanastro Fernando VI, Carlos III accedió al trono tras abdicar como rey de Nápoles. Defendió las ideas ilustradas desde el despotismo ilustrado, del que fue su máximo exponente.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 532
@@ -15511,14 +15932,14 @@
   {
     "imagen": "17_MonedasModernas/realesJoseIBonaparte.webp",
     "descripcion": "4 reales de José I Bonaparte 'José I/escudo' (Madrid, España) | 1812 | 5.87g 25mm",
-    "contexto": "Hermano mayor de Napoleón Bonaparte, fue proclamado Rey de España en 1808 tras las abdicaciones de Bayona. Tras la batalla de Vitoria en 1813 fue expulsado del país.",
+    "contexto": "Hermano mayor de Napoleón Bonaparte, fue proclamado rey de España en 1808 tras las abdicaciones de Bayona. Tras la batalla de Vitoria en 1813 fue expulsado del país.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 526
   },
   {
     "imagen": "17_MonedasModernas/medioRealMexico1813.webp",
-    "descripcion": "Medio real de Fernando VII, el Rey Felón 'Fernando VII/escudo' (México, Virreinato de Nueva España) | 1813 | 1.56g 16mm",
+    "descripcion": "Medio real de Fernando VII, el rey Felón 'Fernando VII/escudo' (México, Virreinato de Nueva España) | 1813 | 1.56g 16mm",
     "contexto": "Las guerras de la independencia hispanoamericanas (1810-1833) surgieron en plena guerra de Independencia Española (1808-1814) contra la invasión napoleónica, con Fernando VII prisionero de los franceses.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15534,8 +15955,8 @@
   },
   {
     "imagen": "17_MonedasModernas/maravedisFernandoVII.webp",
-    "descripcion": "8 maravedís de Fernando VII, el Rey Felón 'Fernando VII/cruz de don Pelayo cantonada de castillos y leones' (Jubia, España) | 1816 | 9.16g 29mm",
-    "contexto": "Fue Rey durante tres meses en 1808 tras la abdicación de su padre Carlos IV pero fue hecho prisionero por los franceses y volvió a ser rey tras la Guerra de Independencia, en 1813. Restableció el absolutismo derogando la Constitución de Cádiz de 1812.",
+    "descripcion": "8 maravedís de Fernando VII, el rey Felón 'Fernando VII/cruz de don Pelayo cantonada de castillos y leones' (Jubia, España) | 1816 | 9.16g 29mm",
+    "contexto": "Fue rey durante tres meses en 1808 tras la abdicación de su padre Carlos IV pero fue hecho prisionero por los franceses y volvió a ser rey tras la Guerra de Independencia, en 1813. Restableció el absolutismo derogando la Constitución de Cádiz de 1812.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 534
@@ -15678,11 +16099,11 @@
   },
   {
     "imagen": "17_MonedasModernas/euroFelipeVI.webp",
-    "descripcion": "Euro de Felipe VI (Madrid, España) | 2023 | 7.54g 23mm",
+    "descripcion": "Euro de Felipe VI (Madrid, España) | 2024 | 7.52g 23mm",
     "contexto": "Felipe VI asumió el trono tras la abdicación de su padre, enfocándose en la recuperación de la credibilidad tras los escándalos que marcaron el reinado anterior.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
-    "height": 545
+    "height": 539
   },
   {
     "imagen": "17_MonedasModernas/pesoArgentina1882.webp",
@@ -15863,7 +16284,7 @@
   {
     "imagen": "17_MonedasModernas/escudoPortugal1915.webp",
     "descripcion": "Escudo 'Libertad/escudo' (Lisboa, Portugal) | 1915 | 25.03g 37mm",
-    "contexto": "La Revolución del 5 de octubre de 1910 supuso la proclamación de la Primera República Portuguesa y puso fin a la Monarquí. El Rey Manuel II se exilió en Reino Unido.",
+    "contexto": "La Revolución del 5 de octubre de 1910 supuso la proclamación de la Primera República Portuguesa y puso fin a la Monarquí. El rey Manuel II se exilió en Reino Unido.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 526
@@ -15911,7 +16332,7 @@
   {
     "imagen": "17_MonedasModernas/guldenHolanda.webp",
     "descripcion": "2 gulden y medio de Guillermo III 'Guillermo III/escudo' (Utrecht, Países Bajos) | 1867 | 24.75g 38mm",
-    "contexto": "Guillermo III, rey de los Países Bajos y Gran duque de Luxemburgo, intentó vender Luxemburgo a Napoleón III en 1867, lo que casi provoca una guerra entre Francia y Prusia e hizo que Luxemburgo se independizara.",
+    "contexto": "Guillermo III, rey de los Países Bajos y gran duque de Luxemburgo, intentó vender Luxemburgo a Napoleón III en 1867, lo que casi provoca una guerra entre Francia y Prusia e hizo que Luxemburgo se independizara.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 537
@@ -15998,15 +16419,15 @@
   },
   {
     "imagen": "17_MonedasModernas/speciedalerDinamarca1845.webp",
-    "descripcion": "Speciedaler de Cristián VIII 'Cristián VIII/escudo' (Copenague, Dinamarca) | 1845 | 28.92g 38mm",
-    "contexto": "Cristián fue Rey de Noruega en una monarquía constitucional pero perdió el trono ante la amenaza sueca. Como Rey de Dinamarca estableció una monarquía absolutista.",
+    "descripcion": "Speciedaler de Cristián VIII 'Cristián VIII/escudo' (Copenhague, Dinamarca) | 1845 | 28.92g 38mm",
+    "contexto": "Cristián fue rey de Noruega en una monarquía constitucional pero perdió el trono ante la amenaza sueca. Como rey de Dinamarca estableció una monarquía absolutista.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 527
   },
   {
     "imagen": "17_MonedasModernas/imperioDanesIndias.webp",
-    "descripcion": "Céntimo para las Indias Occidentales Danesas de Federico VII (Copenague, Dinamarca) | 1860 | 4.54g 21mm",
+    "descripcion": "Céntimo para las Indias Occidentales Danesas de Federico VII (Copenhague, Dinamarca) | 1860 | 4.54g 21mm",
     "contexto": "Las Indias Occidentales o Antillas Danesas, colonizadas en 1672 fueron finalmente vendidas a EEUU en 1917 por 25 millones de dólares.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -16166,7 +16587,7 @@
   },
   {
     "imagen": "17_MonedasModernas/paisaGurkha.webp",
-    "descripcion": "4 paisa de Tribhuvan Bir Bikram Shah (Nepal) | 1955 | 2.15g 19mm",
+    "descripcion": "4 paisas de Tribhuvan Bir Bikram Shah (Nepal) | 1955 | 2.15g 19mm",
     "contexto": "Estas monedas estaban fabricadas con el latón de los cartuchos gastados de los rifles de los feroces soldados Gurkha que lucharon en la 2ªGM.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -16175,7 +16596,7 @@
   {
     "imagen": "17_MonedasModernas/dongVietnamNorte.webp",
     "descripcion": "2 dong 'Ho Chi Minh/estrella' (Vietnam del Norte) | 1946 | 11.44g 31mm",
-    "contexto": "Ho Chi Minh derrotó a los japoneses para conseguir la independencia en 1945, negoció la retirada de los chinos, derrotó a los francese y pusos las bases de la victoria final contra EEUU.",
+    "contexto": "Ho Chi Minh derrotó a los japoneses para conseguir la independencia en 1945, negoció la retirada de los chinos, derrotó a los franceses y puso las bases de la victoria final contra EEUU.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 520
@@ -16325,6 +16746,14 @@
     "height": 529
   },
   {
+    "imagen": "17_MonedasModernas/paraAbdulazid.webp",
+    "descripcion": "40 para de Abdulazid 'tugra' (Constantinopla, Imperio Otomano) | 1863-1864 | 21.30g 37mm",
+    "contexto": "Abdulazid protagonizó una era de esplendor ilusorio, siendo el primer sultán en visitar Europa, pero su gasto desmedido en palacios y acorazados precipitó la bancarrota financiera y su trágico final.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 535
+  },
+  {
     "imagen": "17_MonedasModernas/kurusOtomanos.webp",
     "descripcion": "20 kurus de Abdul Hamid II 'tugra' (Constantinopla, Imperio Otomano) | 1877 | 23.48g 37mm",
     "contexto": "Abdul Hamid II fue el último sultán otomano en poseer poderes absolutos, por lo que es considerado el último gran califa del Islam.",
@@ -16335,10 +16764,18 @@
   {
     "imagen": "17_MonedasModernas/parasOtomanos.webp",
     "descripcion": "20 para de Mohamed V 'tugra' (Constantinopla, Imperio Otomano) | 1911 | 3.97g 21mm",
-    "contexto": "El Imperio Otomano cayó en 1923 siendo reemplazado por la República de Turquía como consecuencia de la derrota de la 1ªGM. Mohamed V fue el último sultán otomano.",
+    "contexto": "Primer monarca constitucional del imperio que perdió casi todos los territorios europeos en las Guerras Balcánicas y proclamó la Yihad contra la Triple Entente en la 1ªGM.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
     "height": 529
+  },
+  {
+    "imagen": "17_MonedasModernas/paraMohamedVI.webp",
+    "descripcion": "40 para de Mohamed VI 'tugra' (Constantinopla, Imperio Otomano) | 1918 | 6.08g 24mm",
+    "contexto": "Asumió el trono al final de la Primera Guerra Mundial y disolvió el Parlamento tras la ocupación aliada de Estambul, enfrentando el colapso definitivo del imperio con la firma del Tratado de Sèvres.",
+    "carpeta": "17_MonedasModernas",
+    "width": 1000,
+    "height": 533
   },
   {
     "imagen": "17_MonedasModernas/qirshEgipto1913.webp",
@@ -16974,7 +17411,7 @@
   },
   {
     "imagen": "19_Videojuegos/MagnavoxOdyssey.webp",
-    "descripcion": "Magnavox Odyssey | Philips | 1972 | G1 | 0.35m vendidas | Cartucho 10 (Shooting gallery) | 1972 | 9.9x6cm",
+    "descripcion": "Magnavox Odyssey | Philips | 1972 | G1 | 0.35M vendidas | Cartucho 10 (Shooting gallery) | 1972 | 9.9x6cm",
     "contexto": "La primera consola de videojuegos de la historia estaba formada por diodos y transistores. Sus juegos eran del tipo Pong, aunque anteriores al Atari Pong.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -16982,7 +17419,7 @@
   },
   {
     "imagen": "19_Videojuegos/Atari2600.webp",
-    "descripcion": "Atari 2600 | Atari | 1977 | G2 | 30m vendidas | Pac-Man | 1982 | 8.1x9.7cm",
+    "descripcion": "Atari 2600 | Atari | 1977 | G2 | 30M vendidas | Pac-Man | 1982 | 8.1x9.7cm",
     "contexto": "La primera consola en tener gran éxito fue producida por Atari, creadora del Pong y pionera también en juegos de arcade.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -16990,7 +17427,7 @@
   },
   {
     "imagen": "19_Videojuegos/MagnavoxPong.webp",
-    "descripcion": "Magnavox Temco T-800C | Philips | 1979 | G1 | ~30m vendidas (tipo Pong) | Tennis, Hockey, Squash, Practice | 1979 | 19.7x7.5cm",
+    "descripcion": "Magnavox Temco T-800C | Philips | 1979 | G1 | ~30M vendidas (tipo Pong) | Tennis, Hockey, Squash, Practice | 1979 | 19.7x7.5cm",
     "contexto": "Las consolas tipo Pong solían tener los juegos integrados en las consolas y saturaron el mercado a partir de 1976 debido al abaratamiento de su producción.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -16998,7 +17435,7 @@
   },
   {
     "imagen": "19_Videojuegos/GameAndWatch.webp",
-    "descripcion": "Game & Watch | Nintendo | 1980 | G2 | 43.4m vendidas | Donkey Kong | 1982 | 11.7x14.2cm",
+    "descripcion": "Game & Watch | Nintendo | 1980 | G2 | 43.4M vendidas | Donkey Kong | 1982 | 11.7x14.2cm",
     "contexto": "Nintendo inició la revolución de las maquinitas, unas consolas portátiles con pantallas LCD monocromas. El Donkey Kong introdujo el D-Pad.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17006,7 +17443,7 @@
   },
   {
     "imagen": "19_Videojuegos/ZXSpectrum.webp",
-    "descripcion": "ZX Spectrum | Sinclair | 1982 | G3 | 5m vendidas | La Abadía del Crimen | 1988 | 10x6.4cm",
+    "descripcion": "ZX Spectrum | Sinclair | 1982 | G3 | 5M vendidas | La Abadía del Crimen | 1988 | 10x6.4cm",
     "contexto": "El Spectrum era en realidad un ordenador. Sus juegos se cargaban en cintas de casete y representan la edad de oro del software español.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17014,7 +17451,7 @@
   },
   {
     "imagen": "19_Videojuegos/NES.webp",
-    "descripcion": "Nintendo Entertainment System (NES) | Nintendo | 1983 | G3 | 61.91m vendidas | Super Mario Bros/Duck hunt | 1988 | 13.4x11.9cm",
+    "descripcion": "Nintendo Entertainment System (NES) | Nintendo | 1983 | G3 | 61.91M vendidas | Super Mario Bros/Duck hunt | 1988 | 13.4x11.9cm",
     "contexto": "La NES fue la consola más exitosa de su época y situó a Nintendo y a varias sagas de videojuegos como referentes. Los dos juegos más vendidos solían venir juntos con la consola.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17022,7 +17459,7 @@
   },
   {
     "imagen": "19_Videojuegos/Famicom.webp",
-    "descripcion": "Family Computer (Famicom) | Nintendo | 1983 | G3 | 61.91m vendidas | Super Mario Bros 3 | 1988 | 10.9x7cm",
+    "descripcion": "Family Computer (Famicom) | Nintendo | 1983 | G3 | 61.91M vendidas | Super Mario Bros 3 | 1988 | 10.9x7cm",
     "contexto": "Es la versión japonesa de la NES, que era muy diferente a la occidental, con juegos más pequeños, algunos de ellos no exportados.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17030,7 +17467,7 @@
   },
   {
     "imagen": "19_Videojuegos/SegaMasterSystem.webp",
-    "descripcion": "Sega Master System | Sega | 1986 | G3 | 10-13m vendidas | Sonic the Hedgehog | 1991 | 10.8x6.8cm",
+    "descripcion": "Sega Master System | Sega | 1986 | G3 | 10-13M vendidas | Sonic the Hedgehog | 1991 | 10.8x6.8cm",
     "contexto": "A pesar de ser superior técnicamente a la NES, no pudo competir con ella debido a que salió más tarde y tenía menos juegos.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17038,7 +17475,7 @@
   },
   {
     "imagen": "19_Videojuegos/PCEngineHuCard.webp",
-    "descripcion": "PC Engine HuCard | NEC/Hudson Soft | 1987 | G4 | 10m vendidas | Bomberman | 1990 | 5.4x8.5cm",
+    "descripcion": "PC Engine HuCard | NEC/Hudson Soft | 1987 | G4 | 10M vendidas | Bomberman | 1990 | 5.4x8.5cm",
     "contexto": "Se produjeron muy pocas consolas para Europa, donde se denominó Turbografx. Bomberman fue creado por el propio Hudson Soft, que ahora pertenece a Konami.",
     "carpeta": "19_Videojuegos",
     "width": 716,
@@ -17046,7 +17483,7 @@
   },
   {
     "imagen": "19_Videojuegos/PCEngineCD.webp",
-    "descripcion": "PC Engine CD | NEC/Hudson Soft | 1988 | G4 | 10m vendidas | Tengai Makyō II: Manjimaru | 1992 | XXcm",
+    "descripcion": "PC Engine CD | NEC/Hudson Soft | 1988 | G4 | 10M vendidas | Tengai Makyō II: Manjimaru | 1992 | XXcm",
     "contexto": "Con el accesorio para CD, PC Engine se convirtió en la primera consola en utilizar el CD que luego amplió con el llamado SuperCD.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17054,7 +17491,7 @@
   },
   {
     "imagen": "19_Videojuegos/SegaMegaDrive.webp",
-    "descripcion": "Sega Mega Drive | Sega | 1988 | G4 | 30.75m vendidas | Sonic the Hedgehog | 1991 | 10.8x6.9cm",
+    "descripcion": "Sega Mega Drive | Sega | 1988 | G4 | 30.75M vendidas | Sonic the Hedgehog | 1991 | 10.8x6.9cm",
     "contexto": "Denominada Genesis en Norteamérica, esta consola no tuvo éxito en Japón frente a PC Engine y Super Famicom. Para ella se introdujo a Sonic.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17062,7 +17499,7 @@
   },
   {
     "imagen": "19_Videojuegos/GameBoy.webp",
-    "descripcion": "Game Boy | Nintendo | 1989 | G4 | 118.69m vendidas (incl. GBC) | Tetris | 1989 | 5.7x6.5cm",
+    "descripcion": "Game Boy | Nintendo | 1989 | G4 | 118.69M vendidas (incl. GBC) | Tetris | 1989 | 5.7x6.5cm",
     "contexto": "Desarrollada por los creadores de las Game&Watch, se convirtió en la principal consola portátil por mucho tiempo. El Tetris solía venir con la consola.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17070,7 +17507,7 @@
   },
   {
     "imagen": "19_Videojuegos/SNES.webp",
-    "descripcion": "Super Nintendo (SNES) | Nintendo | 1990 | G4 | 49.1 m vendidas | Super Mario World | 1990 | 12.7x8.6cm",
+    "descripcion": "Super Nintendo (SNES) | Nintendo | 1990 | G4 | 49.1M vendidas | Super Mario World | 1990 | 12.7x8.6cm",
     "contexto": "Mantuvo una enorme rivalidad con la Sega Mega Drive en la guerra de consolas de 16 bits de la que salió vencedora, salvo en Norteamérica.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17078,7 +17515,7 @@
   },
   {
     "imagen": "19_Videojuegos/SuperFamicom.webp",
-    "descripcion": "Super Family Computer (Super Famicom) | Nintendo | 1990 | G4 | 49.1 m vendidas | Super Street Fighter II | 1993 | 12.8x8.7cm",
+    "descripcion": "Super Family Computer (Super Famicom) | Nintendo | 1990 | G4 | 49.1M vendidas | Super Street Fighter II | 1993 | 12.8x8.7cm",
     "contexto": "Sus juegos ya eran similares a los de Super Nintendo. El Street Fighter es el juego iniciador del género de lucha.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17086,7 +17523,7 @@
   },
   {
     "imagen": "19_Videojuegos/SegaGameGear.webp",
-    "descripcion": "Sega Game Gear | Sega | 1990 | G4 | 10.62m vendidas | Sonic Chaos | 1993 | 6.7x6.8cm",
+    "descripcion": "Sega Game Gear | Sega | 1990 | G4 | 10.62M vendidas | Sonic Chaos | 1993 | 6.7x6.8cm",
     "contexto": "Esta consola portátil con pantalla a color y retroiluminada era muy superior a la Game Boy, si bien fue superada por ésta debido a su mayor precio y menor autonomía.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17094,7 +17531,7 @@
   },
   {
     "imagen": "19_Videojuegos/NeoGeoMVS.webp",
-    "descripcion": "Neo Geo MVS | SNK | 1990 | G4 | 2m vendidas | The King of Fighters '94 | 1994 | 18.7x14.7cm",
+    "descripcion": "Neo Geo MVS | SNK | 1990 | G4 | 2M vendidas | The King of Fighters '94 | 1994 | 18.7x14.7cm",
     "contexto": "Neo Geo dominó las máquinas de arcade con su Multi Video System (MVS). La saga King of Fighters es la más representativa del sistema.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17118,7 +17555,7 @@
   },
   {
     "imagen": "19_Videojuegos/SegaSaturn.webp",
-    "descripcion": "Sega Saturn | Sega | 1994 | G5 | 9.26m vendidas | Virtua Fighter 2 | 1994 | 12cm",
+    "descripcion": "Sega Saturn | Sega | 1994 | G5 | 9.26M vendidas | Virtua Fighter 2 | 1994 | 12cm",
     "contexto": "Esta consola tuvo cierto éxito solamente en Japón y la mayoría de sus juegos solamente se editaron allí. Fue superada por Nintendo 64 y, sobre todo, por PlayStation.",
     "carpeta": "19_Videojuegos",
     "width": 999,
@@ -17126,7 +17563,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStation.webp",
-    "descripcion": "PlayStation | Sony | 1994 | G5 | 102.49m vendidas | Gran Turismo | 1998 | 12cm",
+    "descripcion": "PlayStation | Sony | 1994 | G5 | 102.49M vendidas | Gran Turismo | 1998 | 12cm",
     "contexto": "Fue la primera consola en triunfar con el formato de CD y la primera en superar los 100 millones en ventas.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17134,7 +17571,7 @@
   },
   {
     "imagen": "19_Videojuegos/Nintendo64.webp",
-    "descripcion": "Nintendo 64 | Nintendo | 1996 | G5 | 32.93m vendidas | Super Mario 64 | 1996 | 11.5x7.5cm",
+    "descripcion": "Nintendo 64 | Nintendo | 1996 | G5 | 32.93M vendidas | Super Mario 64 | 1996 | 11.5x7.5cm",
     "contexto": "Nintendo se mantuvo en el uso de cartuchos, con más cortos tiempos de acceso y mayor resistencia pero una capacidad más limitada que el CD.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17142,7 +17579,7 @@
   },
   {
     "imagen": "19_Videojuegos/Dreamcast.webp",
-    "descripcion": "Dreamcast | Sega | 1998 | G6 | 9.13m vendidas | Sonic Adventure | 1998 | 12cm",
+    "descripcion": "Dreamcast | Sega | 1998 | G6 | 9.13M vendidas | Sonic Adventure | 1998 | 12cm",
     "contexto": "Esta consola no tuvo grandes ventas y ha sido más valorada posteriormente que en su momento. Fue pionera al introducir los juegos online.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17150,7 +17587,7 @@
   },
   {
     "imagen": "19_Videojuegos/GameBoyColor.webp",
-    "descripcion": "Game Boy Color | Nintendo | 1998 | G5 | 118.17m vendidas (incl. GB) | Pokémon Cristal | 2000 | 5.7x6.5cm",
+    "descripcion": "Game Boy Color | Nintendo | 1998 | G5 | 118.17M vendidas (incl. GB) | Pokémon Cristal | 2000 | 5.7x6.5cm",
     "contexto": "Ante el retraso de la Game Boy Advance, Nintendo sacó una Game Boy con pantalla a color. Algunos juegos del sistema no eran compatibles con Game Boy clásica.",
     "carpeta": "19_Videojuegos",
     "width": 989,
@@ -17158,7 +17595,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStation2.webp",
-    "descripcion": "PlayStation 2 | Sony | 2000 | G6 | 155m | Grand Theft Auto: San Andreas | 2004 | 12cm",
+    "descripcion": "PlayStation 2 | Sony | 2000 | G6 | 155M vendidas | Grand Theft Auto: San Andreas | 2004 | 12cm",
     "contexto": "Tras el éxito de la PlayStation, la segunda versión tuvo aún mayor éxito eclipsando al resto de consolas de su generación y compitiendo con la siguiente.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17166,7 +17603,7 @@
   },
   {
     "imagen": "19_Videojuegos/GameBoyAdvance.webp",
-    "descripcion": "Game Boy Advance | Nintendo | 2001 | G6 | 81.5m vendidas | Pokémon Zafiro | 2002 | 6x3.4cm",
+    "descripcion": "Game Boy Advance | Nintendo | 2001 | G6 | 81.5M vendidas | Pokémon Zafiro | 2002 | 6x3.4cm",
     "contexto": "En esta portátil de 32 bits los botones se pusieron a los lados de la pantalla. Tuvo una versión SP plegable, con iluminación y batería de litio.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17174,7 +17611,7 @@
   },
   {
     "imagen": "19_Videojuegos/GameCube.webp",
-    "descripcion": "GameCube | Nintendo | 2001 | G6 | 21.74m vendidas | Super Smash Bros. Melee | 2001 | 8cm",
+    "descripcion": "GameCube | Nintendo | 2001 | G6 | 21.74M vendidas | Super Smash Bros. Melee | 2001 | 8cm",
     "contexto": "Finalmente Nintendo se pasó al disco óptico con un formato específico, si bien no pudo superar a sus competidoras PS2 y Xbox.",
     "carpeta": "19_Videojuegos",
     "width": 994,
@@ -17182,7 +17619,7 @@
   },
   {
     "imagen": "19_Videojuegos/Xbox.webp",
-    "descripcion": "Xbox | Microsoft | 2001 | G6 | 24m vendidas | Halo 2 | 2004 | 12cm",
+    "descripcion": "Xbox | Microsoft | 2001 | G6 | 24M vendidas | Halo 2 | 2004 | 12cm",
     "contexto": "La Xbox fue la consola más potente de su generación, la primera de Microsoft y la primera norteamericana en tener cierto éxito desde la Atari 2600.",
     "carpeta": "19_Videojuegos",
     "width": 995,
@@ -17190,7 +17627,7 @@
   },
   {
     "imagen": "19_Videojuegos/NintendoDS.webp",
-    "descripcion": "Nintendo DS | Nintendo | 2004 | G7 | 154.02m vendidas | New Super Mario Bros | 2006 | 3.3x3.5cm",
+    "descripcion": "Nintendo DS | Nintendo | 2004 | G7 | 154.02M vendidas | New Super Mario Bros | 2006 | 3.3x3.5cm",
     "contexto": "Esta consola portátil con doble pantalla, la inferior táctil, tuvo un enorme éxito, expandiendo el mundo de los videojuegos a todo tipo de personas.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17198,7 +17635,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStationPortable.webp",
-    "descripcion": "PlayStation Portable | Sony | 2004 | G7 | 82m vendidas | Grand Theft Auto: Liberty City | 2005 | 6.4x6.5cm",
+    "descripcion": "PlayStation Portable | Sony | 2004 | G7 | 82M vendidas | Grand Theft Auto: Liberty City | 2005 | 6.4x6.5cm",
     "contexto": "A pesar de la mayor potencia que su competidora de Nintendo, la NDS, no pudo superarla por su menor autonomía y su inapropiado sistema de discos ópticos para una portátil.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17206,7 +17643,7 @@
   },
   {
     "imagen": "19_Videojuegos/Xbox360.webp",
-    "descripcion": "Xbox 360 | Microsoft | 2005 | G7 | 84m vendidas | Kinect Adventures | 2010 | 12cm",
+    "descripcion": "Xbox 360 | Microsoft | 2005 | G7 | 84M vendidas | Kinect Adventures | 2010 | 12cm",
     "contexto": "Compitió con PS3 y Wii en la generación con ventas más igualadas hasta la fecha. Destaca el controlador Kinect lanzado para competir con Wiimote.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17214,7 +17651,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStation3.webp",
-    "descripcion": "PlayStation 3 | Sony | 2006 | G7 | 87.4m vendidas | Grand Theft Auto V | 2013 | 12cm",
+    "descripcion": "PlayStation 3 | Sony | 2006 | G7 | 87.4M vendidas | Grand Theft Auto V | 2013 | 12cm",
     "contexto": "PS 3 fue la primera consola en adoptar el Blu-Ray para sus títulos. Destaca su compatibilidad con PSP y PS vita. Sus ventas fueron inferiores a lo esperado por su precio y escasos juegos.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17222,7 +17659,7 @@
   },
   {
     "imagen": "19_Videojuegos/Wii.webp",
-    "descripcion": "Wii | Nintendo | 2006 | G7 | 101.63m vendidas | Wii Sports | 2006 | 12cm",
+    "descripcion": "Wii | Nintendo | 2006 | G7 | 101.63M vendidas | Wii Sports | 2006 | 12cm",
     "contexto": "Nintendo salió de nuevo vencedora en esta generación, no por potencia sino por originalidad, con la Wii y su controlador Wiimote.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17230,7 +17667,7 @@
   },
   {
     "imagen": "19_Videojuegos/Nintendo3DS.webp",
-    "descripcion": "Nintendo 3DS | Nintendo | 2011 | G8 | 75.94m vendidas | Mario Kart 7 | 2011 | 3.4x3.4cm",
+    "descripcion": "Nintendo 3DS | Nintendo | 2011 | G8 | 75.94M vendidas | Mario Kart 7 | 2011 | 3.4x3.4cm",
     "contexto": "Esta portátil es una sucesora directa de la DS con gráficos en 3D sin necesidad de gafas especiales.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17238,7 +17675,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStationVita.webp",
-    "descripcion": "PlayStation Vita | Sony | 2011 | G8 | 10-15m vendidas | Uncharted: Golden Abyss | 2011 | 2.1x3.1cm",
+    "descripcion": "PlayStation Vita | Sony | 2011 | G8 | 10-15M vendidas | Uncharted: Golden Abyss | 2011 | 2.1x3.1cm",
     "contexto": "A pesar de su superior potencia y gran catálogo inicial de juegos no fue competencia para la 3DS. Esta portátil no supo adaptarse a la aparición de smartphones con gran potencia para jugar.",
     "carpeta": "19_Videojuegos",
     "width": 827,
@@ -17246,7 +17683,7 @@
   },
   {
     "imagen": "19_Videojuegos/WiiU.webp",
-    "descripcion": "Wii U | Nintendo | 2012 | G8 | 13.56m vendidas | Mario Kart 8 | 2014 | 12cm",
+    "descripcion": "Wii U | Nintendo | 2012 | G8 | 13.56M vendidas | Mario Kart 8 | 2014 | 12cm",
     "contexto": "La Wii U es el mayor fracaso de Nintendo hasta la fecha. No supo promocionarse desde un inicio ni ofrecer algo realmente original como suele hacer Nintendo.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17254,7 +17691,7 @@
   },
   {
     "imagen": "19_Videojuegos/PlayStation4.webp",
-    "descripcion": "PlayStation 4 | Sony | 2013 | G8 | 117.2m vendidas | Grand Theft Auto V | 2013 | 12cm",
+    "descripcion": "PlayStation 4 | Sony | 2013 | G8 | 117.2M vendidas | Grand Theft Auto V | 2013 | 12cm",
     "contexto": "Sony aprovechó los errores de sus rivales (Nintendo con Wii U y Microsoft con Xbox One) para erigir a la PS 4 como la gran vencedora de la octava generación.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
@@ -17262,7 +17699,7 @@
   },
   {
     "imagen": "19_Videojuegos/XboxOne.webp",
-    "descripcion": "Xbox One | Microsoft | 2013 | G8 | 51m vendidas | PlayerUnknown's Battlegrounds | 2017 | 12cm",
+    "descripcion": "Xbox One | Microsoft | 2013 | G8 | 51M vendidas | PlayerUnknown's Battlegrounds | 2017 | 12cm",
     "contexto": "Su mayor precio debido a la inclusión del Kinect inicialmente con la consola, hizo que PS4 tomara una ventaja que no pudo recuperar.",
     "carpeta": "19_Videojuegos",
     "width": 1000,
