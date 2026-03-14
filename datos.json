@@ -10922,6 +10922,14 @@
     "height": 508
   },
   {
+    "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoLeonHercvli.webp",
+    "descripcion": "Antoniniano de Galieno 'HERCVLI CONS AVG' (Roma) | 267-268 | 2.65g 21x17mm",
+    "contexto": "Damnatio ad bestias era un tipo de pena de muerte donde los condenados eran arrojados a una jaula de fieras. El león era de las más comunes y algunos bestiarii habían conseguido domarlos.",
+    "carpeta": "12_AntoninianosFilipoGalienoProbo",
+    "width": 1000,
+    "height": 574
+  },
+  {
     "imagen": "12_AntoninianosFilipoGalienoProbo/antoninianoGalienoLeon.webp",
     "descripcion": "Antoniniano de Galieno 'P M TR P XIII' (Antioquía) | 265 | 4.08g 21x18mm",
     "contexto": "La moneda de Galieno del león es más común en el tipo de la legión que en el tipo CONS AVG, que es con diferencia la moneda más rara de la serie.",
@@ -12178,6 +12186,14 @@
     "height": 561
   },
   {
+    "imagen": "15_MonedasIslamicas/dinarOmeya.webp",
+    "descripcion": "Dinar de Abd al-Málik (Damasco, Califato Omeya) | 699 | 4.22g 20mm",
+    "contexto": "Abd al-Malik expandió el dominio árabe hasta Túnez y realizó numerosas reformas, como hacer del árabe el idioma oficial del gobierno. Fue padre de otros cuatro califas.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 546
+  },
+  {
     "imagen": "15_MonedasIslamicas/felusOmeya.webp",
     "descripcion": "Felús de Al-Walid I (Baalbek, Califato Omeya) | 705-709 | 3.56g 19mm",
     "contexto": "Los omeyas se hicieron con el poder en contra de Alí, primo de Mahoma, generando la división entre suníes y chiíes.",
@@ -12194,14 +12210,6 @@
     "height": 507
   },
   {
-    "imagen": "15_MonedasIslamicas/dinarOmeya.webp",
-    "descripcion": "Dinar de Abd al-Malik (Damasco, Califato Omeya) | 699 | 4.22g 20mm",
-    "contexto": "Abd al-Malik expandió el dominio árabe hasta Túnez y realizó numerosas reformas, como hacer del árabe el idioma oficial del gobierno. Fue padre de otros cuatro califas.",
-    "carpeta": "15_MonedasIslamicas",
-    "width": 1000,
-    "height": 546
-  },
-  {
     "imagen": "15_MonedasIslamicas/felusAbbasi.webp",
     "descripcion": "Felús anónimo (al-Masisa, Mopsuestia, Califato Abasí) | inicio del siglo IX | 2.20g 19mm",
     "contexto": "En 756 una rebelión estableció el nuevo califato, con capital en Bagdad. En 1258 perecieron contra los mongoles aunque su dinastía pudo continuar en Egipto hasta 1517, cuando llegaron los otomanos.",
@@ -12210,20 +12218,20 @@
     "height": 519
   },
   {
-    "imagen": "15_MonedasIslamicas/dirhamAbasi.webp",
-    "descripcion": "Dirham de Harún al-Rashid (Madinat al-Salam (Bagdad), Califato Abasí) | 797 | 2.63g 25mm",
-    "contexto": "Harún fue el más famoso califa de la dinastía abasí de Bagdad, considerado ejemplar para los musulmanes y protagonista de numerosas historias de 'Las mil y una noches'.",
-    "carpeta": "15_MonedasIslamicas",
-    "width": 1000,
-    "height": 514
-  },
-  {
     "imagen": "15_MonedasIslamicas/hemidracmaAraboSasanida.webp",
     "descripcion": "Hemidracma arabo-sasánida (Tabaristán, Califato Abasí) | 786-787 | 1.54g 24mm",
     "contexto": "Tabaristán es una región al sur del mar Caspio, una zona típicamente persa. Esta moneda imita el dracma de Cosroes II que anteriormente había sido acuñado por los sasánidas.",
     "carpeta": "15_MonedasIslamicas",
     "width": 1000,
     "height": 521
+  },
+  {
+    "imagen": "15_MonedasIslamicas/dirhamAbasi.webp",
+    "descripcion": "Dirham de Harún al-Rashid (Madinat al-Salam (Bagdad), Califato Abasí) | 797 | 2.63g 25mm",
+    "contexto": "Harún fue el más famoso califa de la dinastía abasí de Bagdad, considerado ejemplar para los musulmanes y protagonista de numerosas historias de 'Las mil y una noches'.",
+    "carpeta": "15_MonedasIslamicas",
+    "width": 1000,
+    "height": 514
   },
   {
     "imagen": "15_MonedasIslamicas/felusEmiral.webp",
@@ -14963,7 +14971,7 @@
   },
   {
     "imagen": "17_MonedasModernas/piastraIndochinaFrancesa1898.webp",
-    "descripcion": "Piastra 'Libertad' (París, Francia) | 1898 | 26.86g 39mm",
+    "descripcion": "Piastra de la Indochina Francesa 'Libertad' (París, Francia) | 1898 | 26.86g 39mm",
     "contexto": "La Indochina Francesa se formó en 1887 uniendo las tres regiones vietnamitas (Cochinchina, Tonkín y Annam) con Camboya. En 1893 Laos también pasó bajo control francés.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15171,7 +15179,7 @@
   },
   {
     "imagen": "17_MonedasModernas/tradeDolar1911.webp",
-    "descripcion": "Dólar de comercio 'Britania' (Bombay, Imperio Británico) | 1911 | 26.88g 39mm",
+    "descripcion": "Dólar de comercio de la India 'Britania' (Bombay, Imperio Británico) | 1911 | 26.88g 39mm",
     "contexto": "Estas monedas se acuñaron en la India para facilitar el comercio del Imperio Británico en oriente, por lo que incluye en el reverso texto en chino y malayo.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15179,7 +15187,7 @@
   },
   {
     "imagen": "17_MonedasModernas/pennyAfricaOesteJorgeV.webp",
-    "descripcion": "1/10 de penique para la África Occidental Británica de Jorge V (Londres, Imperio Británico) | 1928 | 1.95g 20mm",
+    "descripcion": "1/10 de penique de la África Occidental Británica de Jorge V (Londres, Imperio Británico) | 1928 | 1.95g 20mm",
     "contexto": "Entre 1885 y 1914 Reino Unido tomó aproximadamente al 30% de la población africana bajo su control resultando vencedora en la lucha por África.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15187,7 +15195,7 @@
   },
   {
     "imagen": "17_MonedasModernas/piastrasChipre1928.webp",
-    "descripcion": "45 piastras 'Jorge V/leones' (Londres, Imperio Británico) | 1928 | 28.36g 38.5mm",
+    "descripcion": "45 piastras de Chipre 'Jorge V/leones' (Londres, Imperio Británico) | 1928 | 28.36g 38.5mm",
     "contexto": "Tras el dominio del Imperio Otomano, la isla de Chipre estuvo bajo posesión británica desde 1878 hasta 1960. Desde 1974 Chipre quedó dividida entre el norte turcochipriota y el sur grecochipriota.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15219,7 +15227,7 @@
   },
   {
     "imagen": "17_MonedasModernas/dolarCanada1936.webp",
-    "descripcion": "Dólar 'Jorge V/viajeros' (Ottawa, Canadá) | 1936 | 23.41g 36mm",
+    "descripcion": "Dólar de Jorge V 'Jorge V/viajeros' (Ottawa, Canadá) | 1936 | 23.41g 36mm",
     "contexto": "Aunque Jorge V murió en enero de 1936 sus monedas siguieron acuñándose con su efigie ya que Eduardo VIII abdicó antes de que llegaran cuños de la Ceca Real.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15227,7 +15235,7 @@
   },
   {
     "imagen": "17_MonedasModernas/pennyAustralia1911.webp",
-    "descripcion": "Penique para Australia de Jorge V (ceca Real, Londres) | 1911 | 9.55g 31mm",
+    "descripcion": "Penique de Australia de Jorge V (ceca Real, Londres) | 1911 | 9.55g 31mm",
     "contexto": "El 1 de enero de 1901 se formó la Confederación de Australia dentro de la Comunidad Británica de Naciones.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
@@ -15899,7 +15907,7 @@
   },
   {
     "imagen": "17_MonedasModernas/medioEscudoCarlosIII.webp",
-    "descripcion": "Medio escudo de Carlos III el Político 'CarlosIII (tipo cara de rata)/escudo' (Sevilla, España) | 1767 | 1.79g 15.5mm",
+    "descripcion": "Medio escudo de Carlos III el Político 'Carlos III (tipo cara de rata)/escudo' (Sevilla, España) | 1767 | 1.79g 15.5mm",
     "contexto": "A la muerte de su hermanastro Fernando VI, Carlos III accedió al trono tras abdicar como rey de Nápoles. Defendió las ideas ilustradas desde el despotismo ilustrado, del que fue su máximo exponente.",
     "carpeta": "17_MonedasModernas",
     "width": 1000,
