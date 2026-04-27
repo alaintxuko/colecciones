@@ -513,7 +513,7 @@ function mostrarGaleria(carpeta) {
     const descripcionTexto = escapeHtml(item.descripcion || '');
 
     // Usamos comillas simples para los atributos internos del enlace para no romper el data-caption
-    const link25D = html25d ? `<div style='margin-top: 5px;'><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a></div>` : '';
+    const link25D = html25d ? `<div style='margin-top: 5px;'><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[2.5D 🔄]</a></div>` : '';
 
     let captionHtml;
     if (item.carpeta === 'colecciones.RES') {

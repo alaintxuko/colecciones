@@ -3082,7 +3082,7 @@
     "descripcion": "Tetradracma 'Atenea/mochuelo' (Atenas, Ática) | 454-404 aC | 17.26g 25mm",
     "contexto": "Seguramente la moneda más famosa de la antigüedad, representa a Palas Atenea, diosa de la que Atenas era devota y en el reverso al sagrado mochuelo, la Luna reina de la noche y la rama de olivo con su fruto.",
     "carpeta": "05_MonedasGreciaClasica",
-    "html_25d": "",
+    "html_25d": "25D/tetradracmaAtenas.html",
     "width": 1000,
     "height": 610
   },
@@ -3541,7 +3541,7 @@
     "descripcion": "Estatera 'Pegaso/Atenea' (Corinto, Corintia) | 375-300 aC | 8.38g 22mm",
     "contexto": "Belerofonte, hijo del rey de Corinto, domó a Pegaso usando una brida de oro de Atenea y realizó con él grandes hazañas.",
     "carpeta": "05_MonedasGreciaClasica",
-    "html_25d": "",
+    "html_25d": "25D/estateraCorinto.html",
     "width": 1000,
     "height": 559
   },
@@ -3892,7 +3892,7 @@
     "descripcion": "Octóbolo de Pirro de Épiro 'Perséfone/Atenea' (Siracusa, Sicilia) | 278-276 aC | 5.29g 21mm",
     "contexto": "Pirro fue el mayor general griego frente a la República Romana, a la que venció dos veces pero con un alto coste. Como él mismo dijo: 'Otra victoria como ésta y volveré solo a casa'.",
     "carpeta": "05_MonedasGreciaClasica",
-    "html_25d": "",
+    "html_25d": "25D/octoboloPirro.html",
     "width": 1000,
     "height": 552
   },
@@ -4027,7 +4027,7 @@
     "descripcion": "Cistóforo 'cesta mística/serpientes' (Reino de Pérgamo, Misia) | 190-133 aC | 11.65g 28x26mm",
     "contexto": "Esta famosa moneda estaba ampliamente extendida en Asia Menor en el momento de la conquista romana. El Reino desapareció cuando en 133 aC Átalo III legó en su testamento todo el Reino a la República Romana.",
     "carpeta": "05_MonedasGreciaClasica",
-    "html_25d": "",
+    "html_25d": "25D/cistoforo.html",
     "width": 1000,
     "height": 533
   },
@@ -4261,7 +4261,7 @@
     "descripcion": "Tetradracma de Filipo II 'Zeus/efebo a caballo' (Pella, Macedonia) | 336-328 aC | 14.22g 25x21mm",
     "contexto": "Filipo II venció a los griegos en la batalla de Queronea de agosto de 338 aC en lo que se considera el fin de la historia de Grecia y el inicio de la era de Macedonia. Fue asesinado justo antes de iniciar la campaña para conquistar Asia.",
     "carpeta": "06_MonedasHelenismo",
-    "html_25d": "",
+    "html_25d": "25D/tetradracmaFilipoII.html",
     "width": 1000,
     "height": 550
   },
@@ -4306,7 +4306,7 @@
     "descripcion": "Tetradracma de Alejandro Magno 'Hércules/Zeus' (Babilonia) | 325-323 aC | 16.97g 27mm",
     "contexto": "Alejandro falleció en 323 aC en Babilonia de enfermedad o envenenado. La grandiosidad de esta amurallada ciudad hizo que Alejandro quisiera convertirla en su capital.",
     "carpeta": "06_MonedasHelenismo",
-    "html_25d": "",
+    "html_25d": "25D/tetradracmaAlejandroMagnoBabilonia.html",
     "width": 1000,
     "height": 543
   },
@@ -4873,7 +4873,7 @@
     "descripcion": "Siclo aqueménida de Jerjes I (tipo IIIa) | 485-475 aC | 5.24g 16x14mm",
     "contexto": "Los siclos aqueménidas representan siempre la figura estereotipada de un arquero real. El tipo IIIa se caracteriza por su peso menor a los posteriores y los dos puntos tras la barba plana del arquero.",
     "carpeta": "07_MonedasPersas",
-    "html_25d": "",
+    "html_25d": "25D/sicloDarioI.html",
     "width": 1000,
     "height": 685
   },
@@ -5143,7 +5143,7 @@
     "descripcion": "Dracma sasánida de Cosroes II 'Cosroes II/altar de fuego' (Darabgird) | 626 | 4.10g 32mm",
     "contexto": "El Imperio Sasánida o Segundo Imperio Persa alcanzó con Cosroes II su máxima extensión, previa a la decadencia final del Imperio debido a la excesiva ambición de Cosroes II.",
     "carpeta": "07_MonedasPersas",
-    "html_25d": "",
+    "html_25d": "25D/dracmaSasanida.html",
     "width": 1000,
     "height": 485
   },
@@ -5512,7 +5512,7 @@
     "descripcion": "Denario (dracma) vascón 'BeNKoTa/BaSKuNES' (Baskunes) | 110-90 aC | 3.97g 19mm",
     "contexto": "En este denario el arte es más esquemático que el anterior. Con frecuencia al desgastarse los cuños, se repasaban resultando en figuras menos realistas.",
     "carpeta": "08_MonedaIberica",
-    "html_25d": "",
+    "html_25d": "25D/denarioBaskunes.html",
     "width": 1000,
     "height": 520
   },
@@ -5638,7 +5638,7 @@
     "descripcion": "Denario (dracma) ibérico 'SE/SEKaISA' (Sekaisa) | segunda mitad del siglo II aC | 3.90g 20mm",
     "contexto": "La Segunda Guerra Celtibérica, que culminaría en Numancia, comenzó por la construcción de nuevas murallas en Sekaisa, lo que llevó a Roma a adelantar el inicio del año al 1 de enero para sus preparativos militares.",
     "carpeta": "08_MonedaIberica",
-    "html_25d": "",
+    "html_25d": "25D/denarioSekaisa.html",
     "width": 1000,
     "height": 521
   },
@@ -6088,7 +6088,7 @@
     "descripcion": "Siclo púnico 'Tanit/caballo delante de palma' (Carthago Nova, Iberia) | 220-215 aC | 7.20g 22mm",
     "contexto": "El principal interés de Roma en Hispania se debió a las ricas minas de plata de Carthago Nova. Cuando tomaron Carthago Nova en 209 aC capturaron más de 6 toneladas de plata.",
     "carpeta": "09_MonedasOtrasCivilizacionesAntiguas",
-    "html_25d": "",
+    "html_25d": "25D/sicloCartagonova.html",
     "width": 1000,
     "height": 539
   },
@@ -6457,7 +6457,7 @@
     "descripcion": "As libral de aes grave 'Jano/galera' (Roma) | 300-265 aC | 246.35g 61x58mm",
     "contexto": "El primer estándar del aes grave fue el libral, con un peso teórico de 329g para el as, que fue reducido a 275g pero que era poco preciso, con muchos ejemplares en el rango de 230-260g.",
     "carpeta": "10_MonedasRepublicaRomana",
-    "html_25d": "",
+    "html_25d": "25D/asAesGraveLibral.html",
     "width": 1000,
     "height": 528
   },
@@ -6493,7 +6493,7 @@
     "descripcion": "Quadrigato (didracma) anónimo 'Jano/Júpiter y Victoria en cuádriga' (Roma) | 225-217 aC | 6.75g 23mm",
     "contexto": "El quadrigato sufrió una gran devaluación como consecuencia de la Segunda Guerra Púnica, lo que provocó la aparición del denario, con reversos en los que la cuádriga seguía siendo el elemento más habitual.",
     "carpeta": "10_MonedasRepublicaRomana",
-    "html_25d": "",
+    "html_25d": "25D/quadrigato.html",
     "width": 1000,
     "height": 551
   },
@@ -7852,7 +7852,7 @@
     "descripcion": "Denario gens Axia 'Lucius Axius Naso' (Roma) | 71 aC | 3.81g 19x17mm",
     "contexto": "Con sobrenombre Naso debido a algún antepasado de enorme nariz, representa a Marte y Diana en biga de ciervos sobre un perro.",
     "carpeta": "10_MonedasRepublicaRomana",
-    "html_25d": "",
+    "html_25d": "25D/denarioAxia.html",
     "width": 1000,
     "height": 523
   },
@@ -8041,7 +8041,7 @@
     "descripcion": "Denario gens Junia 'Marcus Iunius Brutus' (Roma) | 54 aC | 3.85g 21x17mm",
     "contexto": "Lucio Junio Bruto fue el primer cónsul de la historia de Roma y fundador de la República que expulsó a Tarquinio (reverso), el último rey. Marco murió defendiendo esa República frente a Julio César.",
     "carpeta": "10_MonedasRepublicaRomana",
-    "html_25d": "",
+    "html_25d": "25D/denarioJunia.html",
     "width": 1000,
     "height": 546
   },
@@ -8068,7 +8068,7 @@
     "descripcion": "Denario gens Julia 'Caius Iulius Caesar' (ceca móvil) | 49 aC | 3.59g 19mm",
     "contexto": "Esta famosa moneda presenta a un elefante pisoteando una serpiente y en el reverso los emblemas del pontificado, con objetos usados en los sacrificios.",
     "carpeta": "10_MonedasRepublicaRomana",
-    "html_25d": "",
+    "html_25d": "25D/denarioJulioCesar.html",
     "width": 1000,
     "height": 513
   },
@@ -8671,7 +8671,7 @@
     "descripcion": "Denario de Augusto 'IOVI OLV' (Peloponeso) | 21 aC | 3.48g 19mm",
     "contexto": "El Templo de Zeus Olímpico en Olimpia, construido entre 470 y 456 aC y referencia del orden dórico, contenía la estatua de Zeus (una de las Siete Maravillas). Hoy se encuentra en ruinas.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/denarioAugustoTemplo.html",
     "width": 1000,
     "height": 552
   },
@@ -9148,7 +9148,7 @@
     "descripcion": "Sestercio de Trajano 'SENATVS POPVLVSQVE ROMANVS' (Roma) | 114-117 | 27.19g 34mm",
     "contexto": "Fue el primer emperador no itálico (era hispano). Reformó la ciudad de Roma y como comandante militar derrotó a dacios, nabateos y partos. Fue el más serio y correcto de los emperadores.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/sestercioTrajano.html",
     "width": 1000,
     "height": 541
   },
@@ -9202,7 +9202,7 @@
     "descripcion": "Denario de Adriano 'HISPANIA' (Roma) | 134-138 | 3.50g 18mm",
     "contexto": "Este denario forma parte de las acuñaciones de Adriano durante sus viajes y representa una alegoría de Hispania apoyada sobre los Pirineos, con una rama de olivo en la mano y un conejo a sus pies.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/denarioAdrianoHispania.html",
     "width": 1000,
     "height": 541
   },
@@ -9382,7 +9382,7 @@
     "descripcion": "Sestercio de Marco Aurelio 'SALVTI AVG COS III' (Roma) | 163-164 | 24.39g 33x31mm",
     "contexto": "Marco Aurelio desarrolló un profundo interés por la filosofía estoica, que promovía la autodisciplina, la fortaleza interior y la aceptación de la adversidad como parte natural de la vida.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/sestercioMarcoAurelio.html",
     "width": 1000,
     "height": 554
   },
@@ -9553,7 +9553,7 @@
     "descripcion": "Antoniniano de Caracalla 'P M TR P XVIII COS IIII P P' (Roma) | 215 | 4.91g 23x21mm",
     "contexto": "El antoniniano, con valor de dos denarios, fue introducido por Caracalla a comienzos de 215. Debe el nombre al nombre oficial del emperador: Marco Aurelio Antonino.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/antoninianoCaracallaPluton.html",
     "width": 1000,
     "height": 521
   },
@@ -10192,7 +10192,7 @@
     "descripcion": "Antoniniano de Aureliano 'ORIENS AVG' (Roma) | 270-275 | 4.18g 21mm",
     "contexto": "Aureliano fortaleció la posición del dios del Sol (Invictus) como la principal divinidad del panteón romano siguiendo el principio de un dios, un Imperio, idea que más tarde adoptó Constantino el Grande.",
     "carpeta": "11_MonedasImperioRomano",
-    "html_25d": "",
+    "html_25d": "25D/antoninianoAurelianoSol.html",
     "width": 1000,
     "height": 510
   },
@@ -12244,7 +12244,7 @@
     "descripcion": "Antoniniano de Galieno 'HERCVLI CONS AVG' (Roma) | 267-268 | 2.65g 21x17mm",
     "contexto": "Damnatio ad bestias era un tipo de pena de muerte donde los condenados eran arrojados a una jaula de fieras. El león era de las más comunes y algunos bestiarii habían conseguido domarlos.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
-    "html_25d": "",
+    "html_25d": "25D/antoninianoGalienoLeonHercvli.html",
     "width": 1000,
     "height": 574
   },
@@ -12262,7 +12262,7 @@
     "descripcion": "Antoniniano de Galieno 'HERCVLI CONS AVG' (Roma) | 267-268 | 1.19g 20x18mm",
     "contexto": "Debido al mito del Jabalí de Calidón, que fue cazado por héroes, la caza del jabalí fue muy popular entre los jóvenes romanos e incluso había reservas en las que se criaban para la caza.",
     "carpeta": "12_AntoninianosFilipoGalienoProbo",
-    "html_25d": "",
+    "html_25d": "25D/antoninianoGalienoJabali.html",
     "width": 1000,
     "height": 479
   },
@@ -12847,7 +12847,7 @@
     "descripcion": "Moneda pala (1/2 Jin=12 Shu) 'Kuan' (dinastía Zhou 1046-221 aC, Reino de Qin) | 350-255 aC | 4.13g 44x26mm",
     "contexto": "La dinastía Zhou acabó derivando en señoríos feudales y entre 476 y 221 aC se produjo el periodo de los reinos combatientes en el que el estado Qin, del oeste, salió victorioso.",
     "carpeta": "13_MonedasLejanoOriente",
-    "html_25d": "",
+    "html_25d": "25D/monedaAzada.html",
     "width": 1000,
     "height": 836
   },
@@ -14998,7 +14998,7 @@
     "descripcion": "Dinero de Sancho VI el Sabio 'Sancho VI/árbol superado de cruz' (Pamplona, Reino de Navarra) | 1150-1194 | 0.86g 18mm",
     "contexto": "Fundó Vitoria y San Sebastián y estabilizó el Reino de Navarra (antes de él, de Pamplona) en sus luchas con Castilla y Aragón. Casó a su hija con Ricardo Corazón de León. Definió al euskera como 'lingua navarrorum'.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/dineroSanchoVI.html",
     "width": 1000,
     "height": 502
   },
@@ -15214,7 +15214,7 @@
     "descripcion": "Real de los Reyes Católicos 'escudo Castilla y León/escudo Aragón y Sicilia' (Segovia, Reinos de Castilla y Aragón) | 1475-1497 | 3.35g 27mm",
     "contexto": "Esta moneda es del Ordenamiento de 1475, contemporánea a los Reyes Católicos y previa a la Pragmática de 1497. Son las que Colón llevó consigo en su primer viaje a América.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/realReyesCatolicos1475.html",
     "width": 1000,
     "height": 516
   },
@@ -15268,7 +15268,7 @@
     "descripcion": "Real de los Reyes Católicos 'escudo de los Reyes Católicos/yugo y flechas' (Granada, Reinos de Castilla y Aragón) | 1506-1566 | 2.82g 24mm",
     "contexto": "Los Reyes Católicos, Isabel (Castilla) y Fernando (Aragón) crearon una monarquía fuerte al unir sus coronas. Conquistaron Granada, Navarra, Canarias y Melilla.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/1realReyesCatolicos.html",
     "width": 1000,
     "height": 523
   },
@@ -15331,7 +15331,7 @@
     "descripcion": "Maravedí de Felipe III el Piadoso 'monograma/castillo' (Burgos) | 1603 | 1.11g 13mm",
     "contexto": "En el momento de la publicación de esta moneda no había ningún otro maravedí de Felipe III de esta ceca publicado. La moneda fue encontrada con un detector en Agurain.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/maravediFelipeIII.html",
     "width": 1000,
     "height": 561
   },
@@ -16222,7 +16222,7 @@
     "descripcion": "Jital de Gengis Khan 'El justo y supremo Khan' (Ghazna) | 1221-1227 | 3.53g 16mm",
     "contexto": "Gengis fue el mayor conquistador y creador del Imperio Mongol, el más extenso de la historia. Los mongoles no crearon su propia moneda sino que adaptaron la de las zonas que conquistaron.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/jitalGenghisKhan.html",
     "width": 1000,
     "height": 534
   },
@@ -16240,7 +16240,7 @@
     "descripcion": "Sólido de Odoacro 'Zenón/Victoria' (Roma, Reino Ostrogodo) | 476-493 | 4.48g 21mm",
     "contexto": "Odoacro depuso en 476 al último emperador romano de Occidente, Rómulo Augústulo, proclamándose rey y marcando el fin del Imperio Romano. Formalmente reconoció la autoridad de Zenón.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/solidoOdoacro.html",
     "width": 1000,
     "height": 528
   },
@@ -16285,7 +16285,7 @@
     "descripcion": "Florín 'flor de lis/San Juan Bautista' (República de Florencia) | 1252-1422 | 3.49g 25mm",
     "contexto": "El florín fue la moneda medieval de referencia en Europa en los siglos XIII y XIV debido a la potencia comercial de Florencia y a la constancia en el peso (3.5 g) y la pureza (casi 24qt).",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/florinFlorencia.html",
     "width": 1000,
     "height": 531
   },
@@ -16348,7 +16348,7 @@
     "descripcion": "Testone de Ludovico Maria Sforza, duque de Milán 'Ludovico/escudo de armas' (Ducado de Milán) | 1494-1500 | 9.58g 28mm",
     "contexto": "Fue mecenas de Leonardo da Vinci (1482-1500), que le fue enviado por Lorenzo de Médici. Leonardo sirvió a Ludovico como ingeniero y organizador de fiestas y bajo su mecenazgo pintó 'La última cena'.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
-    "html_25d": "",
+    "html_25d": "25D/testoneLudovicoSforza.html",
     "width": 1000,
     "height": 531
   },
@@ -16681,7 +16681,7 @@
     "descripcion": "5 francos de Napoleón como Emperador (París) | 1811 | 24.87g 37mm",
     "contexto": "Ya en el Directorio, Napoleón conquistó Italia, Egipto y Siria y posteriormente controló España, Flandes, parte de Alemania y Polonia.",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/francosNapoleonEmperadorParis1811.html",
     "width": 1000,
     "height": 533
   },
@@ -17257,7 +17257,7 @@
     "descripcion": "Rublo del zar Nicolás I, Dinastía Romanov (San Petersburgo, Imperio Ruso) | 1849 | 20.51g 35.5mm",
     "contexto": "Nicolás I sucedió a su hermano Alejandro I y dotó al régimen de un carácter autocrático. Las revueltas en defensa de una monarquía constitucional le llevaron a recrudecer la represión policial.",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/rubloNicolasI.html",
     "width": 1000,
     "height": 524
   },
@@ -17626,7 +17626,7 @@
     "descripcion": "Tálero de Maria Teresa de Habsburgo 'Maria Teresa/escudo del Sacro Imperio Romano Germánico' (Viena) | 1754 | 28.07g 40mm",
     "contexto": "Maria Teresa gobernó Alemania, Austria, Hungría y Bohemia, desde 1740 hasta 1780. El tálero, junto con el real de a ocho español, fue la base para la creación del dólar estadounidense.",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/talerMariaTeresaOld.html",
     "width": 1000,
     "height": 533
   },
@@ -17824,7 +17824,7 @@
     "descripcion": "8 reales (columnario) de Fernando VI el Prudente 'Nuevo y Antiguo Mundo coronados entre columnas/escudo' (México, Virreinato de Nueva España) | 1752 | 26.93g 39mm",
     "contexto": "En esta moneda se basó el dólar e incluso su símbolo ($) representa las columnas con la cinta. Acuñadas para el Nuevo Mundo, pretenden representar la unión de ambos mundos (VTRAQUE VNUM: de dos uno).",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/columnario.html",
     "width": 1000,
     "height": 539
   },
@@ -18463,7 +18463,7 @@
     "descripcion": "Token unionista de un céntimo de la Guerra de Secesión estadounidense 'shoot him on the spot' (ceca privada) | 1863 | 3.04g 19.5mm",
     "contexto": "Tras la separación de Luisiana, John Adams Dix dijo 'si alguien intenta arriar la bandera de Estados Unidos, disparadle en el acto' convirtiéndose en un grito de guerra y Dix en un héroe del Norte.",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/tokenGuerraSecesion.html",
     "width": 1000,
     "height": 536
   },
@@ -18760,7 +18760,7 @@
     "descripcion": "2.5 afganis de Amanulá Khan 'tugra/mezquita' (Kabul, Afganistán) | 1927 | 24.98g 38.5mm",
     "contexto": "Amanulá Khan proclamó la independencia de Afganistán del Reino Unido en 1919 y se alió con la URSS. Inició reformas progresistas que provocaron revueltas de los conservadores.",
     "carpeta": "17_MonedasModernas",
-    "html_25d": "",
+    "html_25d": "25D/afganisAfganistan1927.html",
     "width": 1000,
     "height": 533
   },
