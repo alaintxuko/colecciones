@@ -505,48 +505,38 @@ function mostrarGaleria(carpeta) {
   items.forEach((item, index) => {
     const thumbPath = `thumbs/${item.carpeta}/${item.imagen.split('/').pop()}`;
     const imgPath = item.imagen;
-    const html25d = item.html_25d || ''; // Leemos el dato del JSON
+    const html25d = item.html_25d || ''; 
 
     const thumbDiv = document.createElement('div');
     thumbDiv.className = 'thumb';
 
-    const showCaptionBelow = true;
-
-    // Descripción limpia para mostrar bajo miniatura (sin etiquetas)
     const descripcionTexto = escapeHtml(item.descripcion || '');
 
-    const link25D = html25d ? `<div style="margin-top: 5px;"><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a></div>` : '';
+    // Usamos comillas simples para los atributos internos del enlace para no romper el data-caption
+    const link25D = html25d ? `<div style='margin-top: 5px;'><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a></div>` : '';
 
-    // El caption para PhotoSwipe, puede tener <br> para separar
-// Si es colecciones.RES → solo contexto en PhotoSwipe
-let captionHtml;
-
-if (item.carpeta === 'colecciones.RES') {
-  captionHtml = item.contexto ? escapeHtml(item.contexto) : '';
-} else {
-  // Resto de carpetas → descripción + contexto
-  const parts = [
-    item.descripcion ? escapeHtml(item.descripcion) : '',
-    item.contexto ? escapeHtml(item.contexto) : ''
-  ].filter(Boolean);
-  captionHtml = parts.join('<br>');
-}
-    if (html25d) {
-        captionHtml += `<br><br><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a>`;
+    let captionHtml;
+    if (item.carpeta === 'colecciones.RES') {
+      captionHtml = item.contexto ? escapeHtml(item.contexto) : '';
+    } else {
+      const parts = [
+        item.descripcion ? escapeHtml(item.descripcion) : '',
+        item.contexto ? escapeHtml(item.contexto) : ''
+      ].filter(Boolean);
+      captionHtml = parts.join('<br>');
     }
 
-    // Nota: el atributo data-caption con HTML se soporta en v4 para la leyenda
-    // Pero PhotoSwipe no interpreta HTML, se mostrará como texto plano,
-    // así que en el callback podemos reemplazar saltos por <br>
-    // O lo dejamos así para evitar complicar.
+    if (html25d) {
+        // Añadimos el enlace al final del caption con comillas simples
+        captionHtml += `<br><br><a href='${html25d}' target='_blank' style='color:#ffcc00; font-weight:bold; text-decoration:none;'>[Ver en 2.5D]</a>`;
+    }
 
     thumbDiv.innerHTML = `
       <a href="${imgPath}" 
          data-size="${item.width}x${item.height}"
-         data-caption="${captionHtml}">
-        <img src="${thumbPath}" alt="${descripcionTexto}" />
+         data-caption="${captionHtml}"> <img src="${thumbPath}" alt="${descripcionTexto}" />
       </a>
-      ${showCaptionBelow ? `<span>${negritaHastaCaracter(descripcionTexto)}${link25D}</span>` : ''}
+      <span>${negritaHastaCaracter(descripcionTexto)}${link25D}</span>
     `;
 
     galleryDiv.appendChild(thumbDiv);
@@ -573,11 +563,10 @@ let pswpElement = document.querySelectorAll('.pswp')[0];
 let galleryItems = [];
 let gallery;
 
-
 function iniciarPhotoSwipe() {
   // Creamos un array de objetos para PhotoSwipe con los datos de las imágenes en el DOM
   galleryItems = [];
-  const links = galleryDiv.querySelectorAll('a');
+  const links = galleryDiv.querySelectorAll('a[data-size]');
 
   links.forEach(link => {
     const size = link.getAttribute('data-size').split('x');
@@ -597,7 +586,7 @@ function iniciarPhotoSwipe() {
     gallery = null;
   }
 
-  galleryDiv.querySelectorAll('a').forEach((link, index) => {
+  links.forEach((link, index) => {
     link.onclick = function(e) {
       e.preventDefault();
       const options = {
