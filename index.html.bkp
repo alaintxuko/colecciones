@@ -505,7 +505,6 @@ function mostrarGaleria(carpeta) {
   items.forEach((item, index) => {
     const thumbPath = `thumbs/${item.carpeta}/${item.imagen.split('/').pop()}`;
     const imgPath = item.imagen;
-    const html25d = item.html_25d || ''; // Leemos el dato del JSON
 
     const thumbDiv = document.createElement('div');
     thumbDiv.className = 'thumb';
@@ -514,8 +513,6 @@ function mostrarGaleria(carpeta) {
 
     // Descripción limpia para mostrar bajo miniatura (sin etiquetas)
     const descripcionTexto = escapeHtml(item.descripcion || '');
-
-    const link25D = html25d ? `<div style="margin-top: 5px;"><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a></div>` : '';
 
     // El caption para PhotoSwipe, puede tener <br> para separar
 // Si es colecciones.RES → solo contexto en PhotoSwipe
@@ -531,9 +528,6 @@ if (item.carpeta === 'colecciones.RES') {
   ].filter(Boolean);
   captionHtml = parts.join('<br>');
 }
-    if (html25d) {
-        captionHtml += `<br><br><a href='${html25d}' target='_blank' style='color:#d35400; font-weight:bold; text-decoration:none;'>[Giro 2.5D 🔄]</a>`;
-    }
 
     // Nota: el atributo data-caption con HTML se soporta en v4 para la leyenda
     // Pero PhotoSwipe no interpreta HTML, se mostrará como texto plano,
@@ -546,7 +540,7 @@ if (item.carpeta === 'colecciones.RES') {
          data-caption="${captionHtml}">
         <img src="${thumbPath}" alt="${descripcionTexto}" />
       </a>
-      ${showCaptionBelow ? `<span>${negritaHastaCaracter(descripcionTexto)}${link25D}</span>` : ''}
+      ${showCaptionBelow ? `<span>${negritaHastaCaracter(descripcionTexto)}</span>` : ''}
     `;
 
     galleryDiv.appendChild(thumbDiv);
