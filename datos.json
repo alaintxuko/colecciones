@@ -285,7 +285,7 @@
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 1965
+    "height": 2504
   },
   {
     "imagen": "colecciones.RES/32_ReinosMedievalesEuropeos.webp",
@@ -2734,6 +2734,51 @@
     "html_25d": "",
     "width": 1000,
     "height": 582
+  },
+  {
+    "imagen": "04_Premonedas/aesRude.webp",
+    "descripcion": "Aes rude (Italia central) | siglos VIII-IV aC | 79.51g 43x27x20mm",
+    "contexto": "El aes rude fue introducido por el rey etrusco Servio Tulio en el siglo VI aC. Los reyes etruscos, más avanzados que los romanos y los sabinos, les mostraron las ventajas del comercio y la industria.",
+    "carpeta": "04_Premonedas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 907
+  },
+  {
+    "imagen": "04_Premonedas/aesFormatumConcha.webp",
+    "descripcion": "Aes formatum 'concha' (Italia central) | siglos VII-IV aC | 20.36g 31x26mm",
+    "contexto": "El aes rude fue sustituido por el aes formatum que utilizaba formas definidas. Para transacciones de mayor tamaño surgió el aes signatum, un gran lingote con símbolos oficiales.",
+    "carpeta": "04_Premonedas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 528
+  },
+  {
+    "imagen": "04_Premonedas/aesFormatum.webp",
+    "descripcion": "Aes formatum 'luna' (Italia central) | siglos VII-IV aC | 14.17g 31x21mm",
+    "contexto": "Las figuras en forma de media luna podrían haber tenido una función apotropaica, es decir, protectora contra el mal o las maldiciones.",
+    "carpeta": "04_Premonedas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 823
+  },
+  {
+    "imagen": "04_Premonedas/aesFormatumLunulaDentada.webp",
+    "descripcion": "Aes formatum 'lúnula dentada' (Italia central) | siglos VII-IV aC | 3.47g 33x10mm",
+    "contexto": "Este aes formatum parece de origen funcional, concebido inicialmente como aplique ornamental. Su valor material en bronce le permitió circular posteriormente como medio de cambio.",
+    "carpeta": "04_Premonedas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 423
+  },
+  {
+    "imagen": "04_Premonedas/aesSignatum.webp",
+    "descripcion": "Fragmento de aes signatum 'ramo secco' contramarcado (Italia central) | siglos VI-IV aC | 25.37g 23x19x18mm",
+    "contexto": "Separado a cincel de un gran lingote matriz de más de un kilogramo, este fragmento fue contramarcado como garantía privada para validar su peso cercano a la uncia libral.",
+    "carpeta": "04_Premonedas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 643
   },
   {
     "imagen": "04_Premonedas/bronceIstros.webp",
