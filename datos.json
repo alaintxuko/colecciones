@@ -9,7 +9,16 @@
     "height": 4867
   },
   {
-    "imagen": "colecciones.RES/02_GreciaAntigua.webp",
+    "imagen": "colecciones.RES/02_HistoriaNumismatica.webp",
+    "descripcion": "Recopilación de 100 items de la colección que describen los principales hitos de la historia de la numismática.",
+    "contexto": "La selección recorre la evolución de la moneda desde las primeras acuñaciones de la Antigüedad hasta las emisiones contemporáneas, pasando por las principales innovaciones, sistemas monetarios y tradiciones numismáticas de distintas épocas y culturas.",
+    "compra": "",
+    "carpeta": "colecciones.RES",
+    "width": 8000,
+    "height": 4867
+  },
+  {
+    "imagen": "colecciones.RES/03_GreciaAntigua.webp",
     "descripcion": "Recopilación de monedas de la Antigua Grecia, desde la clásica hasta el periodo romano, cubriendo toda su extensión.",
     "contexto": "La Antigua Grecia fue una cuna de conocimiento y creatividad, donde florecieron la filosofía, el arte, la política y la ciencia que aún influyen en el mundo moderno.",
     "compra": "",
@@ -18,7 +27,7 @@
     "height": 6029
   },
   {
-    "imagen": "colecciones.RES/03_Aquemenidas.webp",
+    "imagen": "colecciones.RES/04_Aquemenidas.webp",
     "descripcion": "Conjunto de monedas imperiales persas durante la monarquía aqueménida, desde Darío I hasta la caída ante Alejandro Magno.",
     "contexto": "El Imperio aqueménida fue una vasta y diversa potencia que unió culturas bajo un gobierno organizado, destacándose por su tolerancia, administración eficiente y grandiosas obras.",
     "compra": "",
@@ -27,25 +36,25 @@
     "height": 3444
   },
   {
-    "imagen": "colecciones.RES/04_PeriodoHelenistico.webp",
+    "imagen": "colecciones.RES/05_PeriodoHelenistico.webp",
     "descripcion": "Series de monedas helenísticas, desde los argéadas de Macedonia hasta los reinos fundados por los diádocos de Alejandro Magno.",
     "contexto": "El periodo helenístico fue una era de intensa mezcla cultural, donde las ideas griegas se difundieron y fusionaron con tradiciones de Asia y Egipto, creando nuevas formas de arte, ciencia y pensamiento.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 2823
+    "height": 2833
   },
   {
-    "imagen": "colecciones.RES/05_PueblosHispaniaPrerromana.webp",
+    "imagen": "colecciones.RES/06_PueblosHispaniaPrerromana.webp",
     "descripcion": "",
     "contexto": "",
     "compra": "",
     "carpeta": "colecciones.RES",
-    "width": 8391,
-    "height": 6075
+    "width": 8930,
+    "height": 6472
   },
   {
-    "imagen": "colecciones.RES/06_DenariosIbericos.webp",
+    "imagen": "colecciones.RES/07_DenariosIbericos.webp",
     "descripcion": "Selección de los denarios ibéricos más representativos, incluyendo pueblos íberos, celtíberos y vascones.",
     "contexto": "Estos pueblos vivían en oppida fortificados como comunidades tribales, con una economía basada en la agricultura y la metalurgia y contactos comerciales con el Mediterráneo.",
     "compra": "",
@@ -54,16 +63,16 @@
     "height": 3741
   },
   {
-    "imagen": "colecciones.RES/07_BaskunesExtendido.webp",
+    "imagen": "colecciones.RES/08_BaskunesExtendido.webp",
     "descripcion": "Recopilación de monedas de la ceca de Baskunes/Barskunes incluyendo diferentes variantes de cada tipo.",
     "contexto": "Con su inconfundible epigrafía, Baskunes se erige como la ceca más emblemática y el principal referente numismático para entender la identidad de los vascones en la antigüedad.",
     "compra": "",
     "carpeta": "colecciones.RES",
     "width": 5000,
-    "height": 1891
+    "height": 2080
   },
   {
-    "imagen": "colecciones.RES/07_Baskunes.webp",
+    "imagen": "colecciones.RES/08_Baskunes.webp",
     "descripcion": "Recopilación de monedas de la ceca de Baskunes/Barskunes con un ejemplo de cada tipo.",
     "contexto": "Los vascones fueron un pueblo prerromano del área pirenaica y navarra, caracterizado por su resistencia a la plena integración cultural en los procesos de celtización, helenización y punicización que afectaron a otras zonas de la península.",
     "compra": "",
@@ -72,7 +81,7 @@
     "height": 2439
   },
   {
-    "imagen": "colecciones.RES/08_PueblosGalos.webp",
+    "imagen": "colecciones.RES/09_PueblosGalos.webp",
     "descripcion": "Selección de monedas de los pueblos galos más representativos.",
     "contexto": "Esta colección compone un mapa numismático y político que captura la esencia de la Galia antigua, abarcando desde las principales potencias independientes hasta los pueblos ya sometidos o asimilados a la órbita de Roma.",
     "compra": "",
@@ -81,7 +90,7 @@
     "height": 4416
   },
   {
-    "imagen": "colecciones.RES/09_FasesMonedaRomana.webp",
+    "imagen": "colecciones.RES/10_FasesMonedaRomana.webp",
     "descripcion": "Fases de las monedas romanas más extendidas desde el aes rude hasta el nummus minimus.",
     "contexto": "Esta crónica monetaria evoluciona desde la solidez de la expansión republicana y el orden de la Pax Romana, hasta la vorágine inflacionaria que marcó la agonía del Imperio.",
     "compra": "",
@@ -90,7 +99,7 @@
     "height": 2234
   },
   {
-    "imagen": "colecciones.RES/10_AsesRepublicaRomana.webp",
+    "imagen": "colecciones.RES/11_AsesRepublicaRomana.webp",
     "descripcion": "Ases de la República Romana, desde el aes grave de un cuarto de kilo hasta el as de 10-15 gramos que seguiría en el Imperio.",
     "contexto": "El as fue la unidad básica de moneda en la República Romana, utilizada principalmente para transacciones cotidianas. Inicialmente representaba la medida de peso de un libra de bronce.",
     "compra": "",
@@ -99,7 +108,7 @@
     "height": 3342
   },
   {
-    "imagen": "colecciones.RES/11_MonedasRepublicaRomana.webp",
+    "imagen": "colecciones.RES/12_MonedasRepublicaRomana.webp",
     "descripcion": "Conjunto de monedas de la República Romana que incluye todos los valores desde la quartuncia hasta el denario.",
     "contexto": "La República Romana estableció sistemas políticos, legales y administrativos que sirvieron de modelo para muchas naciones europeas posteriores y difundió la cultura y la lengua latina que influyeron en gran parte del continente.",
     "compra": "",
@@ -108,7 +117,7 @@
     "height": 1636
   },
   {
-    "imagen": "colecciones.RES/12_DenariosRepublicaRomana.webp",
+    "imagen": "colecciones.RES/13_DenariosRepublicaRomana.webp",
     "descripcion": "Serie de denarios de todas las familias (gens) de la República Romana que acuñaron en plata en época preimperatorial.",
     "contexto": "Las familias o gens de la República romana mostraban su prestigio en sus monedas, donde a menudo destacaban a sus antepasados ilustres así como otros mensajes políticos.",
     "compra": "",
@@ -117,7 +126,7 @@
     "height": 4035
   },
   {
-    "imagen": "colecciones.RES/13_DenariosSaturnino.webp",
+    "imagen": "colecciones.RES/14_DenariosSaturnino.webp",
     "descripcion": "Conjunto de denarios de Lucio Apuleyo Saturnino con todas las marcas de control.",
     "contexto": "Saturnino, un tribuno turbulento de finales de la República romana, usó su alianza con Mario y sus reformas radicales para desafiar al Senado, convirtiéndose en símbolo de la creciente tensión política que desgarraba a Roma.",
     "compra": "",
@@ -126,7 +135,7 @@
     "height": 1611
   },
   {
-    "imagen": "colecciones.RES/14_DenariosLegionarios.webp",
+    "imagen": "colecciones.RES/15_DenariosLegionarios.webp",
     "descripcion": "Conjunto de denarios acuñados por Marco Antonio a nombre de todas las legiones.",
     "contexto": "Las legiones de Marco Antonio fueron un pilar esencial en su lucha por el poder tras la muerte de César, si bien no poseía tantas como parecen indicar las monedas.",
     "compra": "",
@@ -135,7 +144,7 @@
     "height": 2376
   },
   {
-    "imagen": "colecciones.RES/15_EmperadoresRomanos.webp",
+    "imagen": "colecciones.RES/16_EmperadoresRomanos.webp",
     "descripcion": "Conjunto de monedas de todos los emperadores oficiales de Roma desde Augusto hasta la división definitiva del Imperio.",
     "contexto": "Los emperadores romanos utilizaban las monedas para difundir su imagen y autoridad, convirtiendo cada moneda en un instrumento de propaganda imperial.",
     "compra": "",
@@ -144,7 +153,7 @@
     "height": 3020
   },
   {
-    "imagen": "colecciones.RES/16_MujeresImperioRomano.webp",
+    "imagen": "colecciones.RES/17_MujeresImperioRomano.webp",
     "descripcion": "Selección de monedas de las mujeres más importantes del Imperio Romano.",
     "contexto": "Las mujeres en el Imperio Romano jugaron roles decisivos en la política y la sociedad, influyendo en emperadores y decisiones clave, aunque sin gozar de derechos políticos formales.",
     "compra": "",
@@ -153,7 +162,7 @@
     "height": 2544
   },
   {
-    "imagen": "colecciones.RES/17_UsurpadoresRomanos.webp",
+    "imagen": "colecciones.RES/18_UsurpadoresRomanos.webp",
     "descripcion": "Selección de monedas de los principales usurpadores romanos indicando dónde gobernaron y los emperadores usurpados.",
     "contexto": "Los usurpadores romanos fueron individuos que intentaron arrebatar el poder al emperador legítimo, proclamándose emperadores en provincias o ejércitos rebeldes y desatando conflictos internos y crisis políticas.",
     "compra": "",
@@ -162,7 +171,7 @@
     "height": 1713
   },
   {
-    "imagen": "colecciones.RES/18_MilenarioRomaFilipoI.webp",
+    "imagen": "colecciones.RES/19_MilenarioRomaFilipoI.webp",
     "descripcion": "Monedas acuñadas por Filipo I con motivo del milenario de la fundación de Roma.",
     "contexto": "El Milenario de Roma fue la celebración del mil aniversario de la fundación de la ciudad, marcada por ceremonias, juegos y actos religiosos para honrar su historia y legitimidad.",
     "compra": "",
@@ -171,7 +180,7 @@
     "height": 3024
   },
   {
-    "imagen": "colecciones.RES/19_ZooGalieno.webp",
+    "imagen": "colecciones.RES/20_ZooGalieno.webp",
     "descripcion": "El 'zoo de Galieno': conjunto de antoninianos de Galieno en los que aparecen animales y criaturas mitológicas.",
     "contexto": "La explicación más probable de la presencia de animales en tantas monedas de Galieno es como petición de protección a los dioses a los que aparecen ligadas, fundamental en tiempos de crisis.",
     "compra": "",
@@ -180,7 +189,7 @@
     "height": 3050
   },
   {
-    "imagen": "colecciones.RES/20_AnimalesZooGalieno.webp",
+    "imagen": "colecciones.RES/21_AnimalesZooGalieno.webp",
     "descripcion": "Selección de animales de las monedas del zoo de Galieno con fotos de los animales reales que representaban.",
     "contexto": "Al estudiar los animales, especialmente los rumiantes, que aparecen en las monedas de Galieno se muestra que hay una variedad y un conocimiento zoológico mayor de lo que parece a simple vista.",
     "compra": "",
@@ -189,7 +198,7 @@
     "height": 3375
   },
   {
-    "imagen": "colecciones.RES/21_AntoninianosProbo.webp",
+    "imagen": "colecciones.RES/22_AntoninianosProbo.webp",
     "descripcion": "Selección de antoninianos de Probo, con los tipos más comunes que cubren una gran variedad de reversos.",
     "contexto": "Bajo Probo, los antoninianos alcanzaron su punto máximo en riqueza iconográfica y calidad artística, con una gran variedad de motivos que combinaban propaganda, simbolismo y destreza numismática.",
     "compra": "",
@@ -198,7 +207,7 @@
     "height": 3137
   },
   {
-    "imagen": "colecciones.RES/22_AntoninianosProboEQVITI.webp",
+    "imagen": "colecciones.RES/23_AntoninianosProboEQVITI.webp",
     "descripcion": "Serie de antoninianos de la ceca de Ticinum donde se descubre el término EQVITI al ordenar las oficinas.",
     "contexto": "Esta serie es un ejemplo de propaganda numismática creativa y destaca la importancia de la caballería para Probo en el gobierno y en sus campañas militares.",
     "compra": "",
@@ -207,7 +216,7 @@
     "height": 3294
   },
   {
-    "imagen": "colecciones.RES/23_ConstantinoIGloriaExercitvs.webp",
+    "imagen": "colecciones.RES/24_ConstantinoIGloriaExercitvs.webp",
     "descripcion": "Conjunto de centenionales GLORIA EXERCITVS de Constantino I en todas sus cecas y de Antioquía con todos los emperadores.",
     "contexto": "El tipo GLORIA EXERCITVS se convirtió en el diseño más difundido de la historia de Roma, simbolizando la fuerza militar y la legitimidad del poder imperial.",
     "compra": "",
@@ -216,7 +225,7 @@
     "height": 2287
   },
   {
-    "imagen": "colecciones.RES/24_VRBSROMA.webp",
+    "imagen": "colecciones.RES/25_VRBSROMA.webp",
     "descripcion": "Selección de monedas conmemorativas de Roma con motivo de la fundación de Constantinopla. Incluye todas las cecas y diversas oficinas.",
     "contexto": "Tras fundar Constantinopla, Constantino acuñó las monedas VRBS ROMA para subrayar que Roma seguía siendo el símbolo central de poder y legitimidad del Imperio.",
     "compra": "",
@@ -225,7 +234,7 @@
     "height": 2819
   },
   {
-    "imagen": "colecciones.RES/25_FelTempReparatio.webp",
+    "imagen": "colecciones.RES/26_FelTempReparatio.webp",
     "descripcion": "Colección de monedas FEL TEMP REPARATIO con todos los tipos, emperadores y cecas principales.",
     "contexto": "Las monedas FEL TEMP REPARATIO celebraban la “restauración de los tiempos felices”, transmitiendo victoria, estabilidad y legitimidad del emperador tras décadas de crisis.",
     "compra": "",
@@ -234,7 +243,7 @@
     "height": 2696
   },
   {
-    "imagen": "colecciones.RES/26_DeidadesMitologiaGrecorromana.webp",
+    "imagen": "colecciones.RES/27_DeidadesMitologiaGrecorromana.webp",
     "descripcion": "Selección de deidades de las mitologías griega y romana. En la fila superior aparecen los principales 12 dioses olímpicos.",
     "contexto": "En Grecia y Roma, los dioses y la mitología fueron clave para explicar el mundo, guiar la vida y reforzar la cultura, la política y los valores de cada sociedad.",
     "compra": "",
@@ -243,7 +252,7 @@
     "height": 3406
   },
   {
-    "imagen": "colecciones.RES/27_China.webp",
+    "imagen": "colecciones.RES/28_China.webp",
     "descripcion": "Conjunto de monedas de todos los periodos/dinastías de la historia de China.",
     "contexto": "China es una civilización milenaria caracterizada por dinastías poderosas, avances en tecnología, filosofía y un Estado centralizado.",
     "compra": "",
@@ -252,7 +261,7 @@
     "height": 2922
   },
   {
-    "imagen": "colecciones.RES/28_India.webp",
+    "imagen": "colecciones.RES/29_India.webp",
     "descripcion": "Selección de monedas representativas de la historia de la India.",
     "contexto": "India es una civilización antigua caracterizada por su enorme diversidad cultural, religiosa y lingüística, con un desarrollo intelectual y artístico destacado.",
     "compra": "",
@@ -261,7 +270,7 @@
     "height": 2170
   },
   {
-    "imagen": "colecciones.RES/29_DracmasSasanidas.webp",
+    "imagen": "colecciones.RES/30_DracmasSasanidas.webp",
     "descripcion": "Conjunto de dracmas imperiales persas de los más importantes emperadores sasánidas.",
     "contexto": "El Imperio sasánida fue un imperio persa rival de Roma y Bizancio, con zoroastrismo como religión oficial y destacado desarrollo militar y cultural.",
     "compra": "",
@@ -270,7 +279,7 @@
     "height": 2493
   },
   {
-    "imagen": "colecciones.RES/30_MonedasIslamicas.webp",
+    "imagen": "colecciones.RES/31_MonedasIslamicas.webp",
     "descripcion": "Selección de monedas de los principales imperios/civilizaciones del mundo islámico.",
     "contexto": "El mundo islámico es una civilización surgida en el siglo VII, caracterizada por su unidad religiosa bajo el Islam, gran diversidad cultural y lingüística, y notables avances científicos, artísticos y comerciales.",
     "compra": "",
@@ -279,7 +288,7 @@
     "height": 2493
   },
   {
-    "imagen": "colecciones.RES/31_AlAndalus.webp",
+    "imagen": "colecciones.RES/32_AlAndalus.webp",
     "descripcion": "Selección de monedas del periodo de dominación islámica en la península ibérica (Al-Ándalus).",
     "contexto": "De la sobria hegemonía del dirham califal a la sofisticación estética de la moneda nazarí, Al-Ándalus floreció durante casi ocho siglos como el puente cultural y científico entre Oriente y Occidente.",
     "compra": "",
@@ -288,7 +297,7 @@
     "height": 2504
   },
   {
-    "imagen": "colecciones.RES/32_ReinosMedievalesEuropeos.webp",
+    "imagen": "colecciones.RES/33_ReinosMedievalesEuropeos.webp",
     "descripcion": "Selección de monedas que cubren el periodo medieval a lo largo de Europa.",
     "contexto": "La época medieval en Europa fue un periodo caracterizado por la fragmentación política, el feudalismo, la influencia de la Iglesia y un desarrollo gradual de la cultura, el comercio y las ciudades.",
     "compra": "",
@@ -297,7 +306,7 @@
     "height": 4725
   },
   {
-    "imagen": "colecciones.RES/33_ImperioBizantino.webp",
+    "imagen": "colecciones.RES/34_ImperioBizantino.webp",
     "descripcion": "Conjunto de monedas de los principales emperadores bizantinos desde la división del imperio romano con Teodosio I.",
     "contexto": "El Imperio bizantino fue la continuación del Imperio romano en Oriente, centrado en Constantinopla, con fuerte influencia cristiana y gran poder político y cultural.",
     "compra": "",
@@ -306,7 +315,7 @@
     "height": 2509
   },
   {
-    "imagen": "colecciones.RES/34_SacroImperioRomanoGermanico.webp",
+    "imagen": "colecciones.RES/35_SacroImperioRomanoGermanico.webp",
     "descripcion": "Selección de los más influyentes reinos del Sacro Imperio Romano Germánico.",
     "contexto": "El Sacro Imperio fue una confederación de territorios en Europa central (962‑1806) heredero simbólico de Roma, con emperador electo y mezcla de poder religioso y secular.",
     "compra": "",
@@ -315,7 +324,7 @@
     "height": 2700
   },
   {
-    "imagen": "colecciones.RES/35_EspanaMedieval.webp",
+    "imagen": "colecciones.RES/36_EspanaMedieval.webp",
     "descripcion": "Selección de monedas de la España cristiana entre los visigodos y los Reyes Católicos.",
     "contexto": "Forjada en el avance hacia el sur desde los reductos del norte, la España cristiana evolucionó desde los primeros dineros de vellón hasta la potencia del real, con la unión dinástica de los Reyes Católicos y el nacimiento del Estado moderno.",
     "compra": "",
@@ -324,7 +333,7 @@
     "height": 2555
   },
   {
-    "imagen": "colecciones.RES/36_ReinoNavarra.webp",
+    "imagen": "colecciones.RES/37_ReinoNavarra.webp",
     "descripcion": "Selección de monedas de los principales monarcas de Navarra.",
     "contexto": "El Reino de Navarra fue el gran estado bisagra de la Edad Media occidental, que funcionó como puerta de entrada cultural y comercial hacia la Península Ibérica mientras defendía ferozmente su soberanía e identidad frente a los gigantes expansivos de Francia, Castilla y Aragón.",
     "compra": "",
@@ -333,7 +342,7 @@
     "height": 3375
   },
   {
-    "imagen": "colecciones.RES/37_MonedasAlambreRusia.webp",
+    "imagen": "colecciones.RES/38_MonedasAlambreRusia.webp",
     "descripcion": "Conjunto de monedas de alambre de los principales zares de Rusia hasta Pedro I el Grande.",
     "contexto": "La Rusia de los zares fue un Estado autocrático en expansión, con la dinastía Rurik primero y Romanov después, marcada por la centralización del poder, la influencia de la Iglesia ortodoxa y la sociedad feudal.",
     "compra": "",
@@ -342,7 +351,7 @@
     "height": 2984
   },
   {
-    "imagen": "colecciones.RES/38_ImperioOtomano.webp",
+    "imagen": "colecciones.RES/39_ImperioOtomano.webp",
     "descripcion": "Selección de los principales monarcas del Imperio Otomano.",
     "contexto": "El Imperio Otomano pasó de ser un principado guerrero fronterizo en Anatolia a convertirse en una potencia califal con dominios en tres continentes, hasta su colapso definitivo tras la Primera Guerra Mundial.",
     "compra": "",
@@ -351,7 +360,7 @@
     "height": 2197
   },
   {
-    "imagen": "colecciones.RES/39_MonarcasEspana.webp",
+    "imagen": "colecciones.RES/40_MonarcasEspana.webp",
     "descripcion": "Conjunto de monarcas de España desde su unificación con los Reyes Católicos.",
     "contexto": "La monarquía española es una institución histórica y política que ha gobernado España desde la unificación de los reinos en el siglo XV, combinando poder dinástico, religioso y político a lo largo de su historia.",
     "compra": "",
@@ -360,7 +369,7 @@
     "height": 1925
   },
   {
-    "imagen": "colecciones.RES/40_ImperioRusoURSS.webp",
+    "imagen": "colecciones.RES/41_ImperioRusoURSS.webp",
     "descripcion": "Conjunto de monedas del Imperio Ruso y la URSS para los principales emperadores y presidentes respectivamente.",
     "contexto": "Rusia pasó de ser un imperio autocrático modernizado y expansionista a convertirse en un Estado socialista tras la Revolución de 1917, centralizado políticamente, industrializado y con ideología comunista que transformó la sociedad y la economía.",
     "compra": "",
@@ -369,7 +378,7 @@
     "height": 1628
   },
   {
-    "imagen": "colecciones.RES/41_MonarcasReinoUnido.webp",
+    "imagen": "colecciones.RES/42_MonarcasReinoUnido.webp",
     "descripcion": "Conjunto de monedas del Reino Unido desde su formación.",
     "contexto": "La monarquía del Reino Unido es la institución encabezada por el monarca británico desde la unión de Inglaterra y Escocia en 1707.",
     "compra": "",
@@ -378,7 +387,7 @@
     "height": 2827
   },
   {
-    "imagen": "colecciones.RES/42_PlataXVIII-XX.webp",
+    "imagen": "colecciones.RES/43_PlataXVIII-XX.webp",
     "descripcion": "Selección de las principales monedas de plata de gran peso (~20g) desde el siglo XVIII al XX.",
     "contexto": "Las monedas de plata de gran tamaño fueron piezas de uso corriente, valor estable y aceptación internacional, reflejando cambios políticos y económicos de su época.",
     "compra": "",
@@ -387,7 +396,7 @@
     "height": 3020
   },
   {
-    "imagen": "colecciones.RES/43_CentsCabezaIndia.webp",
+    "imagen": "colecciones.RES/44_CentsCabezaIndia.webp",
     "descripcion": "Centavos de dólar de EE. UU. de los tipos aguila volando y cabeza india, desde 1857 hasta 1909, cuando finalizó su acuñación.",
     "contexto": "El periodo de estos primeros centavos de pequeño tamaño coincide con el periodo del lejano oeste (1865-1890) marcado por la colonización de territorios indígenas, el auge de la ganadería y minería, y la construcción del ferrocarril.",
     "compra": "",
@@ -396,7 +405,7 @@
     "height": 4370
   },
   {
-    "imagen": "colecciones.RES/44_CentsLincoln.webp",
+    "imagen": "colecciones.RES/45_CentsLincoln.webp",
     "descripcion": "Centavos de dólar de EE. UU. del tipo Lincoln para todos los años, desde 1909 hasta 2025, cuando finalizó su acuñación.",
     "contexto": "El periodo de los centavos de Lincoln coincide con el auge, en las dos grandes guerras, esplendor, en la guerra fría y tras la caída de la URSS, y decadencia del imperio estadounidense.",
     "compra": "",
@@ -405,7 +414,7 @@
     "height": 4475
   },
   {
-    "imagen": "colecciones.RES/45_MonedasContemporaneas.webp",
+    "imagen": "colecciones.RES/46_MonedasContemporaneas.webp",
     "descripcion": "Colección de un ejemplo de cada moneda oficial reconocida por ISO 4217 desde 1978, inluyendo algunas no oficiales.",
     "contexto": "La Edad Contemporánea estuvo marcada en numismática por el paso de monedas de metales preciosos a sistemas basados en el dinero fiduciario, la industrialización de la acuñación y la aparición de monedas nacionales modernas.",
     "compra": "",
@@ -414,7 +423,7 @@
     "height": 4890
   },
   {
-    "imagen": "colecciones.RES/46_Gemas.webp",
+    "imagen": "colecciones.RES/47_Gemas.webp",
     "descripcion": "Selección de las gemas y piedras preciosas más importantes.",
     "contexto": "Las gemas y piedras preciosas son minerales o materiales naturales valorados por su belleza, rareza y durabilidad, utilizados en joyería, arte y como símbolos de poder y estatus.",
     "compra": "",
@@ -423,7 +432,7 @@
     "height": 4536
   },
   {
-    "imagen": "colecciones.RES/47_Fosiles.webp",
+    "imagen": "colecciones.RES/48_Fosiles.webp",
     "descripcion": "Selección de fósiles que cubren el desarrollo de la vida desde los estromatolitos hasta los grandes mamíferos.",
     "contexto": "Los fósiles son huellas de organismos del pasado que permiten reconstruir la historia de la vida, mostrando cómo surgieron, cambiaron y desaparecieron todo tipo de organismos.",
     "compra": "",
@@ -432,7 +441,7 @@
     "height": 2360
   },
   {
-    "imagen": "colecciones.RES/48_Microprocesadores.webp",
+    "imagen": "colecciones.RES/49_Microprocesadores.webp",
     "descripcion": "Colección de microprocesadores con todos los tipos principales.",
     "contexto": "Los microprocesadores son circuitos integrados que actúan como el “cerebro” de los dispositivos electrónicos, y su aparición revolucionó la historia al permitir la miniaturización de la informática y la digitalización de la vida contemporánea.",
     "compra": "",
@@ -441,7 +450,7 @@
     "height": 5286
   },
   {
-    "imagen": "colecciones.RES/49_Videojuegos.webp",
+    "imagen": "colecciones.RES/50_Videojuegos.webp",
     "descripcion": "Colección de un ejemplo de juego de cada gran consola de la historia de los videojuegos.",
     "contexto": "Los videojuegos son una forma de entretenimiento digital interactivo que han influido en la cultura, la tecnología y la economía, combinando narrativa, arte y programación para crear experiencias inmersivas cada vez más complejas.",
     "compra": "",
@@ -450,7 +459,7 @@
     "height": 6646
   },
   {
-    "imagen": "colecciones.RES/50_JuegosGameBoyMasVendidos.webp",
+    "imagen": "colecciones.RES/51_JuegosGameBoyMasVendidos.webp",
     "descripcion": "Lista de juegos de Game Boy que vendieron un millón o más unidades.",
     "contexto": "El Game Boy revolucionó el mundo del videojuego al llevar la diversión portátil a millones de personas, demostrando que los grandes juegos dependen principalmente de la creatividad y la accesibilidad.",
     "compra": "",
@@ -459,7 +468,7 @@
     "height": 3250
   },
   {
-    "imagen": "colecciones.RES/51_JuegosGameBoyCodes.webp",
+    "imagen": "colecciones.RES/52_JuegosGameBoyCodes.webp",
     "descripcion": "Colección de un ejemplo de cada código de zona de los juegos de Game Boy.",
     "contexto": "Los códigos de zona indican para qué región del mundo se distribuyó cada juego, aunque los cartuchos no tenían bloqueo de región.",
     "compra": "",
@@ -468,7 +477,7 @@
     "height": 4669
   },
   {
-    "imagen": "colecciones.RES/52_JuegosGameBoy.webp",
+    "imagen": "colecciones.RES/53_JuegosGameBoy.webp",
     "descripcion": "Colección de juegos de Game Boy seleccionados por importancia y preferencia.",
     "contexto": "Esta selección combina criterio histórico y afinidad personal, y que refleja la forma en que cada jugador construye su propia memoria afectiva a partir de títulos que dejaron huella por motivos muy diferentes.",
     "compra": "",
@@ -13200,7 +13209,7 @@
     "carpeta": "13_MonedasLejanoOriente",
     "html_25d": "",
     "width": 1000,
-    "height": 515
+    "height": 519
   },
   {
     "imagen": "13_MonedasLejanoOriente/chinaTangWuzong.webp",
@@ -13789,12 +13798,21 @@
   },
   {
     "imagen": "14_MonedasIndia/bele.webp",
-    "descripcion": "Bele (1/10 fanam) 'imagen sagrada/leyenda real' (Vijayanagara) | siglo XVI | 0.04g 2mm",
+    "descripcion": "Bele (1/10 fanam) 'imagen sagrada/leyenda real' (Imperio Vijayanagara) | siglo XVI | 0.04g 2mm",
     "contexto": "Esta moneda es la más pequeña de la historia y se corresponde a un rico Imperio del Sur de la India que alcanzó su mayor auge en el siglo XVI, cuando comenzaron los ataques musulmanes.",
     "carpeta": "14_MonedasIndia",
     "html_25d": "",
     "width": 1000,
     "height": 674
+  },
+  {
+    "imagen": "14_MonedasIndia/mediaPagodaVijayanagara.webp",
+    "descripcion": "Media pagoda (5 fanam) de Krishna Deva Raya 'Balakrishna sentado/leyenda real' (Imperio Vijayanagara) | 1509-1530 | 1.71g 11mm",
+    "contexto": "Acuñada durante el máximo esplendor del Imperio Vijayanagar bajo su emperador más ilustre, esta pieza de oro es un testimonio del inmenso poderío económico y comercial de la India del sur precolonial.",
+    "carpeta": "14_MonedasIndia",
+    "html_25d": "",
+    "width": 1000,
+    "height": 578
   },
   {
     "imagen": "14_MonedasIndia/mogol.webp",
@@ -14193,6 +14211,15 @@
     "height": 523
   },
   {
+    "imagen": "15_MonedasIslamicas/dinarFatimi.webp",
+    "descripcion": "Cuarto de dinar de al-Mu'izz li-Din Allah (Califato fatimí) | 953-975 | 0.97g 13mm",
+    "contexto": "Fundamental en las extensas redes comerciales del Mediterráneo, esta fracción de dinar refleja la hegemonía del oro fatimí durante el reinado del califa que fundó El Cairo.",
+    "carpeta": "15_MonedasIslamicas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 526
+  },
+  {
     "imagen": "15_MonedasIslamicas/felusSafarida.webp",
     "descripcion": "Felús de Ahmad bin Muhammad (Sistán, Emirato Safárida) | 922-963 | 2.27g 21mm",
     "contexto": "La dinastía Safárida fue la primera surgida en Irán tras la conquista musulmana de Persia. La fundó un artesano del cobre (saffar) que se convirtió en un señor de la guerra.",
@@ -14209,6 +14236,24 @@
     "html_25d": "",
     "width": 1000,
     "height": 520
+  },
+  {
+    "imagen": "15_MonedasIslamicas/dirhamSamanida.webp",
+    "descripcion": "Dirham de Abd al-Malik I (Bukhara, Emirato Samánida) | 960-961 | 3.12g 30mm",
+    "contexto": "Famoso por alimentar las grandes redes comerciales medievales, este tipo de dirham samánida fue la principal fuente de plata atesorada por los vikingos.",
+    "carpeta": "15_MonedasIslamicas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 522
+  },
+  {
+    "imagen": "15_MonedasIslamicas/multipleDirhamSamanida.webp",
+    "descripcion": "Múltiple dirham de Nuh III ibn Mansur (región del Hindu Kush, Emirato Samánida) | 976-997 | 9.16g 43mm",
+    "contexto": "Excepcional por su gran módulo y peso, este múltiple dirham refleja la enorme riqueza de las minas de plata de Asia Central bajo dominio samánida.",
+    "carpeta": "15_MonedasIslamicas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 525
   },
   {
     "imagen": "15_MonedasIslamicas/gaznavida.webp",
@@ -14884,6 +14929,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 546
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/miliaresionLeonIII.webp",
+    "descripcion": "Miliaresion de León III 'cruz' (Constantinopla) | 720-741 | 1.76g 22mm",
+    "contexto": "En esta moneda, basada en los dirham y a veces acuñadas sobre ellos, se sustituyen deliberadamente las figuras divinas por texto y una cruz, reflejando la controversia iconoclasta iniciada por León III.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 537
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/follisConstantinoV.webp",
@@ -15984,8 +16038,17 @@
     "height": 522
   },
   {
+    "imagen": "16_MonedasAbsolutismoEuropeo/medioTestonEnriqueII.webp",
+    "descripcion": "Medio testón de Enrique II 'Enrique II/escudo' (Paris, Francia) | 1588 | 4.80g 25mm",
+    "contexto": "Acuñada mecánicamente en París, esta revolucionaria pieza introduce la fabricación a molino, marcando el histórico inicio de la producción masiva de moneda moderna.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 535
+  },
+  {
     "imagen": "16_MonedasAbsolutismoEuropeo/doubleTournoisEnriqueIII.webp",
-    "descripcion": "Double tournois de Enrique III 'Enrique II/flores de lis' (Paris, Francia) | 1588 | 2.54g 20mm",
+    "descripcion": "Double tournois de Enrique III 'Enrique III/flores de lis' (Paris, Francia) | 1588 | 2.54g 20mm",
     "contexto": "Enrique III, último rey de la casa Valois, fue asesinado en 1589 por un monje fanático, Jacques Clément, en el contexto de las Guerras de Religión. Esto dejó el trono a Enrique IV, el primer Borbón.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "html_25d": "",
@@ -16129,12 +16192,21 @@
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/pfennigBohemia1.webp",
-    "descripcion": "Pfennig de Wladislaus II 'león de doble cola' (Reino de Bohemia, Sacro Imperio Romano Germánico) | 1471-1516 | 0.31g 14mm",
-    "contexto": "La llegada al trono del polaco Wladislaus II, también rey de Hungría, desencadenó que Bohemia se alejara progresivamente del Imperio.",
+    "descripcion": "Pfennig de Vladislao II 'león de doble cola' (Reino de Bohemia, Sacro Imperio Romano Germánico) | 1471-1516 | 0.31g 14mm",
+    "contexto": "La llegada al trono del polaco Vladislao II, también rey de Hungría, desencadenó que Bohemia se alejara progresivamente del Imperio.",
     "carpeta": "16_MonedasAbsolutismoEuropeo",
     "html_25d": "",
     "width": 1000,
     "height": 518
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/pragerGroschen.webp",
+    "descripcion": "Groschen de Vladislao II 'león de doble cola/corona' (Reino de Bohemia, Sacro Imperio Romano Germánico) | 1471-1516 | 2.82g 28mm",
+    "contexto": "Referente indiscutible del comercio medieval centroeuropeo, este groschen de Praga fue la pieza clave en la estandarización de la plata gruesa en Europa.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 527
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/pfennigTreveris.webp",
@@ -16207,6 +16279,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 499
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/taleroSajon.webp",
+    "descripcion": "Tálero 'los tres hermanos: Christian II, Johann Georg I y August' (Electorado de Sajonia, Sacro Imperio Romano Germánico) | 1598 | 28.92g 41mm",
+    "contexto": "Pieza clave en la consolidación del tálero de plata pesada. Los tres hermanos gobernaron Sajonia bajo la tutela de Friedrich Wilhelm I.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 545
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/kreuzerEstrasburgo.webp",
@@ -16342,6 +16423,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 502
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/dineroReinoJerusalen.webp",
+    "descripcion": "Dinero de Balduino III 'cruz/torre de David' (Reino de Jerusalén) | 1143-1163 | 0.88g 17mm",
+    "contexto": "Emblema numismático indiscutible de las Cruzadas, este dinero estandarizó la economía del Reino Latino de Jerusalén durante su época de máximo esplendor en Tierra Santa.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 538
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/dineroAntioquiaBohemundoIII-IV.webp",
@@ -16630,6 +16720,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 549
+  },
+  {
+    "imagen": "16_MonedasAbsolutismoEuropeo/cashTurgesh.webp",
+    "descripcion": "Cash de Turgesh Qagan 'leyenda sogdiana' (Confederación Turgesh, Transoxiana, Asia Central) | 712-738 | 4.92g 24mm",
+    "contexto": "Acuñada en los principados de Sogdiana, esta moneda de formato asiático refleja la fascinante transición comercial y cultural en Asia Central justo antes del avance definitivo del mundo islámico.",
+    "carpeta": "16_MonedasAbsolutismoEuropeo",
+    "html_25d": "",
+    "width": 1000,
+    "height": 556
   },
   {
     "imagen": "16_MonedasAbsolutismoEuropeo/jitalGenghisKhan.webp",
@@ -17091,6 +17190,15 @@
     "height": 531
   },
   {
+    "imagen": "17_MonedasModernas/assignat1793.webp",
+    "descripcion": "Assignat de 125 libras (París, Francia) | 1793 | 1.12g 172x110mm",
+    "contexto": "Papel moneda oficial emitido durante la Revolución Francesa, respaldado por tierras confiscadas, que refleja el caos económico y la severa hiperinflación de la Primera República.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 749,
+    "height": 1000
+  },
+  {
     "imagen": "17_MonedasModernas/centimosRevolucionFrancesa.webp",
     "descripcion": "5 céntimos de la Francia Revolucionaria 'Libertad con gorro frigio' (París) | 1795 | 5.24g 24mm",
     "contexto": "La Convención (1792-1795), tras el Reinado del terror de Robespierre, aprobó una nueva Constitución que daba el poder al Directorio (1795-1799) en un clima de inestabilidad.",
@@ -17424,6 +17532,15 @@
     "height": 545
   },
   {
+    "imagen": "17_MonedasModernas/mediaCoronaJorgeVI1947.webp",
+    "descripcion": "Media corona de Jorge VI (Londres, Imperio Británico) | 1947 | 14.01g 32mm",
+    "contexto": "Esta media corona acuñada en cuproníquel, marca el histórico abandono de la plata para poder saldar las enormes deudas contraídas con Estados Unidos tras la Segunda Guerra Mundial.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 542
+  },
+  {
     "imagen": "17_MonedasModernas/coronaReinoUnidoChurchill1965.webp",
     "descripcion": "Corona de Isabel II 'Isabel II/Winston Churchill' (Londres, Imperio Británico) | 1965 | 28.52g 38.5mm",
     "contexto": "Acuñada en el año de la muerte de Churchill (1965) en honor al que fuera Primer Ministro del Reino Unido durante la 2ªGM y en el periodo entre 1951 y 1955. Además recibió el Premio Nobel de Literatura en 1953.",
@@ -17431,6 +17548,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 521
+  },
+  {
+    "imagen": "17_MonedasModernas/pennyReinoUnido1971.webp",
+    "descripcion": "Penique de Isabel II 'Isabel II/Insignia del Palacio de Westminster' (Londres, Imperio Británico) | 1971 | 3.58g 20mm",
+    "contexto": "Acuñada como \"New Penny\" en 1971, esta primera moneda decimal británica marcó el fin del antiguo sistema de libras, chelines y peniques.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 549
   },
   {
     "imagen": "17_MonedasModernas/coronaReinoUnidoLadyDi1981.webp",
@@ -17539,6 +17665,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 547
+  },
+  {
+    "imagen": "17_MonedasModernas/dolaresAustralia1988.webp",
+    "descripcion": "10 dólares 'Cook y barco/aborigen' (Melbourne, Australia) | 1988 | 1.07g 155x78mm",
+    "contexto": "Emitido para el Bicentenario del país, este billete fue el primero fabricado en polímero, introduciendo la ventana transparente contra la falsificación.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 949,
+    "height": 1000
   },
   {
     "imagen": "17_MonedasModernas/rupia1893.webp",
@@ -18261,6 +18396,15 @@
     "height": 538
   },
   {
+    "imagen": "17_MonedasModernas/lirasBimetalicas.webp",
+    "descripcion": "500 liras 'República Italiana/Quirinal' (Roma, República Italiana) | 1982 | 6.80g 26mm",
+    "contexto": "Primera moneda bimetálica de circulación mundial, una innovación tecnológica que sentó las bases para futuras divisas como el euro.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 551
+  },
+  {
     "imagen": "17_MonedasModernas/dracmasJorgeI.webp",
     "descripcion": "5 dracmas de Jorge I 'Jorge I/escudo' (París) | 1876 | 24.83g 37mm",
     "contexto": "Jorge I, que era príncipe de Dinamarca, fue elegido monarca por la asamble Nacional de Grecia y reinó durante casi 50 años incrementando el territorio griego.",
@@ -18972,6 +19116,15 @@
     "height": 532
   },
   {
+    "imagen": "17_MonedasModernas/dolares1914.webp",
+    "descripcion": "5 dólares de Woodrow Wilson 'Lincoln' (Washington, Estados Unidos) | 1914 | 1.49g 190x80mm",
+    "contexto": "Perteneciente a la Serie de 1914, este billete de gran formato representa la histórica primera emisión de la recién creada Reserva Federal estadounidense.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 890
+  },
+  {
     "imagen": "17_MonedasModernas/cuartoDolar1917.webp",
     "descripcion": "Cuarto de dólar de Woodrow Wilson 'Libertad/águila' (Filadelfia, Estados Unidos) | 1917 | 6.15g 24mm",
     "contexto": "En abril de 1917 los Estados Unidos entraron en la Primera Guerra Mundial declarando la guerra a los Imperios Centrales, lo que le dio a la contienda el carácter mundial.",
@@ -19168,6 +19321,15 @@
     "html_25d": "",
     "width": 1000,
     "height": 536
+  },
+  {
+    "imagen": "17_MonedasModernas/taelsChina1932.webp",
+    "descripcion": "5 taels 'Yuan Shikai' (Pekin, República de China) | 1932 | 2.16g 204x99mm",
+    "contexto": "Fiel representante del tradicional formato asiático, este billete de 5 taels rinde homenaje al histórico legado de China como inventora mundial del papel moneda.",
+    "carpeta": "17_MonedasModernas",
+    "html_25d": "",
+    "width": 1000,
+    "height": 983
   },
   {
     "imagen": "17_MonedasModernas/centsChina.webp",
